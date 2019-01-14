@@ -132,6 +132,9 @@ Include dependency graph for main.c:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:a14982bc20347a462f767f58c18142919"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919">executeEventLoop</a> ()</td></tr>
+<tr class="memdesc:a14982bc20347a462f767f58c18142919"><td class="mdescLeft">&#160;</td><td class="mdescRight">Signal handler function for ending stack execution.  <a href="#a14982bc20347a462f767f58c18142919">More...</a><br/></td></tr>
+<tr class="separator:a14982bc20347a462f767f58c18142919"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acd4e45a35a64f9cb29b59f63492b61d2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2">LeaveStack</a> (int signal)</td></tr>
 <tr class="memdesc:acd4e45a35a64f9cb29b59f63492b61d2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Signal handler function for ending stack execution.  <a href="#acd4e45a35a64f9cb29b59f63492b61d2">More...</a><br/></td></tr>
 <tr class="separator:acd4e45a35a64f9cb29b59f63492b61d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -145,6 +148,51 @@ Variables</h2></td></tr>
 <tr class="separator:ab8ac9649680f41a382a234e72fdf0476"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
+<a class="anchor" id="a14982bc20347a462f767f58c18142919"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void * executeEventLoop </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Signal handler function for ending stack execution. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">signal</td><td>the signal we received </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Definition at line <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html#l00192">192</a> of file <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html">main.c</a>.</p>
+
+<p>References <a class="el" href="../../d5/dcb/MINGW_2main_8c_source.html#l00029">g_end_stack</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00094">kEipStatusOk</a>, <a class="el" href="../../db/d4f/generic__networkhandler_8c_source.html#l00347">NetworkHandlerProcessOnce()</a>, and <a class="el" href="../../d1/d1b/trace_8h_source.html#l00086">OPENER_TRACE_ERR</a>.</p>
+
+<p>Referenced by <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html#l00047">main()</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d9/dfb/POSIX_2main_8c_a14982bc20347a462f767f58c18142919_cgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+</div>
+</p>
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d9/dfb/POSIX_2main_8c_a14982bc20347a462f767f58c18142919_icgraph.svg" width="240" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+</p>
+
+</div>
+</div>
 <a class="anchor" id="acd4e45a35a64f9cb29b59f63492b61d2"></a>
 <div class="memitem">
 <div class="memproto">
@@ -167,7 +215,7 @@ Variables</h2></td></tr>
   </dd>
 </dl>
 
-<p>Definition at line <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html#l00119">119</a> of file <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html">main.c</a>.</p>
+<p>Definition at line <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html#l00186">186</a> of file <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html">main.c</a>.</p>
 
 <p>References <a class="el" href="../../d5/dcb/MINGW_2main_8c_source.html#l00029">g_end_stack</a>, and <a class="el" href="../../d1/d1b/trace_8h_source.html#l00088">OPENER_TRACE_STATE</a>.</p>
 
@@ -197,9 +245,9 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html#l00032">32</a> of file <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html">main.c</a>.</p>
+<p>Definition at line <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html#l00047">47</a> of file <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html">main.c</a>.</p>
 
-<p>References <a class="el" href="../../df/d91/cipconnectionobject_8c_source.html#l00059">CipConnectionObjectListArrayAllocator()</a>, <a class="el" href="../../df/d91/cipconnectionobject_8c_source.html#l00074">CipConnectionObjectListArrayFree()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00036">CipStackInit()</a>, <a class="el" href="../../dc/d2b/MINGW_2networkconfig_8c_source.html#l00087">ConfigureDomainName()</a>, <a class="el" href="../../dc/d2b/MINGW_2networkconfig_8c_source.html#l00218">ConfigureHostName()</a>, <a class="el" href="../../df/def/POSIX_2networkconfig_8c_source.html#l00031">ConfigureMacAddress()</a>, <a class="el" href="../../dc/d2b/MINGW_2networkconfig_8c_source.html#l00027">ConfigureNetworkInterface()</a>, <a class="el" href="../../df/d91/cipconnectionobject_8c_source.html#l00053">connection_list</a>, <a class="el" href="../../d9/ddc/doublylinkedlist_8c_source.html#l00013">DoublyLinkedListInitialize()</a>, <a class="el" href="../../d5/dcb/MINGW_2main_8c_source.html#l00029">g_end_stack</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00096">kEipStatusError</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00094">kEipStatusOk</a>, <a class="el" href="../../d5/dcb/MINGW_2main_8c_source.html#l00089">LeaveStack()</a>, <a class="el" href="../../db/d4f/generic__networkhandler_8c_source.html#l00419">NetworkHandlerFinish()</a>, <a class="el" href="../../db/d4f/generic__networkhandler_8c_source.html#l00067">NetworkHandlerInitialize()</a>, <a class="el" href="../../db/d4f/generic__networkhandler_8c_source.html#l00347">NetworkHandlerProcessOnce()</a>, <a class="el" href="../../d1/d1b/trace_8h_source.html#l00086">OPENER_TRACE_ERR</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00054">SetDeviceSerialNumber()</a>, and <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00061">ShutdownCipStack()</a>.</p>
+<p>References <a class="el" href="../../df/d91/cipconnectionobject_8c_source.html#l00059">CipConnectionObjectListArrayAllocator()</a>, <a class="el" href="../../df/d91/cipconnectionobject_8c_source.html#l00074">CipConnectionObjectListArrayFree()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00036">CipStackInit()</a>, <a class="el" href="../../dc/d2b/MINGW_2networkconfig_8c_source.html#l00087">ConfigureDomainName()</a>, <a class="el" href="../../dc/d2b/MINGW_2networkconfig_8c_source.html#l00218">ConfigureHostName()</a>, <a class="el" href="../../df/def/POSIX_2networkconfig_8c_source.html#l00031">ConfigureMacAddress()</a>, <a class="el" href="../../dc/d2b/MINGW_2networkconfig_8c_source.html#l00027">ConfigureNetworkInterface()</a>, <a class="el" href="../../df/d91/cipconnectionobject_8c_source.html#l00053">connection_list</a>, <a class="el" href="../../d9/ddc/doublylinkedlist_8c_source.html#l00013">DoublyLinkedListInitialize()</a>, <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html#l00192">executeEventLoop()</a>, <a class="el" href="../../d5/dcb/MINGW_2main_8c_source.html#l00029">g_end_stack</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00096">kEipStatusError</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00094">kEipStatusOk</a>, <a class="el" href="../../d5/dcb/MINGW_2main_8c_source.html#l00089">LeaveStack()</a>, <a class="el" href="../../db/d4f/generic__networkhandler_8c_source.html#l00419">NetworkHandlerFinish()</a>, <a class="el" href="../../db/d4f/generic__networkhandler_8c_source.html#l00067">NetworkHandlerInitialize()</a>, <a class="el" href="../../d1/d1b/trace_8h_source.html#l00086">OPENER_TRACE_ERR</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00054">SetDeviceSerialNumber()</a>, and <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00061">ShutdownCipStack()</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -224,7 +272,7 @@ Here is the call graph for this function:</div>
 
 <p>Flag indicating if the stack should end its execution. </p>
 
-<p>Definition at line <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html#l00029">29</a> of file <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html">main.c</a>.</p>
+<p>Definition at line <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html#l00044">44</a> of file <a class="el" href="../../d9/dfb/POSIX_2main_8c_source.html">main.c</a>.</p>
 
 </div>
 </div>
@@ -234,7 +282,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_efbcf68973d247bbf15f9eecae7f24e3.html">ports</a></li><li class="navelem"><a class="el" href="../../dir_c917a51cd5b3c267ef51fcd06123381d.html">POSIX</a></li><li class="navelem"><a class="el" href="../../d9/dfb/POSIX_2main_8c.html">main.c</a></li>
-    <li class="footer">Generated on Thu Dec 6 2018 13:48:15 for OpENer - Open Source EtherNet/IP(TM)  I/O Target Stack by
+    <li class="footer">Generated on Mon Jan 14 2019 12:34:17 for OpENer - Open Source EtherNet/IP(TM)  I/O Target Stack by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

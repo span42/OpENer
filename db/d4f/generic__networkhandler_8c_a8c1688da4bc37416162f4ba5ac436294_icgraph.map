@@ -1,4 +1,6 @@
 <map id="CheckAndHandleTcpListenerSocket" name="CheckAndHandleTcpListenerSocket">
-<area shape="rect" id="node2" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="245,12,440,39"/>
-<area shape="rect" id="node3" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="488,12,539,39"/>
+<area shape="rect" id="node2" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="245,31,440,57"/>
+<area shape="rect" id="node3" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="528,5,579,32"/>
+<area shape="rect" id="node4" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="488,56,619,83"/>
+<area shape="rect" id="node5" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="667,56,717,83"/>
 </map>

@@ -102,9 +102,10 @@ var NAVTREEINDEX5 =
 "d9/de3/structconnection__path__epath.html#a8e06df09d8e84593faaf7f3bfa5b5e6f":[5,0,26,0],
 "d9/de3/structconnection__path__epath.html#ac5361794a9129b86407bc843e8749038":[5,0,26,2],
 "d9/dfb/POSIX_2main_8c.html":[6,0,0,2,1,1],
-"d9/dfb/POSIX_2main_8c.html#ab8ac9649680f41a382a234e72fdf0476":[6,0,0,2,1,1,2],
-"d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2":[6,0,0,2,1,1,0],
-"d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207":[6,0,0,2,1,1,1],
+"d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919":[6,0,0,2,1,1,0],
+"d9/dfb/POSIX_2main_8c.html#ab8ac9649680f41a382a234e72fdf0476":[6,0,0,2,1,1,3],
+"d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2":[6,0,0,2,1,1,1],
+"d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207":[6,0,0,2,1,1,2],
 "d9/dfb/POSIX_2main_8c_source.html":[6,0,0,2,1,1],
 "da/d73/endianconv_8c.html":[6,0,0,1,4],
 "da/d73/endianconv_8c.html#a1d937f96283fddd879b150db5bf19040":[6,0,0,1,4,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "dc/d39/WIN32_2networkconfig_8h.html#aa50a487e1d7b7640313f76c341db0ed8":[6,0,0,2,2,3,1],
 "dc/d39/WIN32_2networkconfig_8h_source.html":[6,0,0,2,2,3],
 "dc/d3c/structSocketAddressInfoItem.html":[5,0,43],
-"dc/d3c/structSocketAddressInfoItem.html#a3f7a4600643a87742112758468b42146":[5,0,43,4],
-"dc/d3c/structSocketAddressInfoItem.html#a46921af5bef9ee04546194f8d19d3163":[5,0,43,2]
+"dc/d3c/structSocketAddressInfoItem.html#a3f7a4600643a87742112758468b42146":[5,0,43,4]
 };

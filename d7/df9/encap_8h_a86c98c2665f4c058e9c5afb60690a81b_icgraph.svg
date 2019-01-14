@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 536;
+var viewWidth = 670;
 var viewHeight = 104;
 var sectionId = 'dynsection-24';
 </script>
@@ -81,20 +81,20 @@ var sectionId = 'dynsection-24';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge6" class="edge"><title>Node1&#45;&gt;Node3</title>
+<g id="edge8" class="edge"><title>Node1&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M99.8167,-48C156.293,-48 245.392,-48 307.916,-48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="99.6647,-44.5001 89.6647,-48 99.6646,-51.5001 99.6647,-44.5001"/>
 </g>
-<!-- Node5 -->
-<g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" target="_top" xlink:title="Handles data on an established TCP connection, processed connection is given by socket. ">
+<!-- Node7 -->
+<g id="node7" class="node"><title>Node7</title>
+<g id="a_node7"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" target="_top" xlink:title="Handles data on an established TCP connection, processed connection is given by socket. ">
 <polygon fill="none" stroke="black" points="135,-0.5 135,-19.5 263,-19.5 263,-0.5 135,-0.5"/>
 <text text-anchor="middle" x="199" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">HandleDataOnTcpSocket</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node5 -->
-<g id="edge4" class="edge"><title>Node1&#45;&gt;Node5</title>
+<!-- Node1&#45;&gt;Node7 -->
+<g id="edge6" class="edge"><title>Node1&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M94.16,-35.96C115.395,-30.6512 139.995,-24.5012 159.92,-19.5201"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="93.2085,-32.5901 84.356,-38.411 94.9063,-39.3811 93.2085,-32.5901"/>
 </g>
@@ -106,18 +106,44 @@ var sectionId = 'dynsection-24';
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
 <g id="a_node4"><a xlink:href="../../d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" target="_top" xlink:title="main">
-<polygon fill="none" stroke="black" points="490,-38.5 490,-57.5 528,-57.5 528,-38.5 490,-38.5"/>
-<text text-anchor="middle" x="509" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">main</text>
+<polygon fill="none" stroke="black" points="520,-57.5 520,-76.5 558,-76.5 558,-57.5 520,-57.5"/>
+<text text-anchor="middle" x="539" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00">main</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge"><title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M464.255,-48C473.721,-48 482.546,-48 489.754,-48"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="464.199,-44.5001 454.199,-48 464.199,-51.5001 464.199,-44.5001"/>
+<path fill="none" stroke="midnightblue" d="M464.037,-57.9917C485.017,-60.547 505.607,-63.0547 519.713,-64.7728"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="464.414,-54.5118 454.064,-56.777 463.567,-61.4604 464.414,-54.5118"/>
 </g>
-<!-- Node5&#45;&gt;Node3 -->
-<g id="edge5" class="edge"><title>Node5&#45;&gt;Node3</title>
+<!-- Node5 -->
+<g id="node5" class="node"><title>Node5</title>
+<g id="a_node5"><a xlink:href="../../d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" target="_top" xlink:title="Signal handler function for ending stack execution. ">
+<polygon fill="none" stroke="black" points="490,-19.5 490,-38.5 588,-38.5 588,-19.5 490,-19.5"/>
+<text text-anchor="middle" x="539" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">executeEventLoop</text>
+</a>
+</g>
+</g>
+<!-- Node3&#45;&gt;Node5 -->
+<g id="edge4" class="edge"><title>Node3&#45;&gt;Node5</title>
+<path fill="none" stroke="midnightblue" d="M464.037,-38.0083C472.866,-36.933 481.626,-35.8661 489.862,-34.863"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="463.567,-34.5396 454.064,-39.223 464.414,-41.4882 463.567,-34.5396"/>
+</g>
+<!-- Node6 -->
+<g id="node6" class="node"><title>Node6</title>
+<g id="a_node6"><a xlink:href="../../d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" target="_top" xlink:title="main">
+<polygon fill="none" stroke="black" points="624,-19.5 624,-38.5 662,-38.5 662,-19.5 624,-19.5"/>
+<text text-anchor="middle" x="643" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">main</text>
+</a>
+</g>
+</g>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge5" class="edge"><title>Node5&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M598.217,-29C607.558,-29 616.569,-29 623.963,-29"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="598.013,-25.5001 588.013,-29 598.013,-32.5001 598.013,-25.5001"/>
+</g>
+<!-- Node7&#45;&gt;Node3 -->
+<g id="edge7" class="edge"><title>Node7&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M255.331,-21.681C280.857,-27.0699 310.776,-33.3861 334.905,-38.4799"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="255.929,-18.2301 245.422,-19.589 254.483,-25.0792 255.929,-18.2301"/>
 </g>
