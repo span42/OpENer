@@ -1,6 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"d8/d6c/WIN32_2networkhandler_8c.html#aae4345aa9af97a942d8246bb1ffe375c":[6,0,0,2,2,4,1],
 "d8/d6c/WIN32_2networkhandler_8c_source.html":[6,0,0,2,2,4],
 "d8/de2/structcip__service__struct.html":[5,0,6],
 "d8/de2/structcip__service__struct.html#a5dee19825bde9eba9ae121d7cd0cfbcd":[5,0,6,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX5 =
 "dc/d39/WIN32_2networkconfig_8h.html#aa50a487e1d7b7640313f76c341db0ed8":[6,0,0,2,2,3,1],
 "dc/d39/WIN32_2networkconfig_8h_source.html":[6,0,0,2,2,3],
 "dc/d3c/structSocketAddressInfoItem.html":[5,0,43],
-"dc/d3c/structSocketAddressInfoItem.html#a3f7a4600643a87742112758468b42146":[5,0,43,4]
+"dc/d3c/structSocketAddressInfoItem.html#a3f7a4600643a87742112758468b42146":[5,0,43,4],
+"dc/d3c/structSocketAddressInfoItem.html#a46921af5bef9ee04546194f8d19d3163":[5,0,43,2]
 };
