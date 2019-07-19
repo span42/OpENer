@@ -11,7 +11,7 @@ var doublylinkedlist_8h =
     [ "DoublyLinkedListInsertAtHead", "d9/d31/doublylinkedlist_8h.html#abca57475d14f9dffff53bea22eaf7b2f", null ],
     [ "DoublyLinkedListInsertAtTail", "d9/d31/doublylinkedlist_8h.html#a65e11098b03916d8ab85e4b5150bd648", null ],
     [ "DoublyLinkedListInsertBeforeNode", "d9/d31/doublylinkedlist_8h.html#aae79c6935734100cad167ec6317fbe07", null ],
-    [ "DoublyLinkedListNodeCreate", "d9/d31/doublylinkedlist_8h.html#abf53f85291f0d2a31c65f453f20afb02", null ],
+    [ "DoublyLinkedListNodeCreate", "d9/d31/doublylinkedlist_8h.html#a973d3b25eae020e7b5e5927c8785106c", null ],
     [ "DoublyLinkedListNodeDestroy", "d9/d31/doublylinkedlist_8h.html#a87710acb9f42fba14822fb824814105c", null ],
     [ "DoublyLinkedListRemoveNode", "d9/d31/doublylinkedlist_8h.html#a341e2f6faf7227650ed6e38e90cd047e", null ]
 ];

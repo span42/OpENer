@@ -1,5 +1,5 @@
 <map id="EstablishClass3Connection" name="EstablishClass3Connection">
-<area shape="rect" id="node2" href="$d5/d35/cipconnectionmanager_8c.html#aac2c0397cf54cb8356126c0d71d744ff" title="Insert the given connection object to the list of currently active and managed connections. " alt="" coords="274,56,449,83"/>
+<area shape="rect" id="node2" href="$d5/d35/cipconnectionmanager_8c.html#a167e93dbddfb66e7789253fe78f06998" title="Insert the given connection object to the list of currently active and managed connections. " alt="" coords="274,56,449,83"/>
 <area shape="rect" id="node6" href="$dc/d93/cipclass3connection_8c.html#a6053ab7004c1419bd80faf9aca54bfd3" title="Class3ConnectionTimeoutHandler" alt="" coords="251,357,472,384"/>
 <area shape="rect" id="node10" href="$d5/d35/cipconnectionmanager_8c.html#a9367d6d6edfd5bd276ead18619f4d74e" title="Close the given connection. " alt="" coords="609,237,732,264"/>
 <area shape="rect" id="node24" href="$df/d91/cipconnectionobject_8c.html#afaa08a457cbae921463403f0f00dd38e" title="Copy the given connection data from source to destination. " alt="" coords="267,476,455,503"/>

@@ -3,7 +3,7 @@
 <area shape="rect" id="node7" href="$d5/dc5/group__CIP__CALLBACK__API.html#ga5807bcc51621775c9aedbf58d3a7a6d3" title="create a new UDP socket for the connection manager " alt="" coords="230,145,357,172"/>
 <area shape="rect" id="node3" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="437,43,632,69"/>
 <area shape="rect" id="node4" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1760,32,1811,59"/>
-<area shape="rect" id="node5" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="731,43,861,69"/>
+<area shape="rect" id="node5" href="$d9/dfb/POSIX_2main_8c.html#a68147675261e664799874644a2e2179d" title="Signal handler function for ending stack execution. " alt="" coords="731,43,861,69"/>
 <area shape="rect" id="node6" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1035,43,1085,69"/>
 <area shape="rect" id="node8" href="$df/d03/cipioconnection_8c.html#add645b42730b2cea369523949c6b9745" title="Open a Point2Point connection dependent on pa_direction. " alt="" coords="699,94,893,135"/>
 <area shape="rect" id="node13" href="$df/d03/cipioconnection_8c.html#aa3b58fd216ec6712abc29ef84b33006d" title="OpenProducingPointToPoint\lConnection" alt="" coords="441,153,628,194"/>

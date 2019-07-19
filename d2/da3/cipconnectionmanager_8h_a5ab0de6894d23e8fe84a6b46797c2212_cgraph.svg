@@ -410,7 +410,7 @@ var sectionId = 'dynsection-8';
 </g>
 <!-- Node19 -->
 <g id="node19" class="node"><title>Node19</title>
-<g id="a_node19"><a xlink:href="../../d5/d35/cipconnectionmanager_8c.html#aac2c0397cf54cb8356126c0d71d744ff" target="_top" xlink:title="Insert the given connection object to the list of currently active and managed connections. ">
+<g id="a_node19"><a xlink:href="../../d5/d35/cipconnectionmanager_8c.html#a167e93dbddfb66e7789253fe78f06998" target="_top" xlink:title="Insert the given connection object to the list of currently active and managed connections. ">
 <polygon fill="none" stroke="red" points="379.5,-582.5 379.5,-601.5 510.5,-601.5 510.5,-582.5 379.5,-582.5"/>
 <text text-anchor="middle" x="445" y="-589.5" font-family="Helvetica,sans-Serif" font-size="10.00">AddNewActiveConnection</text>
 </a>

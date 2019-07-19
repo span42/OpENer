@@ -3,7 +3,7 @@ var cipconnectionmanager_8c =
     [ "ConnectionManagementHandling", "d1/d46/structConnectionManagementHandling.html", "d1/d46/structConnectionManagementHandling" ],
     [ "HandleForwardOpenRequestFunction", "d5/d35/cipconnectionmanager_8c.html#aaae1be021841c14c31bfa0f5186d6a1b", null ],
     [ "AddConnectableObject", "d5/d35/cipconnectionmanager_8c.html#ga6082e0d7d461ebde9384c5d697144c64", null ],
-    [ "AddNewActiveConnection", "d5/d35/cipconnectionmanager_8c.html#aac2c0397cf54cb8356126c0d71d744ff", null ],
+    [ "AddNewActiveConnection", "d5/d35/cipconnectionmanager_8c.html#a167e93dbddfb66e7789253fe78f06998", null ],
     [ "AddNullAddressItem", "d5/d35/cipconnectionmanager_8c.html#ac09a235d1ae01c674d4537450fb8fda3", null ],
     [ "AssembleForwardCloseResponse", "d5/d35/cipconnectionmanager_8c.html#a139a056407b798ae0e5928aaca6d2c7f", null ],
     [ "AssembleForwardOpenResponse", "d5/d35/cipconnectionmanager_8c.html#a949510af1a4c39a622b0fb7feb9b796a", null ],

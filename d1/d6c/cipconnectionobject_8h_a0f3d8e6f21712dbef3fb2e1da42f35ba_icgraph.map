@@ -14,7 +14,7 @@
 <area shape="rect" id="node5" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="1056,107,1227,133"/>
 <area shape="rect" id="node6" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="1301,81,1496,108"/>
 <area shape="rect" id="node7" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="2096,151,2147,177"/>
-<area shape="rect" id="node8" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="1556,132,1687,159"/>
+<area shape="rect" id="node8" href="$d9/dfb/POSIX_2main_8c.html#a68147675261e664799874644a2e2179d" title="Signal handler function for ending stack execution. " alt="" coords="1556,132,1687,159"/>
 <area shape="rect" id="node9" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1800,132,1851,159"/>
 <area shape="rect" id="node11" href="$d7/df9/encap_8h.html#a0101714be726ab1b21125b6a82ac7a56" title="CloseEncapsulationSession\lBySockAddr" alt="" coords="785,158,970,199"/>
 <area shape="rect" id="node12" href="$df/d03/cipioconnection_8c.html#a7e4923f4b027d489d9933b52f6fd7007" title="HandleIoConnectionTimeOut" alt="" coords="1046,169,1237,196"/>

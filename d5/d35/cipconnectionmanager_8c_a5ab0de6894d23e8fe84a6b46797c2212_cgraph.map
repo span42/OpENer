@@ -22,7 +22,7 @@
 <area shape="rect" id="node11" href="$d5/dc5/group__CIP__CALLBACK__API.html#ga098272a8ae10facf3086c5c82a0080db" title="Inform the application that the data of an assembly object will be sent. " alt="" coords="820,297,996,324"/>
 <area shape="rect" id="node12" href="$d2/dc9/group__CIP__API.html#gaece1b7dd2aeec306cb33b86b2ee21980" title="Produce the data according to CIP encoding onto the message buffer. " alt="" coords="861,372,955,399"/>
 <area shape="rect" id="node13" href="$d2/dc9/group__CIP__API.html#ga5a14c8d76acacb09312b709bb0a76265" title="Get a pointer to an instance&#39;s attribute. " alt="" coords="852,491,964,517"/>
-<area shape="rect" id="node19" href="$d5/d35/cipconnectionmanager_8c.html#aac2c0397cf54cb8356126c0d71d744ff" title="Insert the given connection object to the list of currently active and managed connections. " alt="" coords="511,948,686,975"/>
+<area shape="rect" id="node19" href="$d5/d35/cipconnectionmanager_8c.html#a167e93dbddfb66e7789253fe78f06998" title="Insert the given connection object to the list of currently active and managed connections. " alt="" coords="511,948,686,975"/>
 <area shape="rect" id="node20" href="$dc/d93/cipclass3connection_8c.html#a6053ab7004c1419bd80faf9aca54bfd3" title="Class3ConnectionTimeoutHandler" alt="" coords="488,1303,709,1329"/>
 <area shape="rect" id="node21" href="$d5/d35/cipconnectionmanager_8c.html#a9367d6d6edfd5bd276ead18619f4d74e" title="Close the given connection. " alt="" coords="847,1328,969,1355"/>
 <area shape="rect" id="node22" href="$df/d91/cipconnectionobject_8c.html#afaa08a457cbae921463403f0f00dd38e" title="Copy the given connection data from source to destination. " alt="" coords="814,1125,1002,1152"/>

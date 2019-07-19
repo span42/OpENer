@@ -9,7 +9,7 @@
 <area shape="rect" id="node16" href="$d7/df9/encap_8h.html#ad083888333d3ceec1576126a88eeaca7" title="CloseSessionBySessionHandle" alt="" coords="867,270,1074,297"/>
 <area shape="rect" id="node19" href="$d4/d91/group__ENCAP.html#ga1261bd2441f744c38d7a3f8d8c16c391" title="Shutdown the encapsulation layer. " alt="" coords="1635,321,1800,348"/>
 <area shape="rect" id="node21" href="$d2/dbd/encap_8c.html#a601cd19c88f03fd742f098a1bf5b9e85" title="HandleReceivedUnregister\lSessionCommand" alt="" coords="640,36,819,78"/>
-<area shape="rect" id="node6" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="1652,106,1783,133"/>
+<area shape="rect" id="node6" href="$d9/dfb/POSIX_2main_8c.html#a68147675261e664799874644a2e2179d" title="Signal handler function for ending stack execution. " alt="" coords="1652,106,1783,133"/>
 <area shape="rect" id="node8" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="2237,296,2288,322"/>
 <area shape="rect" id="node7" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1901,106,1952,133"/>
 <area shape="rect" id="node10" href="$d7/df9/encap_8h.html#a0101714be726ab1b21125b6a82ac7a56" title="CloseEncapsulationSession\lBySockAddr" alt="" coords="878,204,1063,246"/>

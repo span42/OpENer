@@ -26,7 +26,7 @@
 <area shape="rect" id="node25" href="$d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="907,512,1115,539"/>
 <area shape="rect" id="node26" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="1163,487,1333,513"/>
 <area shape="rect" id="node27" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="1381,397,1576,424"/>
-<area shape="rect" id="node28" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="1624,397,1755,424"/>
+<area shape="rect" id="node28" href="$d9/dfb/POSIX_2main_8c.html#a68147675261e664799874644a2e2179d" title="Signal handler function for ending stack execution. " alt="" coords="1624,397,1755,424"/>
 <area shape="rect" id="node29" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1803,397,1853,424"/>
 <area shape="rect" id="node31" href="$d2/dbd/encap_8c.html#a49dc585614f655a5b313150a01fd7221" title="Call Connection Manager. " alt="" coords="659,501,859,542"/>
 </map>

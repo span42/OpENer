@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$db/d4f/generic__networkhandler_8c.html#a8c1688da4bc37416162f4ba5ac436294" title="handle any connection request coming in the TCP server socket. " alt="" coords="179,63,371,105"/>
 <area shape="rect" id="node7" href="$d5/dc5/group__CIP__CALLBACK__API.html#ga5807bcc51621775c9aedbf58d3a7a6d3" title="create a new UDP socket for the connection manager " alt="" coords="211,159,338,185"/>
 <area shape="rect" id="node3" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="419,56,613,83"/>
-<area shape="rect" id="node4" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="712,5,843,32"/>
+<area shape="rect" id="node4" href="$d9/dfb/POSIX_2main_8c.html#a68147675261e664799874644a2e2179d" title="Signal handler function for ending stack execution. " alt="" coords="712,5,843,32"/>
 <area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1741,99,1792,125"/>
 <area shape="rect" id="node5" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1016,5,1067,32"/>
 <area shape="rect" id="node8" href="$df/d03/cipioconnection_8c.html#add645b42730b2cea369523949c6b9745" title="Open a Point2Point connection dependent on pa_direction. " alt="" coords="680,107,875,149"/>

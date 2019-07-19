@@ -9,7 +9,7 @@
 <area shape="rect" id="node7" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="1445,56,1616,83"/>
 <area shape="rect" id="node8" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="1664,56,1859,83"/>
 <area shape="rect" id="node9" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="2085,111,2136,137"/>
-<area shape="rect" id="node10" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="1907,35,2037,61"/>
+<area shape="rect" id="node10" href="$d9/dfb/POSIX_2main_8c.html#a68147675261e664799874644a2e2179d" title="Signal handler function for ending stack execution. " alt="" coords="1907,35,2037,61"/>
 <area shape="rect" id="node11" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="2085,35,2136,61"/>
 <area shape="rect" id="node13" href="$d2/dbd/encap_8c.html#a49dc585614f655a5b313150a01fd7221" title="Call Connection Manager. " alt="" coords="941,70,1141,111"/>
 <area shape="rect" id="node15" href="$df/d03/cipioconnection_8c.html#a20f1bc1c4cc4470cf371f94d51814de2" title="Send the data from the produced CIP Object of the connection via the socket of the connection object ..." alt="" coords="970,136,1113,163"/>
