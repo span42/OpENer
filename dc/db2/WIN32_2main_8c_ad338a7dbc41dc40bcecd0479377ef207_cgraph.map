@@ -8,7 +8,7 @@
 <area shape="rect" id="node20" href="$d9/ddc/doublylinkedlist_8c.html#a4bc27e688b6d12284ba386e8a1072ed2" title="DoublyLinkedListInitialize" alt="" coords="131,1196,301,1223"/>
 <area shape="rect" id="node21" href="$d5/dcb/MINGW_2main_8c.html#a8460ebd147c924f753c4ccdcc5f9ae90" title="Signal handler function for ending stack execution. " alt="" coords="171,1247,261,1273"/>
 <area shape="rect" id="node22" href="$db/d4f/generic__networkhandler_8c.html#aace33c0e7aa348969492ede822183bd5" title="NetworkHandlerFinish" alt="" coords="141,753,291,780"/>
-<area shape="rect" id="node24" href="$db/d4f/generic__networkhandler_8c.html#aa49065f73f4d0f0ab04fb0b35d791e5d" title="Initializes the network handler, shall be implemented by a port&#45;specific networkhandler. " alt="" coords="417,816,581,843"/>
+<area shape="rect" id="node24" href="$db/d4f/generic__networkhandler_8c.html#aa49065f73f4d0f0ab04fb0b35d791e5d" title="The platform independent part of network handler initialization routine. " alt="" coords="417,816,581,843"/>
 <area shape="rect" id="node33" href="$db/d4f/generic__networkhandler_8c.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="119,1145,313,1172"/>
 <area shape="rect" id="node44" href="$d2/dc9/group__CIP__API.html#ga696952d9dbc1b6fdedf517aa55f94323" title="Set the serial number of the device&#39;s identity object. " alt="" coords="135,1297,297,1324"/>
 <area shape="rect" id="node45" href="$d2/dc9/group__CIP__API.html#gaa57b527530adc2acda6febc500fd6831" title="Shutdown of the CIP stack. " alt="" coords="149,677,283,704"/>

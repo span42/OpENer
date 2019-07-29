@@ -159,7 +159,7 @@
 </g>
 <!-- Node39 -->
 <g id="node39" class="node"><title>Node39</title>
-<g id="a_node39"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#aa49065f73f4d0f0ab04fb0b35d791e5d" target="_top" xlink:title="Initializes the network handler, shall be implemented by a port&#45;specific networkhandler. ">
+<g id="a_node39"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#aa49065f73f4d0f0ab04fb0b35d791e5d" target="_top" xlink:title="The platform independent part of network handler initialization routine. ">
 <polygon fill="none" stroke="black" points="289.5,-190.5 289.5,-209.5 412.5,-209.5 412.5,-190.5 289.5,-190.5"/>
 <text text-anchor="middle" x="351" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">NetworkHandlerInitialize</text>
 </a>
