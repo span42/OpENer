@@ -15,7 +15,7 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d2/d5e/POSIX_2networkhandler_8c.html#af4f11a1fa3e652845dc5164d097e9e13" target="_top" xlink:title="This function shall return the current time in microseconds relative to epoch, and shall be implement...">
+<g id="a_node2"><a xlink:href="../../d2/d5e/POSIX_2networkhandler_8c.html#af4f11a1fa3e652845dc5164d097e9e13" target="_top" xlink:title="Returns current time in microseconds from monotonic time base, please note that this does not represe...">
 <polygon fill="none" stroke="black" points="124.5,-0.5 124.5,-19.5 219.5,-19.5 219.5,-0.5 124.5,-0.5"/>
 <text text-anchor="middle" x="172" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetMicroSeconds</text>
 </a>

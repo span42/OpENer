@@ -175,7 +175,7 @@
 </g>
 <!-- Node39 -->
 <g id="node39" class="node"><title>Node39</title>
-<g id="a_node39"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a2d91de751b888e7b5a5c2e2692fd4492" target="_top" xlink:title="This function shall return the current time in milliseconds relative to epoch, and shall be implement...">
+<g id="a_node39"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a2d91de751b888e7b5a5c2e2692fd4492" target="_top" xlink:title="Returns current time in milliseconds from monotonic time base, please note that this does not represe...">
 <polygon fill="none" stroke="black" points="364,-473.5 364,-492.5 452,-492.5 452,-473.5 364,-473.5"/>
 <text text-anchor="middle" x="408" y="-480.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetMilliSeconds</text>
 </a>
@@ -361,7 +361,7 @@
 </g>
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" target="_top" xlink:title="SetQosOnSocket">
+<g id="a_node17"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" target="_top" xlink:title="Sets QoS on socket. ">
 <polygon fill="none" stroke="black" points="573.5,-1208.5 573.5,-1227.5 666.5,-1227.5 666.5,-1208.5 573.5,-1208.5"/>
 <text text-anchor="middle" x="620" y="-1215.5" font-family="Helvetica,sans-Serif" font-size="10.00">SetQosOnSocket</text>
 </a>

@@ -10,7 +10,7 @@
 <area shape="rect" id="node28" href="$db/d4f/generic__networkhandler_8c.html#ab561fc66fe48a0cf95be3d152b297dd9" title="CheckEncapsulationInactivity" alt="" coords="273,1117,468,1144"/>
 <area shape="rect" id="node31" href="$db/d4f/generic__networkhandler_8c.html#a1bfa5ef8e4802716459a56567ee16592" title="CloseTcpSocket" alt="" coords="594,1067,713,1093"/>
 <area shape="rect" id="node37" href="$d2/dbd/encap_8c.html#a86c98c2665f4c058e9c5afb60690a81b" title="RemoveSession" alt="" coords="594,1016,713,1043"/>
-<area shape="rect" id="node39" href="$d3/de3/MINGW_2networkhandler_8c.html#a2d91de751b888e7b5a5c2e2692fd4492" title="This function shall return the current time in milliseconds relative to epoch, and shall be implement..." alt="" coords="312,855,429,881"/>
+<area shape="rect" id="node39" href="$d3/de3/MINGW_2networkhandler_8c.html#a2d91de751b888e7b5a5c2e2692fd4492" title="Returns current time in milliseconds from monotonic time base, please note that this does not represe..." alt="" coords="312,855,429,881"/>
 <area shape="rect" id="node40" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="285,703,456,729"/>
 <area shape="rect" id="node43" href="$d2/dc9/group__CIP__API.html#ga9f57b09260efb5bfb188b9d0ca0c6091" title="Check if any of the connection timers (TransmissionTrigger or WatchdogTimeout) have timed out..." alt="" coords="300,1480,441,1507"/>
 <area shape="rect" id="node7" href="$d2/dc9/group__CIP__API.html#ga9abc7c86317baaa7ede1a4bce09fa542" title="Notify the connection manager that data for a connection has been received. " alt="" coords="549,660,758,687"/>
@@ -21,7 +21,7 @@
 <area shape="rect" id="node9" href="$d4/d91/group__ENCAP.html#ga70322f970709ca9c9a1a1d474cfe2302" title="Reads EIP_UINT16 from *buffer and converts little endian to host. " alt="" coords="1108,660,1249,687"/>
 <area shape="rect" id="node11" href="$df/d91/cipconnectionobject_8c.html#a9c381240583828bec2cda2d54dc94d3b" title="ConnectionObjectGetState" alt="" coords="1089,1139,1268,1165"/>
 <area shape="rect" id="node15" href="$dd/d34/cipqos_8c.html#a6fa85e635fcd14e9797254ec3a5bb95e" title="Initializing the data structures of the TCP/IP interface object. " alt="" coords="581,5,725,32"/>
-<area shape="rect" id="node16" href="$d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" title="SetQosOnSocket" alt="" coords="591,56,715,83"/>
+<area shape="rect" id="node16" href="$d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" title="Sets QoS on socket. " alt="" coords="591,56,715,83"/>
 <area shape="rect" id="node17" href="$d4/df6/socket__timer_8c.html#a28bbdc758808db0e7f034aff98e5f6b3" title="Get an empty Socket Timer entry. " alt="" coords="828,209,1015,250"/>
 <area shape="rect" id="node18" href="$d4/df6/socket__timer_8c.html#abe7542fdec4d4e4893a8c712192529ca" title="Get the Socket Timer entry with the spezified socket value. " alt="" coords="1084,929,1273,970"/>
 <area shape="rect" id="node20" href="$d2/dc9/group__CIP__API.html#gaab62df9410a09727a82afa7672e3194a" title="Notify the encapsulation layer that an explicit message has been received via UDP. " alt="" coords="548,412,759,439"/>

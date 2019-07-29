@@ -1,6 +1,7 @@
 <map id="src/opener_api.h" name="src/opener_api.h">
-<area shape="rect" id="node4" href="$d7/d69/typedefs_8h.html" title="typedefs.h" alt="" coords="149,155,231,181"/>
-<area shape="rect" id="node7" href="$df/d28/ciptypes_8h.html" title="ciptypes.h" alt="" coords="252,80,333,107"/>
-<area shape="rect" id="node11" href="$d6/d52/ciperror_8h.html" title="ciperror.h" alt="" coords="359,80,435,107"/>
-<area shape="rect" id="node9" href="$d8/d2c/enipmessage_8h.html" title="enipmessage.h" alt="" coords="402,155,512,181"/>
+<area shape="rect" id="node4" href="$d7/d69/typedefs_8h.html" title="typedefs.h" alt="" coords="172,229,253,256"/>
+<area shape="rect" id="node7" href="$df/d28/ciptypes_8h.html" title="ciptypes.h" alt="" coords="236,80,317,107"/>
+<area shape="rect" id="node11" href="$d6/d52/ciperror_8h.html" title="ciperror.h" alt="" coords="343,80,419,107"/>
+<area shape="rect" id="node8" href="$d0/d47/networkhandler_8h.html" title="networkhandler.h" alt="" coords="251,155,372,181"/>
+<area shape="rect" id="node9" href="$d8/d2c/enipmessage_8h.html" title="enipmessage.h" alt="" coords="397,155,507,181"/>
 </map>

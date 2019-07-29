@@ -159,7 +159,7 @@
 </g>
 <!-- Node13 -->
 <g id="node13" class="node"><title>Node13</title>
-<g id="a_node13"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a4af2b184144f7d807e8157ee8b474ecf" target="_top" xlink:title="SetSocketToNonBlocking">
+<g id="a_node13"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a4af2b184144f7d807e8157ee8b474ecf" target="_top" xlink:title="Tries to set socket to non blocking behavior. ">
 <polygon fill="none" stroke="black" points="660.5,-114.5 660.5,-133.5 789.5,-133.5 789.5,-114.5 660.5,-114.5"/>
 <text text-anchor="middle" x="725" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">SetSocketToNonBlocking</text>
 </a>
@@ -185,7 +185,7 @@
 </g>
 <!-- Node16 -->
 <g id="node16" class="node"><title>Node16</title>
-<g id="a_node16"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" target="_top" xlink:title="SetQosOnSocket">
+<g id="a_node16"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" target="_top" xlink:title="Sets QoS on socket. ">
 <polygon fill="none" stroke="black" points="678.5,-38.5 678.5,-57.5 771.5,-57.5 771.5,-38.5 678.5,-38.5"/>
 <text text-anchor="middle" x="725" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">SetQosOnSocket</text>
 </a>

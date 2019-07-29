@@ -237,7 +237,7 @@ var sectionId = 'dynsection-6';
 </g>
 <!-- Node12 -->
 <g id="node12" class="node"><title>Node12</title>
-<g id="a_node12"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a4af2b184144f7d807e8157ee8b474ecf" target="_top" xlink:title="SetSocketToNonBlocking">
+<g id="a_node12"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a4af2b184144f7d807e8157ee8b474ecf" target="_top" xlink:title="Tries to set socket to non blocking behavior. ">
 <polygon fill="none" stroke="black" points="878.5,-228.5 878.5,-247.5 1007.5,-247.5 1007.5,-228.5 878.5,-228.5"/>
 <text text-anchor="middle" x="943" y="-235.5" font-family="Helvetica,sans-Serif" font-size="10.00">SetSocketToNonBlocking</text>
 </a>
@@ -263,7 +263,7 @@ var sectionId = 'dynsection-6';
 </g>
 <!-- Node15 -->
 <g id="node15" class="node"><title>Node15</title>
-<g id="a_node15"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" target="_top" xlink:title="SetQosOnSocket">
+<g id="a_node15"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" target="_top" xlink:title="Sets QoS on socket. ">
 <polygon fill="none" stroke="black" points="896.5,-152.5 896.5,-171.5 989.5,-171.5 989.5,-152.5 896.5,-152.5"/>
 <text text-anchor="middle" x="943" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">SetQosOnSocket</text>
 </a>
