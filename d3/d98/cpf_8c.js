@@ -22,7 +22,7 @@ var cpf_8c =
     [ "EncodeSockaddrInfoItemTypeId", "d3/d98/cpf_8c.html#adfed715f4ce7b8d41243260aa7dbde00", null ],
     [ "EncodeSockaddrInfoLength", "d3/d98/cpf_8c.html#a72864be68f6e7b7289397bf78328d026", null ],
     [ "EncodeUnconnectedDataItemLength", "d3/d98/cpf_8c.html#a16da8f0222f5610c9f2bf1e1ce90a09b", null ],
-    [ "NotifyCommonPacketFormat", "d3/d98/cpf_8c.html#ga18376333d90074460a180facd602c3d9", null ],
+    [ "NotifyCommonPacketFormat", "d3/d98/cpf_8c.html#gaf4beeca6ee941986295958572352a567", null ],
     [ "NotifyConnectedCommonPacketFormat", "d3/d98/cpf_8c.html#ga93b23ccc67639937716a8f436a96c2b5", null ],
     [ "g_common_packet_format_data_item", "d3/d98/cpf_8c.html#gafaae5be8de81c633ea4df46fa8b957e0", null ],
     [ "item_count_field_size", "d3/d98/cpf_8c.html#a7c2c8f4b82cd829b8ffde2a90c811f2b", null ],

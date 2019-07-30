@@ -19,7 +19,7 @@ var cpf_8h =
     [ "AssembleIOMessage", "d0/dff/cpf_8h.html#ga137d29fba9dd744ed2e9323bf75e0bba", null ],
     [ "AssembleLinearMessage", "d0/dff/cpf_8h.html#gaa28ed48b18b92a64faf70093eb74d891", null ],
     [ "CreateCommonPacketFormatStructure", "d0/dff/cpf_8h.html#gab4525f090b67d97b3a3f7cce3ca441ec", null ],
-    [ "NotifyCommonPacketFormat", "d0/dff/cpf_8h.html#ga18376333d90074460a180facd602c3d9", null ],
+    [ "NotifyCommonPacketFormat", "d0/dff/cpf_8h.html#gaf4beeca6ee941986295958572352a567", null ],
     [ "NotifyConnectedCommonPacketFormat", "d0/dff/cpf_8h.html#ga93b23ccc67639937716a8f436a96c2b5", null ],
     [ "g_common_packet_format_data_item", "d0/dff/cpf_8h.html#gafaae5be8de81c633ea4df46fa8b957e0", null ]
 ];

@@ -127,7 +127,7 @@ var sectionId = 'dynsection-21';
 </g>
 <!-- Node9 -->
 <g id="node9" class="node"><title>Node9</title>
-<g id="a_node9"><a xlink:href="../../d4/d91/group__ENCAP.html#ga18376333d90074460a180facd602c3d9" target="_top" xlink:title="NotifyCommonPacketFormat">
+<g id="a_node9"><a xlink:href="../../d4/d91/group__ENCAP.html#gaf4beeca6ee941986295958572352a567" target="_top" xlink:title="NotifyCommonPacketFormat">
 <polygon fill="none" stroke="black" points="184,-1006.49 184,-1025.49 328,-1025.49 328,-1006.49 184,-1006.49"/>
 <text text-anchor="middle" x="256" y="-1013.49" font-family="Helvetica,sans-Serif" font-size="10.00">NotifyCommonPacketFormat</text>
 </a>

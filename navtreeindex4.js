@@ -1,5 +1,7 @@
 var NAVTREEINDEX4 =
 {
+"d5/daa/MINGW_2sample__application_2sampleapplication_8c.html#a40b14d004a37da853a18083a670377d2":[6,0,0,2,0,0,1,3],
+"d5/daa/MINGW_2sample__application_2sampleapplication_8c.html#a695e7d533f2a4aa509185df223e07a5e":[6,0,0,2,0,0,1,16],
 "d5/daa/MINGW_2sample__application_2sampleapplication_8c.html#a751fd09537dd79b39480224833d0f27c":[6,0,0,2,0,0,1,18],
 "d5/daa/MINGW_2sample__application_2sampleapplication_8c.html#aa1f1605037b07fc8e8623b143ed8ccb7":[6,0,0,2,0,0,1,19],
 "d5/daa/MINGW_2sample__application_2sampleapplication_8c.html#adf3de9d05025f4d3ce4f50120a63deec":[6,0,0,2,0,0,1,20],
@@ -221,6 +223,8 @@ var NAVTREEINDEX4 =
 "d7/df9/encap_8h.html#ga3b9c0d7d9d1413e4cd8ca5634b4bc9ac":[6,0,0,1,3,20],
 "d7/df9/encap_8h.html#ga7a0dc2be6c485d9e6940d5b20a981022":[6,0,0,1,3,12],
 "d7/df9/encap_8h_source.html":[6,0,0,1,3],
+"d8/d0f/MINGW_2platform__network__includes_8h.html":[6,0,0,2,0,6],
+"d8/d0f/MINGW_2platform__network__includes_8h_source.html":[6,0,0,2,0,6],
 "d8/d13/structCipEthernetLinkObject.html":[5,0,16],
 "d8/d13/structCipEthernetLinkObject.html#a353eee07bb6c92bcd5583e94122ef21a":[5,0,16,0],
 "d8/d13/structCipEthernetLinkObject.html#a4a91c0cca43031b628001583f6ce3f63":[5,0,16,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX4 =
 "d8/de2/structcip__service__struct.html":[5,0,6],
 "d8/de2/structcip__service__struct.html#a5dee19825bde9eba9ae121d7cd0cfbcd":[5,0,6,2],
 "d8/de2/structcip__service__struct.html#a5f07adeac545e07afa80e2badb94b091":[5,0,6,1],
-"d8/de2/structcip__service__struct.html#ae5d6e5c2e95996dbc9bf1cd21688207e":[5,0,6,0],
-"d9/d09/xorshiftrandom_8c.html":[6,0,0,3,6],
-"d9/d09/xorshiftrandom_8c.html#a1fed45698fc382c8eac0d4384ab3eaff":[6,0,0,3,6,1],
-"d9/d09/xorshiftrandom_8c.html#aba2875aae8a8e22bc903edeebe63138b":[6,0,0,3,6,2],
-"d9/d09/xorshiftrandom_8c.html#acdff513b98a575880a852ab652f42684":[6,0,0,3,6,0]
+"d8/de2/structcip__service__struct.html#ae5d6e5c2e95996dbc9bf1cd21688207e":[5,0,6,0]
 };

@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 517;
+var viewWidth = 640;
 var viewHeight = 196;
 var sectionId = 'dynsection-0';
 </script>
@@ -137,33 +137,43 @@ var sectionId = 'dynsection-0';
 </g>
 <!-- Node9 -->
 <g id="node9" class="node"><title>Node9</title>
-<polygon fill="none" stroke="#bfbfbf" points="305.5,-0.5 305.5,-19.5 364.5,-19.5 364.5,-0.5 305.5,-0.5"/>
-<text text-anchor="middle" x="335" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">inttypes.h</text>
+<polygon fill="none" stroke="#bfbfbf" points="269.5,-0.5 269.5,-19.5 328.5,-19.5 328.5,-0.5 269.5,-0.5"/>
+<text text-anchor="middle" x="299" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">inttypes.h</text>
 </g>
 <!-- Node8&#45;&gt;Node9 -->
 <g id="edge8" class="edge"><title>Node8&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M397.111,-56.324C385.85,-48.1066 368.713,-35.6017 355.291,-25.8069"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="357.247,-22.9014 347.106,-19.8339 353.12,-28.5559 357.247,-22.9014"/>
+<path fill="none" stroke="midnightblue" d="M391.327,-56.324C373.606,-47.6247 346.097,-34.1202 325.712,-24.113"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="327.149,-20.9195 316.63,-19.6545 324.064,-27.2031 327.149,-20.9195"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node"><title>Node10</title>
-<polygon fill="none" stroke="#bfbfbf" points="383,-0.5 383,-19.5 435,-19.5 435,-0.5 383,-0.5"/>
-<text text-anchor="middle" x="409" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">stddef.h</text>
+<polygon fill="none" stroke="#bfbfbf" points="347,-0.5 347,-19.5 399,-19.5 399,-0.5 347,-0.5"/>
+<text text-anchor="middle" x="373" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">stddef.h</text>
 </g>
 <!-- Node8&#45;&gt;Node10 -->
 <g id="edge9" class="edge"><title>Node8&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M409,-56.083C409,-49.0059 409,-38.8611 409,-29.9865"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="412.5,-29.751 409,-19.7511 405.5,-29.7511 412.5,-29.751"/>
+<path fill="none" stroke="midnightblue" d="M403.055,-56.083C398.023,-48.5341 390.663,-37.4948 384.487,-28.2298"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="387.293,-26.1301 378.834,-19.7511 381.469,-30.0131 387.293,-26.1301"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node"><title>Node11</title>
-<polygon fill="none" stroke="#bfbfbf" points="453,-0.5 453,-19.5 509,-19.5 509,-0.5 453,-0.5"/>
-<text text-anchor="middle" x="481" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">stdbool.h</text>
+<polygon fill="none" stroke="#bfbfbf" points="417,-0.5 417,-19.5 473,-19.5 473,-0.5 417,-0.5"/>
+<text text-anchor="middle" x="445" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">stdbool.h</text>
 </g>
 <!-- Node8&#45;&gt;Node11 -->
 <g id="edge10" class="edge"><title>Node8&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M420.568,-56.324C431.42,-48.1849 447.881,-35.8395 460.883,-26.0874"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="463.321,-28.6339 469.221,-19.8339 459.121,-23.0339 463.321,-28.6339"/>
+<path fill="none" stroke="midnightblue" d="M414.945,-56.083C419.977,-48.5341 427.337,-37.4948 433.513,-28.2298"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="436.531,-30.0131 439.166,-19.7511 430.707,-26.1301 436.531,-30.0131"/>
+</g>
+<!-- Node12 -->
+<g id="node12" class="node"><title>Node12</title>
+<polygon fill="none" stroke="#bfbfbf" points="491.5,-0.5 491.5,-19.5 632.5,-19.5 632.5,-0.5 491.5,-0.5"/>
+<text text-anchor="middle" x="562" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">platform_network_includes.h</text>
+</g>
+<!-- Node8&#45;&gt;Node12 -->
+<g id="edge11" class="edge"><title>Node8&#45;&gt;Node12</title>
+<path fill="none" stroke="midnightblue" d="M433.243,-56.4435C458.871,-47.3986 499.485,-33.064 528.238,-22.9158"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="529.605,-26.1452 537.87,-19.5164 527.275,-19.5442 529.605,-26.1452"/>
 </g>
 </g>
 </svg>
