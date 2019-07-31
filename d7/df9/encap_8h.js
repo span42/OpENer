@@ -1,10 +1,10 @@
 var encap_8h =
 [
     [ "encapsulation_data", "d9/d42/structencapsulation__data.html", "d9/d42/structencapsulation__data" ],
-    [ "encapsulation_interface_information", "d0/d6e/structencapsulation__interface__information.html", "d0/d6e/structencapsulation__interface__information" ],
+    [ "encapsulation_service_information", "dc/dfa/structencapsulation__service__information.html", "dc/dfa/structencapsulation__service__information" ],
     [ "ENCAPSULATION_HEADER_LENGTH", "d7/df9/encap_8h.html#a89dc73a9be3e075d9612ab6f4ab6afe5", null ],
     [ "EncapsulationData", "d7/df9/encap_8h.html#ac4bf15574436ce32c449e9f41b69c994", null ],
-    [ "EncapsulationInterfaceInformation", "d7/df9/encap_8h.html#a343cdd7bffaed75999d3d71a21887260", null ],
+    [ "EncapsulationServiceInformation", "d7/df9/encap_8h.html#a6972512fb7b1da265125cb46ae8a8264", null ],
     [ "ENIPMessage", "d7/df9/encap_8h.html#ab0c67d4ca4c7c65f0c381dc9683b95a7", null ],
     [ "EncapsulationProtocolErrorCode", "d7/df9/encap_8h.html#ade64170fc04acea31424c748aa86a025", [
       [ "kEncapsulationProtocolSuccess", "d7/df9/encap_8h.html#ade64170fc04acea31424c748aa86a025a9a1e98827eb5c746f3c3b15b83b180ef", null ],

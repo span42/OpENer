@@ -1,7 +1,7 @@
 var searchData=
 [
   ['name',['name',['../d8/de2/structcip__service__struct.html#ae5d6e5c2e95996dbc9bf1cd21688207e',1,'cip_service_struct']]],
-  ['name_5fof_5fservice',['name_of_service',['../d0/d6e/structencapsulation__interface__information.html#adf21ea364f65cb0d7988bf094bc1c471',1,'encapsulation_interface_information']]],
+  ['name_5fof_5fservice',['name_of_service',['../dc/dfa/structencapsulation__service__information.html#a34d4f18e7bbcc9283e7ec6a22c8b7625',1,'encapsulation_service_information']]],
   ['name_5fserver',['name_server',['../d0/d4c/structCipTcpIpNetworkInterfaceConfiguration.html#a82ed2612d25c04a1191b1d3582999584',1,'CipTcpIpNetworkInterfaceConfiguration']]],
   ['name_5fserver_5f2',['name_server_2',['../d0/d4c/structCipTcpIpNetworkInterfaceConfiguration.html#afa8efb882cb0a0bf9e752fe78bb1efb7',1,'CipTcpIpNetworkInterfaceConfiguration']]],
   ['nasin_5fzero',['nasin_zero',['../dc/d3c/structSocketAddressInfoItem.html#abaf556494b9fea3137c6c45522ab9bda',1,'SocketAddressInfoItem']]],

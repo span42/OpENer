@@ -3,7 +3,7 @@ var searchData=
   ['calculateindex',['CalculateIndex',['../d2/dc9/group__CIP__API.html#ga1eb3004bbf086b276500e1d6e7a2f677',1,'CalculateIndex(EipUint16 attribute_number):&#160;cipcommon.c'],['../d2/dc9/group__CIP__API.html#ga1eb3004bbf086b276500e1d6e7a2f677',1,'CalculateIndex(EipUint16 attribute_number):&#160;cipcommon.c']]],
   ['calculatenextseed',['CalculateNextSeed',['../d9/d09/xorshiftrandom_8c.html#acdff513b98a575880a852ab652f42684',1,'xorshiftrandom.c']]],
   ['capability_5fbits',['capability_bits',['../dd/dc6/structCipEthernetLinkInterfaceCapability.html#ad1ddbc75a554a3dc507af790a152b5d1',1,'CipEthernetLinkInterfaceCapability']]],
-  ['capability_5fflags',['capability_flags',['../d0/d6e/structencapsulation__interface__information.html#a4b05e4dd9594531622245c89b28833a0',1,'encapsulation_interface_information']]],
+  ['capability_5fflags',['capability_flags',['../dc/dfa/structencapsulation__service__information.html#afdab182d0f7743d90d336bba7befbf60',1,'encapsulation_service_information']]],
   ['capabilityflags',['CapabilityFlags',['../d2/dbd/encap_8c.html#aa2df52999b993c2eb27861896c799903',1,'encap.c']]],
   ['checkandhandleconsumingudpsockets',['CheckAndHandleConsumingUdpSockets',['../db/d4f/generic__networkhandler_8c.html#af0c95ade149818d252c292b489cfe190',1,'generic_networkhandler.c']]],
   ['checkandhandletcplistenersocket',['CheckAndHandleTcpListenerSocket',['../db/d4f/generic__networkhandler_8c.html#a8c1688da4bc37416162f4ba5ac436294',1,'generic_networkhandler.c']]],
