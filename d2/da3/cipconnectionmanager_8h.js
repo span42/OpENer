@@ -5,7 +5,7 @@ var cipconnectionmanager_8h =
     [ "SEQ_GT32", "d2/da3/cipconnectionmanager_8h.html#ad36b53d05b61fcc3c6405c85b763a90c", null ],
     [ "SEQ_LEQ16", "d2/da3/cipconnectionmanager_8h.html#aa90301ce80009301ef74637f50a79e69", null ],
     [ "SEQ_LEQ32", "d2/da3/cipconnectionmanager_8h.html#ad640aadbc83eb8494f1752cbf1572681", null ],
-    [ "CloseSessionFunction", "d2/da3/cipconnectionmanager_8h.html#a850cea8a987d7459f37ea6c418043976", null ],
+    [ "CloseSessionFunction", "d2/da3/cipconnectionmanager_8h.html#a08b7e583fe0bb1b240d7b9483cb67a89", null ],
     [ "ConnectionManagerExtendedStatusCode", "d2/da3/cipconnectionmanager_8h.html#a2c7b6cc102450d2b993391113bd2b759", [
       [ "kConnectionManagerExtendedStatusCodeSuccess", "d2/da3/cipconnectionmanager_8h.html#a2c7b6cc102450d2b993391113bd2b759a299259d157a6ac077f1c5c8904ceaef8", null ],
       [ "kConnectionManagerExtendedStatusCodeErrorConnectionInUseOrDuplicateForwardOpen", "d2/da3/cipconnectionmanager_8h.html#a2c7b6cc102450d2b993391113bd2b759a4d3041e68abdeaaaea9729442e421b03", null ],

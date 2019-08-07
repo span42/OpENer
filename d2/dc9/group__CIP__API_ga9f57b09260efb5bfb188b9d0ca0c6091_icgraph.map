@@ -1,6 +1,7 @@
 <map id="ManageConnections" name="ManageConnections">
 <area shape="rect" id="node2" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="195,31,389,57"/>
-<area shape="rect" id="node3" href="$d9/dfb/POSIX_2main_8c.html#a68147675261e664799874644a2e2179d" title="Signal handler function for ending stack execution. " alt="" coords="437,5,568,32"/>
-<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="477,56,528,83"/>
-<area shape="rect" id="node4" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="616,5,667,32"/>
+<area shape="rect" id="node3" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="437,5,528,32"/>
+<area shape="rect" id="node4" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="457,56,508,83"/>
+<area shape="rect" id="node5" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="576,56,661,83"/>
+<area shape="rect" id="node6" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="709,56,831,83"/>
 </map>

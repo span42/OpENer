@@ -1,9 +1,11 @@
 <map id="NotifyAssemblyConnectedDataReceived" name="NotifyAssemblyConnectedDataReceived">
-<area shape="rect" id="node2" href="$df/d03/cipioconnection_8c.html#a68b99df85d462657b12a854316c168f5" title="HandleConfigData" alt="" coords="558,5,687,32"/>
-<area shape="rect" id="node7" href="$df/d03/cipioconnection_8c.html#a73bfd5fa3bc96e11219d0b24d70b88c7" title="HandleReceivedIoConnectionData" alt="" coords="262,56,485,83"/>
-<area shape="rect" id="node3" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="761,31,914,57"/>
-<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="963,31,1119,57"/>
-<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="1169,31,1263,57"/>
-<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1312,31,1363,57"/>
-<area shape="rect" id="node8" href="$df/d03/cipioconnection_8c.html#ab3282f146a3ea91c90cf14c32206ee8c" title="SetIoConnectionCallbacks" alt="" coords="534,56,711,83"/>
+<area shape="rect" id="node2" href="$df/d03/cipioconnection_8c.html#a68b99df85d462657b12a854316c168f5" title="HandleConfigData" alt="" coords="555,5,684,32"/>
+<area shape="rect" id="node9" href="$df/d03/cipioconnection_8c.html#a73bfd5fa3bc96e11219d0b24d70b88c7" title="HandleReceivedIoConnectionData" alt="" coords="260,56,483,83"/>
+<area shape="rect" id="node3" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="756,31,909,57"/>
+<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="957,31,1113,57"/>
+<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="1161,31,1256,57"/>
+<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1304,31,1355,57"/>
+<area shape="rect" id="node7" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1403,31,1488,57"/>
+<area shape="rect" id="node8" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1536,31,1657,57"/>
+<area shape="rect" id="node10" href="$df/d03/cipioconnection_8c.html#ab3282f146a3ea91c90cf14c32206ee8c" title="SetIoConnectionCallbacks" alt="" coords="531,56,708,83"/>
 </map>

@@ -1,7 +1,8 @@
 <map id="GetSessionFromSocket" name="GetSessionFromSocket">
-<area shape="rect" id="node2" href="$db/d4f/generic__networkhandler_8c.html#ab561fc66fe48a0cf95be3d152b297dd9" title="CheckEncapsulationInactivity" alt="" coords="216,31,411,57"/>
-<area shape="rect" id="node3" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="459,31,653,57"/>
-<area shape="rect" id="node4" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="741,5,792,32"/>
-<area shape="rect" id="node5" href="$d9/dfb/POSIX_2main_8c.html#a68147675261e664799874644a2e2179d" title="Signal handler function for ending stack execution. " alt="" coords="701,56,832,83"/>
-<area shape="rect" id="node6" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="880,56,931,83"/>
+<area shape="rect" id="node2" href="$db/d4f/generic__networkhandler_8c.html#ab561fc66fe48a0cf95be3d152b297dd9" title="CheckEncapsulationInactivity" alt="" coords="215,31,409,57"/>
+<area shape="rect" id="node3" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="457,31,652,57"/>
+<area shape="rect" id="node4" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="720,5,771,32"/>
+<area shape="rect" id="node7" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="700,56,791,83"/>
+<area shape="rect" id="node5" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="839,5,924,32"/>
+<area shape="rect" id="node6" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="972,5,1093,32"/>
 </map>

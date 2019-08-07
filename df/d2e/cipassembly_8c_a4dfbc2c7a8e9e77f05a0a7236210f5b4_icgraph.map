@@ -1,4 +1,6 @@
 <map id="CipAssemblyInitialize" name="CipAssemblyInitialize">
-<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="203,5,298,32"/>
-<area shape="rect" id="node3" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="347,5,397,32"/>
+<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="201,5,296,32"/>
+<area shape="rect" id="node3" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="344,5,395,32"/>
+<area shape="rect" id="node4" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="443,5,528,32"/>
+<area shape="rect" id="node5" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="576,5,697,32"/>
 </map>

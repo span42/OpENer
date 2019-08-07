@@ -286,7 +286,7 @@ var searchData=
   ['klogicalsegmentspecialtypelogicalformatelectronickey',['kLogicalSegmentSpecialTypeLogicalFormatElectronicKey',['../d1/d02/cipepath_8h.html#a6d9b2cc31d0ea62f31ab6fe58cf645e4ae1bd8f35f044bf34268b03ff82e33499',1,'cipepath.h']]],
   ['klogicalsegmentspecialtypelogicalformatreserved',['kLogicalSegmentSpecialTypeLogicalFormatReserved',['../d1/d02/cipepath_8h.html#a6d9b2cc31d0ea62f31ab6fe58cf645e4a77bd099117ea11908ba6290e7dc7fbd3',1,'cipepath.h']]],
   ['kmajorfault',['kMajorFault',['../dc/d72/cipidentity_8h.html#a938420292805a3013f5bb3e8fc5b0afaa041c212edc085841ef4d055091aac065',1,'cipidentity.h']]],
-  ['kmajorrecoveralbefault',['kMajorRecoveralbeFault',['../dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069a5ae9eced3f627f2e737100cbfcb999e4',1,'cipidentity.h']]],
+  ['kmajorrecoverablefault',['kMajorRecoverableFault',['../dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069ab55a1da4d903553ad128cdf739af07f2',1,'cipidentity.h']]],
   ['kmajorunrecoverablefault',['kMajorUnrecoverableFault',['../dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069a1cb3cf8f34067edd3890e6673191b6d5',1,'cipidentity.h']]],
   ['kminorrecoverablefault',['kMinorRecoverableFault',['../dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069ab437e038aea18824c9852f1b7ec0a46e',1,'cipidentity.h']]],
   ['kminoruncoverablefault',['kMinorUncoverableFault',['../dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069a04f436dbc137399fdb7b3646b9023479',1,'cipidentity.h']]],

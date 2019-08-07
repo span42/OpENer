@@ -5,7 +5,7 @@ var searchData=
   ['cipclass',['CipClass',['../df/d28/ciptypes_8h.html#a175191808b8fac50b47d9bbc9edc6051',1,'ciptypes.h']]],
   ['cipconnectionobject',['CipConnectionObject',['../d1/d6c/cipconnectionobject_8h.html#a4d3da7ab056cd808b359bad6c1ad8716',1,'CipConnectionObject():&#160;cipconnectionobject.h'],['../d4/d38/opener__api_8h.html#a4d3da7ab056cd808b359bad6c1ad8716',1,'CipConnectionObject():&#160;opener_api.h']]],
   ['cipconnectionpathepath',['CipConnectionPathEpath',['../d1/d02/cipepath_8h.html#acc22980f450df47deab84248be2ace17',1,'cipepath.h']]],
-  ['cipconnectionstatehandler',['CipConnectionStateHandler',['../d2/d11/cipclass3connection_8h.html#a54fac9132bc63fdce902025c0827b6cf',1,'CipConnectionStateHandler():&#160;cipclass3connection.h'],['../d1/d6c/cipconnectionobject_8h.html#a54fac9132bc63fdce902025c0827b6cf',1,'CipConnectionStateHandler():&#160;cipconnectionobject.h']]],
+  ['cipconnectionstatehandler',['CipConnectionStateHandler',['../d2/d11/cipclass3connection_8h.html#a9c7c8816b95d34e1dd88bbce7e597b1f',1,'CipConnectionStateHandler():&#160;cipclass3connection.h'],['../d1/d6c/cipconnectionobject_8h.html#a9c7c8816b95d34e1dd88bbce7e597b1f',1,'CipConnectionStateHandler():&#160;cipconnectionobject.h']]],
   ['cipdatatype',['CipDataType',['../df/d28/ciptypes_8h.html#a22530082e67e6b7c97b74ebaecde3f61',1,'ciptypes.h']]],
   ['cipdint',['CipDint',['../d7/d69/typedefs_8h.html#a1bd794c042ab4d4c94d030ddbb1408dd',1,'typedefs.h']]],
   ['cipdword',['CipDword',['../d7/d69/typedefs_8h.html#ac169b512f1c9d1ccf75af3eb09025452',1,'typedefs.h']]],
@@ -24,10 +24,10 @@ var searchData=
   ['cipuint',['CipUint',['../d7/d69/typedefs_8h.html#a72c0fba927c5681c44dbf59147578fc7',1,'typedefs.h']]],
   ['cipusint',['CipUsint',['../d7/d69/typedefs_8h.html#a378b726bef4c65cb2ec1c1cdf1205f52',1,'typedefs.h']]],
   ['cipword',['CipWord',['../d7/d69/typedefs_8h.html#ac937392ed530ac77084d95380bc66704',1,'typedefs.h']]],
-  ['closesessionfunction',['CloseSessionFunction',['../d2/da3/cipconnectionmanager_8h.html#a850cea8a987d7459f37ea6c418043976',1,'cipconnectionmanager.h']]],
-  ['connectionclosefunction',['ConnectionCloseFunction',['../d2/dc9/group__CIP__API.html#gab3435d55a62061ab401a72d765bbc43b',1,'opener_api.h']]],
+  ['closesessionfunction',['CloseSessionFunction',['../d2/da3/cipconnectionmanager_8h.html#a08b7e583fe0bb1b240d7b9483cb67a89',1,'cipconnectionmanager.h']]],
+  ['connectionclosefunction',['ConnectionCloseFunction',['../d2/dc9/group__CIP__API.html#ga02493229dff3a1b0e6d531412f38218e',1,'opener_api.h']]],
   ['connectionpointtype',['ConnectionPointType',['../df/d28/ciptypes_8h.html#aae064ca86d6d2ef9b60e4234e25197bd',1,'ciptypes.h']]],
-  ['connectionreceivedatafunction',['ConnectionReceiveDataFunction',['../d2/dc9/group__CIP__API.html#ga700d6f8597b00ad4dde320516fbb2191',1,'opener_api.h']]],
-  ['connectionsenddatafunction',['ConnectionSendDataFunction',['../d2/dc9/group__CIP__API.html#ga4a8b21856674c54b122e7ffa11feaa97',1,'opener_api.h']]],
-  ['connectiontimeoutfunction',['ConnectionTimeoutFunction',['../d2/dc9/group__CIP__API.html#ga586ee7685c9f2aa6f1b42b1cc883eba0',1,'opener_api.h']]]
+  ['connectionreceivedatafunction',['ConnectionReceiveDataFunction',['../d2/dc9/group__CIP__API.html#gad3a0b10837a49a5f4472cd6867eef726',1,'opener_api.h']]],
+  ['connectionsenddatafunction',['ConnectionSendDataFunction',['../d2/dc9/group__CIP__API.html#ga2cc2e62447eb32ee601100ae42901963',1,'opener_api.h']]],
+  ['connectiontimeoutfunction',['ConnectionTimeoutFunction',['../d2/dc9/group__CIP__API.html#ga5bf82a16f0b5bd58a32583208e4e10c7',1,'opener_api.h']]]
 ];

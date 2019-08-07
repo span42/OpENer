@@ -15,7 +15,7 @@ var cipidentity_8h =
       [ "kConfigured", "dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069aaf3a868f62507020cbedde6cdc398d05", null ],
       [ "kMinorRecoverableFault", "dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069ab437e038aea18824c9852f1b7ec0a46e", null ],
       [ "kMinorUncoverableFault", "dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069a04f436dbc137399fdb7b3646b9023479", null ],
-      [ "kMajorRecoveralbeFault", "dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069a5ae9eced3f627f2e737100cbfcb999e4", null ],
+      [ "kMajorRecoverableFault", "dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069ab55a1da4d903553ad128cdf739af07f2", null ],
       [ "kMajorUnrecoverableFault", "dc/d72/cipidentity_8h.html#a08346321a8b3e7c9129431bc53bec069a1cb3cf8f34067edd3890e6673191b6d5", null ]
     ] ],
     [ "CipIdentityInit", "dc/d72/cipidentity_8h.html#a5d5136e167300543aa046057b56ae813", null ],

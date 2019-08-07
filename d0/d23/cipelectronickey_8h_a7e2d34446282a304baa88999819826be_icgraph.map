@@ -1,5 +1,8 @@
 <map id="ElectronicKeyFormat4GetMajorRevision" name="ElectronicKeyFormat4GetMajorRevision">
-<area shape="rect" id="node2" href="$d5/d35/cipconnectionmanager_8c.html#a536c0dafefbe0ea14d8c13cc9d25e946" title="Compare the electronic key received with a forward open request with the device&#39;s data..." alt="" coords="259,5,429,32"/>
-<area shape="rect" id="node3" href="$d5/d35/cipconnectionmanager_8c.html#ad7b34359aea58ef8d4e77008ea53098f" title="Parse the connection path of a forward open request. " alt="" coords="477,31,627,57"/>
-<area shape="rect" id="node4" href="$d5/d35/cipconnectionmanager_8c.html#af379a4b383c738a07d8e1ab0a4ac7510" title="Handles a Non Null Non Matching Forward Open Request. " alt="" coords="675,23,861,65"/>
+<area shape="rect" id="node2" href="$d5/d35/cipconnectionmanager_8c.html#a536c0dafefbe0ea14d8c13cc9d25e946" title="Compare the electronic key received with a forward open request with the device&#39;s data..." alt="" coords="257,17,427,43"/>
+<area shape="rect" id="node3" href="$d5/d35/cipconnectionmanager_8c.html#ad7b34359aea58ef8d4e77008ea53098f" title="Parse the connection path of a forward open request. " alt="" coords="475,42,624,69"/>
+<area shape="rect" id="node4" href="$d5/d35/cipconnectionmanager_8c.html#af379a4b383c738a07d8e1ab0a4ac7510" title="Handles a Non Null Non Matching Forward Open Request. " alt="" coords="672,35,859,76"/>
+<area shape="rect" id="node5" href="$d5/d35/cipconnectionmanager_8c.html#a7eaeec6cc54d1799cfaba4031f0168d1" title="Handles a Non Null Matching Forward Open Request. " alt="" coords="907,5,1117,47"/>
+<area shape="rect" id="node6" href="$d5/d35/cipconnectionmanager_8c.html#a8da18334cfde58434b845b0968620811" title="Handles a Null Matching Forward Open request. " alt="" coords="1165,56,1352,97"/>
+<area shape="rect" id="node7" href="$d5/d35/cipconnectionmanager_8c.html#ad68060facbfe52b38428a40da630651b" title="Handles a Null Non Matching Forward Open Request. " alt="" coords="1400,85,1611,127"/>
 </map>

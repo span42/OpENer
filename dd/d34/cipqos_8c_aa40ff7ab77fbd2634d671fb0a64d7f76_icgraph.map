@@ -1,5 +1,7 @@
 <map id="GetAttributeSingleQoS" name="GetAttributeSingleQoS">
-<area shape="rect" id="node2" href="$d0/d3c/cipqos_8h.html#ab9a656060dcf03c3f51dbd967dff3f52" title="CipQoSInit" alt="" coords="209,5,295,32"/>
-<area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="345,5,439,32"/>
-<area shape="rect" id="node4" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="488,5,539,32"/>
+<area shape="rect" id="node2" href="$d0/d3c/cipqos_8h.html#ab9a656060dcf03c3f51dbd967dff3f52" title="CipQoSInit" alt="" coords="208,5,295,32"/>
+<area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="343,5,437,32"/>
+<area shape="rect" id="node4" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="485,5,536,32"/>
+<area shape="rect" id="node5" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="584,5,669,32"/>
+<area shape="rect" id="node6" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="717,5,839,32"/>
 </map>

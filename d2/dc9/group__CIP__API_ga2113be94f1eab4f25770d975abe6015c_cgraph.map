@@ -1,0 +1,5 @@
+<map id="SetDeviceStatus" name="SetDeviceStatus">
+<area shape="rect" id="node2" href="$d5/dc5/group__CIP__CALLBACK__API.html#gacfb8706d76bc6fe1816546e122fdcac2" title="Emulate as close a possible a power cycle of the device. " alt="" coords="444,5,543,32"/>
+<area shape="rect" id="node4" href="$d5/dc5/group__CIP__CALLBACK__API.html#gabec9a29cf19789a6534814680c21f6e7" title="Reset the device to the initial configuration and emulate as close as possible a power cycle of the d..." alt="" coords="175,31,396,57"/>
+<area shape="rect" id="node3" href="$d1/dbc/appcontype_8c.html#a18d2a32030faf1d5e3d48e610b1c4fe7" title="CloseAllConnections" alt="" coords="591,5,735,32"/>
+</map>

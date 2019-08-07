@@ -1,7 +1,9 @@
 <map id="GetExclusiveOwnerConnection" name="GetExclusiveOwnerConnection">
-<area shape="rect" id="node2" href="$d1/dc0/appcontype_8h.html#ab3a019a2217375c098345317da123323" title="check if for the given connection data received in a forward_open request a suitable connection is av..." alt="" coords="259,5,493,32"/>
-<area shape="rect" id="node3" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="542,5,695,32"/>
-<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="745,5,901,32"/>
-<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="950,5,1045,32"/>
-<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1093,5,1144,32"/>
+<area shape="rect" id="node2" href="$d1/dc0/appcontype_8h.html#ab3a019a2217375c098345317da123323" title="check if for the given connection data received in a forward_open request a suitable connection is av..." alt="" coords="257,5,491,32"/>
+<area shape="rect" id="node3" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="539,5,692,32"/>
+<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="740,5,896,32"/>
+<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="944,5,1039,32"/>
+<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1087,5,1137,32"/>
+<area shape="rect" id="node7" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1185,5,1271,32"/>
+<area shape="rect" id="node8" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1319,5,1440,32"/>
 </map>

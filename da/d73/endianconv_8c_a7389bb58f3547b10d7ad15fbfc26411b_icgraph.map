@@ -1,5 +1,7 @@
 <map id="DetermineEndianess" name="DetermineEndianess">
-<area shape="rect" id="node2" href="$d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022" title="Initialize the encapsulation layer. " alt="" coords="197,5,320,32"/>
-<area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="369,5,463,32"/>
-<area shape="rect" id="node4" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="512,5,563,32"/>
+<area shape="rect" id="node2" href="$d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022" title="Initialize the encapsulation layer. " alt="" coords="196,5,319,32"/>
+<area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="367,5,461,32"/>
+<area shape="rect" id="node4" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="509,5,560,32"/>
+<area shape="rect" id="node5" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="608,5,693,32"/>
+<area shape="rect" id="node6" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="741,5,863,32"/>
 </map>
