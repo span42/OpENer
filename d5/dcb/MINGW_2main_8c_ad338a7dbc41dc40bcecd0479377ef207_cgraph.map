@@ -1,51 +1,51 @@
 <map id="main" name="main">
-<area shape="rect" id="node2" href="$df/d91/cipconnectionobject_8c.html#af53b7a7965eb70780371a38ed7aa89bc" title="CipConnectionObjectListArray\lAllocator" alt="" coords="117,109,315,150"/>
-<area shape="rect" id="node3" href="$df/d91/cipconnectionobject_8c.html#ade30018f5b81baa02d45c59edd8e7d98" title="CipConnectionObjectListArrayFree" alt="" coords="104,175,328,201"/>
-<area shape="rect" id="node6" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="169,331,263,357"/>
-<area shape="rect" id="node17" href="$d2/dc9/group__CIP__API.html#ga1cdce3825851b4508fb48bcdf39d3e79" title="Configure the domain name of the device. " alt="" coords="137,381,295,408"/>
-<area shape="rect" id="node18" href="$d2/dc9/group__CIP__API.html#ga46852b377c335201a4069b71946af6d2" title="Configure the host name of the device. " alt="" coords="145,432,287,459"/>
-<area shape="rect" id="node19" href="$d2/dc9/group__CIP__API.html#ga4f6649918af497340d565d062df30273" title="Configure the data of the network interface of the device. " alt="" coords="127,483,305,509"/>
-<area shape="rect" id="node20" href="$d9/ddc/doublylinkedlist_8c.html#a4bc27e688b6d12284ba386e8a1072ed2" title="DoublyLinkedListInitialize" alt="" coords="131,533,301,560"/>
-<area shape="rect" id="node21" href="$d5/dcb/MINGW_2main_8c.html#a8460ebd147c924f753c4ccdcc5f9ae90" title="Signal handler function for ending stack execution. " alt="" coords="171,584,261,611"/>
-<area shape="rect" id="node22" href="$db/d4f/generic__networkhandler_8c.html#aace33c0e7aa348969492ede822183bd5" title="NetworkHandlerFinish" alt="" coords="141,635,291,661"/>
-<area shape="rect" id="node24" href="$db/d4f/generic__networkhandler_8c.html#aa49065f73f4d0f0ab04fb0b35d791e5d" title="The platform independent part of network handler initialization routine. " alt="" coords="416,685,580,712"/>
-<area shape="rect" id="node33" href="$db/d4f/generic__networkhandler_8c.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="119,1060,313,1087"/>
-<area shape="rect" id="node44" href="$d2/dc9/group__CIP__API.html#ga696952d9dbc1b6fdedf517aa55f94323" title="Set the serial number of the device&#39;s identity object. " alt="" coords="135,1111,297,1137"/>
-<area shape="rect" id="node45" href="$d2/dc9/group__CIP__API.html#gaa57b527530adc2acda6febc500fd6831" title="Shutdown of the CIP stack. " alt="" coords="149,1581,283,1608"/>
-<area shape="rect" id="node4" href="$df/d91/cipconnectionobject_8c.html#a8b64594fd1744d505b13484495d96d78" title="ConnectionObjectCalculate\lRegularInactivityWatchdogTimerValue" alt="" coords="668,33,913,74"/>
-<area shape="rect" id="node5" href="$df/d91/cipconnectionobject_8c.html#aff88fa3ae6c57c3d9bee691560d9f670" title="ConnectionObjectSetInitial\lInactivityWatchdogTimerValue" alt="" coords="398,62,598,103"/>
-<area shape="rect" id="node7" href="$d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022" title="Initialize the encapsulation layer. " alt="" coords="437,128,559,155"/>
-<area shape="rect" id="node9" href="$d9/d7d/cipmessagerouter_8c.html#acbd84034d84f697031ad9de10c8d1388" title="Initialize the data structures of the message router. " alt="" coords="422,179,574,205"/>
-<area shape="rect" id="node10" href="$dd/dc4/cipidentity_8c.html#a374cdadb1e6f8d07acb7044a176eb6b2" title="CIP Identity object constructor. " alt="" coords="447,229,549,256"/>
-<area shape="rect" id="node11" href="$dd/d20/ciptcpipinterface_8c.html#a30729bd683f7ee214bbb684de52456cd" title="Initializing the data structures of the TCP/IP interface object. " alt="" coords="426,280,570,307"/>
-<area shape="rect" id="node12" href="$d7/d65/cipethernetlink_8c.html#ab1c2d006a08c187c70ab66bb0a777bd0" title="Initialize the Ethernet Link Objects data. " alt="" coords="431,331,565,357"/>
-<area shape="rect" id="node13" href="$d5/d35/cipconnectionmanager_8c.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="420,381,576,408"/>
-<area shape="rect" id="node14" href="$df/d2e/cipassembly_8c.html#a4dfbc2c7a8e9e77f05a0a7236210f5b4" title="create the CIP Assembly object with zero instances " alt="" coords="424,432,572,459"/>
-<area shape="rect" id="node15" href="$dd/d34/cipqos_8c.html#a2260436cbdaebb25c39005aca7781ac7" title="CipQoSInit" alt="" coords="455,483,541,509"/>
-<area shape="rect" id="node16" href="$d5/dc5/group__CIP__CALLBACK__API.html#gae93106eb1647bff3ad56a7752799d878" title="Callback for the application initialization. " alt="" coords="421,533,575,560"/>
-<area shape="rect" id="node8" href="$da/d73/endianconv_8c.html#a7389bb58f3547b10d7ad15fbfc26411b" title="Detects Endianess of the platform and sets global g_nOpENerPlatformEndianess variable accordingly..." alt="" coords="719,128,862,155"/>
-<area shape="rect" id="node23" href="$d5/dc5/group__CIP__CALLBACK__API.html#gae04e2a3e9937e910cbcdbff0b8d6ad2b" title="Close the given socket and clean up the stack. " alt="" coords="961,969,1059,996"/>
-<area shape="rect" id="node25" href="$d8/d60/MINGW_2opener__error_8c.html#a99f5295ad12a2b986bab4b89a24cfc20" title="Frees the space of the error message generated by GetErrorMessage(int) " alt="" coords="726,917,855,944"/>
-<area shape="rect" id="node26" href="$d8/d60/MINGW_2opener__error_8c.html#a0df2625909cb28076bc7df8e6c9cfcae" title="Returns a human readable message for the given error number. " alt="" coords="729,968,853,995"/>
-<area shape="rect" id="node27" href="$db/d4f/generic__networkhandler_8c.html#afd95c5a901db3aca5977f359ccd95aa2" title="Returns the socket with the highest id. " alt="" coords="736,635,845,661"/>
-<area shape="rect" id="node28" href="$d3/de3/MINGW_2networkhandler_8c.html#a2d91de751b888e7b5a5c2e2692fd4492" title="Returns current time in milliseconds from monotonic time base, please note that this does not represe..." alt="" coords="732,853,849,880"/>
-<area shape="rect" id="node29" href="$d8/d60/MINGW_2opener__error_8c.html#afbc52bcd5256264e75ba063f2e361e24" title="Gets the error number or equivalent. " alt="" coords="711,1023,870,1049"/>
-<area shape="rect" id="node30" href="$d3/de3/MINGW_2networkhandler_8c.html#a443a5019c1bb91b2490f96b0d0158e04" title="Executes platform dependent network handler initialization code. " alt="" coords="709,686,873,727"/>
-<area shape="rect" id="node31" href="$d3/de3/MINGW_2networkhandler_8c.html#a4af2b184144f7d807e8157ee8b474ecf" title="Tries to set socket to non blocking behavior. " alt="" coords="705,752,877,779"/>
-<area shape="rect" id="node32" href="$d4/df6/socket__timer_8c.html#a187bcd772200d8f1e4e937cb3a587782" title="Initializes an array of Socket Timer entries. " alt="" coords="703,803,878,829"/>
-<area shape="rect" id="node34" href="$db/d4f/generic__networkhandler_8c.html#af0c95ade149818d252c292b489cfe190" title="check if on one of the UDP consuming sockets data has been received and if yes handle it correctly ..." alt="" coords="391,889,605,930"/>
-<area shape="rect" id="node35" href="$db/d4f/generic__networkhandler_8c.html#acebcfe03d5528a69d288c446ff3048b1" title="check if the given socket is set in the read set " alt="" coords="730,1073,851,1100"/>
-<area shape="rect" id="node36" href="$db/d4f/generic__networkhandler_8c.html#a8c1688da4bc37416162f4ba5ac436294" title="handle any connection request coming in the TCP server socket. " alt="" coords="402,954,594,995"/>
-<area shape="rect" id="node37" href="$db/d4f/generic__networkhandler_8c.html#a5cae623dd720f3072dabdb78aa134262" title="Checks and handles incoming messages via UDP broadcast. " alt="" coords="376,1019,620,1061"/>
-<area shape="rect" id="node38" href="$db/d4f/generic__networkhandler_8c.html#ace1d8f3907ead0c43c1b5853132d5eb1" title="Checks and processes request received via the UDP unicast socket, currently the implementation is por..." alt="" coords="401,1085,595,1126"/>
-<area shape="rect" id="node39" href="$db/d4f/generic__networkhandler_8c.html#ab561fc66fe48a0cf95be3d152b297dd9" title="CheckEncapsulationInactivity" alt="" coords="401,1353,595,1380"/>
-<area shape="rect" id="node40" href="$db/d4f/generic__networkhandler_8c.html#a1bfa5ef8e4802716459a56567ee16592" title="CloseTcpSocket" alt="" coords="731,1379,850,1405"/>
-<area shape="rect" id="node41" href="$d2/dbd/encap_8c.html#a86c98c2665f4c058e9c5afb60690a81b" title="RemoveSession" alt="" coords="731,1303,850,1329"/>
-<area shape="rect" id="node42" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="413,1151,583,1177"/>
-<area shape="rect" id="node43" href="$d2/dc9/group__CIP__API.html#ga9f57b09260efb5bfb188b9d0ca0c6091" title="Check if any of the connection timers (TransmissionTrigger or WatchdogTimeout) have timed out..." alt="" coords="427,1455,569,1481"/>
-<area shape="rect" id="node46" href="$d1/dbc/appcontype_8c.html#a18d2a32030faf1d5e3d48e610b1c4fe7" title="CloseAllConnections" alt="" coords="426,1505,570,1532"/>
-<area shape="rect" id="node47" href="$d4/d91/group__ENCAP.html#ga1261bd2441f744c38d7a3f8d8c16c391" title="Shutdown the encapsulation layer. " alt="" coords="415,1556,581,1583"/>
-<area shape="rect" id="node48" href="$df/d2e/cipassembly_8c.html#adcacd62b6a866c5c74c3cdda19598b98" title="clean up the data allocated in the assembly object instances " alt="" coords="424,1607,572,1633"/>
-<area shape="rect" id="node49" href="$dd/d20/ciptcpipinterface_8c.html#a523c7909b1d929c0b9b288802189d391" title="Clean up the allocated data of the TCP/IP interface object. " alt="" coords="416,1657,580,1684"/>
-<area shape="rect" id="node50" href="$d9/d7d/cipmessagerouter_8c.html#a16364f408990e2a5725f2fd5375ef3df" title="Free all data allocated by the classes created in the CIP stack. " alt="" coords="437,1708,559,1735"/>
+<area shape="rect" id="node2" href="$df/d91/cipconnectionobject_8c.html#af53b7a7965eb70780371a38ed7aa89bc" title="CipConnectionObjectListArray\lAllocator" alt="" coords="117,118,315,159"/>
+<area shape="rect" id="node3" href="$df/d91/cipconnectionobject_8c.html#ade30018f5b81baa02d45c59edd8e7d98" title="CipConnectionObjectListArrayFree" alt="" coords="104,184,328,210"/>
+<area shape="rect" id="node6" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="169,340,263,366"/>
+<area shape="rect" id="node16" href="$d2/dc9/group__CIP__API.html#ga1cdce3825851b4508fb48bcdf39d3e79" title="Configure the domain name of the device. " alt="" coords="137,422,295,449"/>
+<area shape="rect" id="node17" href="$d2/dc9/group__CIP__API.html#ga46852b377c335201a4069b71946af6d2" title="Configure the host name of the device. " alt="" coords="145,473,287,500"/>
+<area shape="rect" id="node18" href="$d2/dc9/group__CIP__API.html#ga4f6649918af497340d565d062df30273" title="Configure the data of the network interface of the device. " alt="" coords="127,524,305,550"/>
+<area shape="rect" id="node19" href="$d9/ddc/doublylinkedlist_8c.html#a4bc27e688b6d12284ba386e8a1072ed2" title="DoublyLinkedListInitialize" alt="" coords="131,574,301,601"/>
+<area shape="rect" id="node20" href="$d5/dcb/MINGW_2main_8c.html#a8460ebd147c924f753c4ccdcc5f9ae90" title="Signal handler function for ending stack execution. " alt="" coords="171,625,261,652"/>
+<area shape="rect" id="node21" href="$db/d4f/generic__networkhandler_8c.html#aace33c0e7aa348969492ede822183bd5" title="NetworkHandlerFinish" alt="" coords="141,676,291,702"/>
+<area shape="rect" id="node23" href="$db/d4f/generic__networkhandler_8c.html#aa49065f73f4d0f0ab04fb0b35d791e5d" title="The platform independent part of network handler initialization routine. " alt="" coords="416,746,580,773"/>
+<area shape="rect" id="node34" href="$db/d4f/generic__networkhandler_8c.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="119,1121,313,1148"/>
+<area shape="rect" id="node45" href="$d2/dc9/group__CIP__API.html#ga696952d9dbc1b6fdedf517aa55f94323" title="Set the serial number of the device&#39;s identity object. " alt="" coords="135,1172,297,1198"/>
+<area shape="rect" id="node46" href="$d2/dc9/group__CIP__API.html#gaa57b527530adc2acda6febc500fd6831" title="Shutdown of the CIP stack. " alt="" coords="149,1617,283,1644"/>
+<area shape="rect" id="node4" href="$df/d91/cipconnectionobject_8c.html#a8b64594fd1744d505b13484495d96d78" title="ConnectionObjectCalculate\lRegularInactivityWatchdogTimerValue" alt="" coords="668,34,913,75"/>
+<area shape="rect" id="node5" href="$df/d91/cipconnectionobject_8c.html#aff88fa3ae6c57c3d9bee691560d9f670" title="ConnectionObjectSetInitial\lInactivityWatchdogTimerValue" alt="" coords="398,63,598,104"/>
+<area shape="rect" id="node7" href="$d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022" title="Initialize the encapsulation layer. " alt="" coords="437,129,559,156"/>
+<area shape="rect" id="node8" href="$d9/d7d/cipmessagerouter_8c.html#acbd84034d84f697031ad9de10c8d1388" title="Initialize the data structures of the message router. " alt="" coords="422,180,574,206"/>
+<area shape="rect" id="node9" href="$dd/dc4/cipidentity_8c.html#a374cdadb1e6f8d07acb7044a176eb6b2" title="CIP Identity object constructor. " alt="" coords="447,230,549,257"/>
+<area shape="rect" id="node10" href="$dd/d20/ciptcpipinterface_8c.html#a30729bd683f7ee214bbb684de52456cd" title="Initializing the data structures of the TCP/IP interface object. " alt="" coords="426,281,570,308"/>
+<area shape="rect" id="node11" href="$d7/d65/cipethernetlink_8c.html#ab1c2d006a08c187c70ab66bb0a777bd0" title="Initialize the Ethernet Link Objects data. " alt="" coords="431,332,565,358"/>
+<area shape="rect" id="node12" href="$d5/d35/cipconnectionmanager_8c.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="420,382,576,409"/>
+<area shape="rect" id="node13" href="$df/d2e/cipassembly_8c.html#a4dfbc2c7a8e9e77f05a0a7236210f5b4" title="create the CIP Assembly object with zero instances " alt="" coords="424,433,572,460"/>
+<area shape="rect" id="node14" href="$dd/d34/cipqos_8c.html#a2260436cbdaebb25c39005aca7781ac7" title="CipQoSInit" alt="" coords="455,484,541,510"/>
+<area shape="rect" id="node15" href="$d5/dc5/group__CIP__CALLBACK__API.html#gae93106eb1647bff3ad56a7752799d878" title="Callback for the application initialization. " alt="" coords="421,534,575,561"/>
+<area shape="rect" id="node22" href="$d5/dc5/group__CIP__CALLBACK__API.html#gae04e2a3e9937e910cbcdbff0b8d6ad2b" title="Close the given socket and clean up the stack. " alt="" coords="961,997,1059,1024"/>
+<area shape="rect" id="node24" href="$d8/d60/MINGW_2opener__error_8c.html#a99f5295ad12a2b986bab4b89a24cfc20" title="Frees the space of the error message generated by GetErrorMessage(int) " alt="" coords="726,1001,855,1028"/>
+<area shape="rect" id="node25" href="$d8/d60/MINGW_2opener__error_8c.html#a0df2625909cb28076bc7df8e6c9cfcae" title="Returns a human readable message for the given error number. " alt="" coords="729,1052,853,1078"/>
+<area shape="rect" id="node26" href="$db/d4f/generic__networkhandler_8c.html#afd95c5a901db3aca5977f359ccd95aa2" title="Returns the socket with the highest id. " alt="" coords="736,630,845,657"/>
+<area shape="rect" id="node27" href="$d3/de3/MINGW_2networkhandler_8c.html#a2d91de751b888e7b5a5c2e2692fd4492" title="Returns current time in milliseconds from monotonic time base, please note that this does not represe..." alt="" coords="732,950,849,977"/>
+<area shape="rect" id="node28" href="$dd/d34/cipqos_8c.html#a6fa85e635fcd14e9797254ec3a5bb95e" title="Initializing the data structures of the TCP/IP interface object. " alt="" coords="719,681,863,708"/>
+<area shape="rect" id="node29" href="$d8/d60/MINGW_2opener__error_8c.html#afbc52bcd5256264e75ba063f2e361e24" title="Gets the error number or equivalent. " alt="" coords="711,1102,870,1129"/>
+<area shape="rect" id="node30" href="$d3/de3/MINGW_2networkhandler_8c.html#a443a5019c1bb91b2490f96b0d0158e04" title="Executes platform dependent network handler initialization code. " alt="" coords="709,732,873,774"/>
+<area shape="rect" id="node31" href="$d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" title="Sets QoS on socket. " alt="" coords="729,798,853,825"/>
+<area shape="rect" id="node32" href="$d3/de3/MINGW_2networkhandler_8c.html#a4af2b184144f7d807e8157ee8b474ecf" title="Tries to set socket to non blocking behavior. " alt="" coords="705,849,877,876"/>
+<area shape="rect" id="node33" href="$d4/df6/socket__timer_8c.html#a187bcd772200d8f1e4e937cb3a587782" title="Initializes an array of Socket Timer entries. " alt="" coords="703,900,878,926"/>
+<area shape="rect" id="node35" href="$db/d4f/generic__networkhandler_8c.html#af0c95ade149818d252c292b489cfe190" title="check if on one of the UDP consuming sockets data has been received and if yes handle it correctly ..." alt="" coords="391,950,605,991"/>
+<area shape="rect" id="node36" href="$db/d4f/generic__networkhandler_8c.html#acebcfe03d5528a69d288c446ff3048b1" title="check if the given socket is set in the read set " alt="" coords="730,1153,851,1180"/>
+<area shape="rect" id="node37" href="$db/d4f/generic__networkhandler_8c.html#a8c1688da4bc37416162f4ba5ac436294" title="handle any connection request coming in the TCP server socket. " alt="" coords="402,1015,594,1056"/>
+<area shape="rect" id="node38" href="$db/d4f/generic__networkhandler_8c.html#a5cae623dd720f3072dabdb78aa134262" title="Checks and handles incoming messages via UDP broadcast. " alt="" coords="376,1080,620,1122"/>
+<area shape="rect" id="node39" href="$db/d4f/generic__networkhandler_8c.html#ace1d8f3907ead0c43c1b5853132d5eb1" title="Checks and processes request received via the UDP unicast socket, currently the implementation is por..." alt="" coords="401,1146,595,1187"/>
+<area shape="rect" id="node40" href="$db/d4f/generic__networkhandler_8c.html#ab561fc66fe48a0cf95be3d152b297dd9" title="CheckEncapsulationInactivity" alt="" coords="401,1414,595,1441"/>
+<area shape="rect" id="node41" href="$db/d4f/generic__networkhandler_8c.html#a1bfa5ef8e4802716459a56567ee16592" title="CloseTcpSocket" alt="" coords="731,1440,850,1466"/>
+<area shape="rect" id="node42" href="$d2/dbd/encap_8c.html#a86c98c2665f4c058e9c5afb60690a81b" title="RemoveSession" alt="" coords="731,1364,850,1390"/>
+<area shape="rect" id="node43" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="413,1212,583,1238"/>
+<area shape="rect" id="node44" href="$d2/dc9/group__CIP__API.html#ga9f57b09260efb5bfb188b9d0ca0c6091" title="Check if any of the connection timers (TransmissionTrigger or WatchdogTimeout) have timed out..." alt="" coords="427,1516,569,1542"/>
+<area shape="rect" id="node47" href="$d1/dbc/appcontype_8c.html#a18d2a32030faf1d5e3d48e610b1c4fe7" title="CloseAllConnections" alt="" coords="426,1566,570,1593"/>
+<area shape="rect" id="node48" href="$d4/d91/group__ENCAP.html#ga1261bd2441f744c38d7a3f8d8c16c391" title="Shutdown the encapsulation layer. " alt="" coords="415,1617,581,1644"/>
+<area shape="rect" id="node49" href="$df/d2e/cipassembly_8c.html#adcacd62b6a866c5c74c3cdda19598b98" title="clean up the data allocated in the assembly object instances " alt="" coords="424,1668,572,1694"/>
+<area shape="rect" id="node50" href="$dd/d20/ciptcpipinterface_8c.html#a523c7909b1d929c0b9b288802189d391" title="Clean up the allocated data of the TCP/IP interface object. " alt="" coords="416,1718,580,1745"/>
 </map>
