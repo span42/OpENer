@@ -2,10 +2,10 @@
 <area shape="rect" id="node2" href="$d5/d35/cipconnectionmanager_8c.html#a167e93dbddfb66e7789253fe78f06998" title="Insert the given connection object to the list of currently active and managed connections. " alt="" coords="273,56,447,83"/>
 <area shape="rect" id="node6" href="$dc/d93/cipclass3connection_8c.html#a6053ab7004c1419bd80faf9aca54bfd3" title="Class3ConnectionTimeoutHandler" alt="" coords="249,357,471,384"/>
 <area shape="rect" id="node10" href="$d5/d35/cipconnectionmanager_8c.html#a9367d6d6edfd5bd276ead18619f4d74e" title="Close the given connection. " alt="" coords="608,237,731,264"/>
-<area shape="rect" id="node24" href="$df/d91/cipconnectionobject_8c.html#afaa08a457cbae921463403f0f00dd38e" title="Copy the given connection data from source to destination. " alt="" coords="266,476,454,503"/>
-<area shape="rect" id="node25" href="$df/d91/cipconnectionobject_8c.html#a65b85bb4b72c902af06e054e24d6292c" title="Generate the ConnectionIDs and set the general configuration parameter in the given connection object..." alt="" coords="236,651,484,677"/>
-<area shape="rect" id="node35" href="$df/d91/cipconnectionobject_8c.html#a49bbc4004eb23be25b6d3620ece5a7a7" title="ConnectionObjectSetInstanceType" alt="" coords="247,701,473,728"/>
-<area shape="rect" id="node36" href="$dc/d93/cipclass3connection_8c.html#a5557c2c7143958acb9d125e2e11296f3" title="Searches and returns a free explicit connection slot. " alt="" coords="271,425,449,452"/>
+<area shape="rect" id="node25" href="$df/d91/cipconnectionobject_8c.html#afaa08a457cbae921463403f0f00dd38e" title="Copy the given connection data from source to destination. " alt="" coords="266,476,454,503"/>
+<area shape="rect" id="node26" href="$df/d91/cipconnectionobject_8c.html#a65b85bb4b72c902af06e054e24d6292c" title="Generate the ConnectionIDs and set the general configuration parameter in the given connection object..." alt="" coords="236,651,484,677"/>
+<area shape="rect" id="node36" href="$df/d91/cipconnectionobject_8c.html#a49bbc4004eb23be25b6d3620ece5a7a7" title="ConnectionObjectSetInstanceType" alt="" coords="247,701,473,728"/>
+<area shape="rect" id="node37" href="$dc/d93/cipclass3connection_8c.html#a5557c2c7143958acb9d125e2e11296f3" title="Searches and returns a free explicit connection slot. " alt="" coords="271,425,449,452"/>
 <area shape="rect" id="node3" href="$d9/ddc/doublylinkedlist_8c.html#abca57475d14f9dffff53bea22eaf7b2f" title="DoublyLinkedListInsertAtHead" alt="" coords="570,5,769,32"/>
 <area shape="rect" id="node5" href="$df/d91/cipconnectionobject_8c.html#ace0a978d1b7fe59261b1024b5ba1cd15" title="ConnectionObjectSetState" alt="" coords="1158,85,1335,112"/>
 <area shape="rect" id="node4" href="$d9/ddc/doublylinkedlist_8c.html#a973d3b25eae020e7b5e5927c8785106c" title="DoublyLinkedListNodeCreate" alt="" coords="880,5,1072,32"/>
@@ -22,16 +22,17 @@
 <area shape="rect" id="node16" href="$d9/ddc/doublylinkedlist_8c.html#a341e2f6faf7227650ed6e38e90cd047e" title="DoublyLinkedListRemoveNode" alt="" coords="1145,173,1348,200"/>
 <area shape="rect" id="node17" href="$d9/ddc/doublylinkedlist_8c.html#a87710acb9f42fba14822fb824814105c" title="DoublyLinkedListNodeDestroy" alt="" coords="1396,173,1595,200"/>
 <area shape="rect" id="node20" href="$db/d4f/generic__networkhandler_8c.html#a1bfa5ef8e4802716459a56567ee16592" title="CloseTcpSocket" alt="" coords="917,341,1035,368"/>
-<area shape="rect" id="node21" href="$db/d4f/generic__networkhandler_8c.html#aea539a75995234e379a1c25019ba378f" title="RemoveSocketTimerFromList" alt="" coords="1149,341,1345,368"/>
-<area shape="rect" id="node22" href="$d4/df6/socket__timer_8c.html#abe7542fdec4d4e4893a8c712192529ca" title="Get the Socket Timer entry with the spezified socket value. " alt="" coords="1401,363,1590,405"/>
-<area shape="rect" id="node23" href="$d4/df6/socket__timer_8c.html#a6130830815ae46fe4e6d45cf89bc3506" title="Clears a Socket Timer entry. " alt="" coords="1432,312,1559,339"/>
-<area shape="rect" id="node26" href="$df/d91/cipconnectionobject_8c.html#aa896ebb7d03c6e75027402b3e0d6dc6e" title="ConnectionObjectGetOToTConnectionType" alt="" coords="532,873,807,900"/>
-<area shape="rect" id="node28" href="$df/d91/cipconnectionobject_8c.html#ac3ccaa3dc2b635564c622af574f70dc4" title="ConnectionObjectSetCipConsumed\lConnectionID" alt="" coords="555,494,784,535"/>
-<area shape="rect" id="node29" href="$d5/d35/cipconnectionmanager_8c.html#ad93407280191a97626d71b0347724eda" title="Generate a new connection Id utilizing the Incarnation Id as described in the EIP specs..." alt="" coords="609,560,729,587"/>
-<area shape="rect" id="node30" href="$df/d91/cipconnectionobject_8c.html#ad61ad2b2c18480a141e5df346e32be02" title="ConnectionObjectGetTToOConnectionType" alt="" coords="532,924,807,951"/>
-<area shape="rect" id="node31" href="$df/d91/cipconnectionobject_8c.html#af7cb76f073d6f32b45e37c06109770b7" title="ConnectionObjectSetCipProduced\lConnectionID" alt="" coords="559,611,780,653"/>
-<area shape="rect" id="node32" href="$df/d91/cipconnectionobject_8c.html#af58aabbdd4f37e3e5601a52f0a698936" title="ConnectionObjectResetSequence\lCounts" alt="" coords="560,677,779,718"/>
-<area shape="rect" id="node33" href="$df/d91/cipconnectionobject_8c.html#a9bf4e569cc43263943c0c8c8b138f5c4" title="ConnectionObjectSetWatchdog\lTimeoutAction" alt="" coords="567,742,772,783"/>
-<area shape="rect" id="node34" href="$df/d91/cipconnectionobject_8c.html#a6636b4aeeb4208417d057d48ed87a490" title="ConnectionObjectResetProduction\lInhibitTimer" alt="" coords="558,807,781,849"/>
-<area shape="rect" id="node27" href="$df/d91/cipconnectionobject_8c.html#a0da85deed56477da3ec500cec51aa46e" title="ConnectionObjectGetConnectionType" alt="" coords="855,899,1097,925"/>
+<area shape="rect" id="node21" href="$d3/de3/MINGW_2networkhandler_8c.html#a9d64596a63648e960da4dbf475ec2e4a" title="Platform dependent code to shutdown a stream socket. " alt="" coords="1161,316,1332,343"/>
+<area shape="rect" id="node22" href="$db/d4f/generic__networkhandler_8c.html#aea539a75995234e379a1c25019ba378f" title="RemoveSocketTimerFromList" alt="" coords="1149,367,1345,393"/>
+<area shape="rect" id="node23" href="$d4/df6/socket__timer_8c.html#abe7542fdec4d4e4893a8c712192529ca" title="Get the Socket Timer entry with the spezified socket value. " alt="" coords="1401,363,1590,405"/>
+<area shape="rect" id="node24" href="$d4/df6/socket__timer_8c.html#a6130830815ae46fe4e6d45cf89bc3506" title="Clears a Socket Timer entry. " alt="" coords="1432,312,1559,339"/>
+<area shape="rect" id="node27" href="$df/d91/cipconnectionobject_8c.html#aa896ebb7d03c6e75027402b3e0d6dc6e" title="ConnectionObjectGetOToTConnectionType" alt="" coords="532,873,807,900"/>
+<area shape="rect" id="node29" href="$df/d91/cipconnectionobject_8c.html#ac3ccaa3dc2b635564c622af574f70dc4" title="ConnectionObjectSetCipConsumed\lConnectionID" alt="" coords="555,494,784,535"/>
+<area shape="rect" id="node30" href="$d5/d35/cipconnectionmanager_8c.html#ad93407280191a97626d71b0347724eda" title="Generate a new connection Id utilizing the Incarnation Id as described in the EIP specs..." alt="" coords="609,560,729,587"/>
+<area shape="rect" id="node31" href="$df/d91/cipconnectionobject_8c.html#ad61ad2b2c18480a141e5df346e32be02" title="ConnectionObjectGetTToOConnectionType" alt="" coords="532,924,807,951"/>
+<area shape="rect" id="node32" href="$df/d91/cipconnectionobject_8c.html#af7cb76f073d6f32b45e37c06109770b7" title="ConnectionObjectSetCipProduced\lConnectionID" alt="" coords="559,611,780,653"/>
+<area shape="rect" id="node33" href="$df/d91/cipconnectionobject_8c.html#af58aabbdd4f37e3e5601a52f0a698936" title="ConnectionObjectResetSequence\lCounts" alt="" coords="560,677,779,718"/>
+<area shape="rect" id="node34" href="$df/d91/cipconnectionobject_8c.html#a9bf4e569cc43263943c0c8c8b138f5c4" title="ConnectionObjectSetWatchdog\lTimeoutAction" alt="" coords="567,742,772,783"/>
+<area shape="rect" id="node35" href="$df/d91/cipconnectionobject_8c.html#a6636b4aeeb4208417d057d48ed87a490" title="ConnectionObjectResetProduction\lInhibitTimer" alt="" coords="558,807,781,849"/>
+<area shape="rect" id="node28" href="$df/d91/cipconnectionobject_8c.html#a0da85deed56477da3ec500cec51aa46e" title="ConnectionObjectGetConnectionType" alt="" coords="855,899,1097,925"/>
 </map>

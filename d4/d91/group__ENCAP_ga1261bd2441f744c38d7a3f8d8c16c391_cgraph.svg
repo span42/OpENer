@@ -56,21 +56,21 @@ var sectionId = 'dynsection-11';
 <title>EncapsulationShutDown</title>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<polygon fill="#bfbfbf" stroke="black" points="0,-64.5 0,-83.5 124,-83.5 124,-64.5 0,-64.5"/>
-<text text-anchor="middle" x="62" y="-71.5" font-family="Helvetica,sans-Serif" font-size="10.00">EncapsulationShutDown</text>
+<polygon fill="#bfbfbf" stroke="black" points="0,-44.5 0,-63.5 124,-63.5 124,-44.5 0,-44.5"/>
+<text text-anchor="middle" x="62" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">EncapsulationShutDown</text>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
 <g id="a_node2"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#a1bfa5ef8e4802716459a56567ee16592" target="_top" xlink:title="CloseTcpSocket">
-<polygon fill="none" stroke="black" points="160,-64.5 160,-83.5 249,-83.5 249,-64.5 160,-64.5"/>
-<text text-anchor="middle" x="204.5" y="-71.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloseTcpSocket</text>
+<polygon fill="none" stroke="black" points="160,-44.5 160,-63.5 249,-63.5 249,-44.5 160,-44.5"/>
+<text text-anchor="middle" x="204.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloseTcpSocket</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M124.217,-74C132.733,-74 141.43,-74 149.796,-74"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="149.8,-77.5001 159.8,-74 149.8,-70.5001 149.8,-77.5001"/>
+<path fill="none" stroke="midnightblue" d="M124.217,-54C132.733,-54 141.43,-54 149.796,-54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="149.8,-57.5001 159.8,-54 149.8,-50.5001 149.8,-57.5001"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
@@ -82,8 +82,8 @@ var sectionId = 'dynsection-11';
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge"><title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M249.057,-80.0178C268.63,-82.7219 291.736,-85.9142 311.58,-88.6558"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="311.239,-92.1419 321.624,-90.0434 312.197,-85.2077 311.239,-92.1419"/>
+<path fill="none" stroke="midnightblue" d="M240.754,-63.5093C262.068,-69.2585 289.453,-76.6451 312.342,-82.8193"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="311.608,-86.2462 322.174,-85.4714 313.431,-79.4878 311.608,-86.2462"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
@@ -95,8 +95,21 @@ var sectionId = 'dynsection-11';
 </g>
 <!-- Node2&#45;&gt;Node5 -->
 <g id="edge4" class="edge"><title>Node2&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M249.057,-68.2688C257.279,-67.1869 266.125,-66.023 275.091,-64.8433"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="275.78,-68.2829 285.238,-63.5082 274.867,-61.3427 275.78,-68.2829"/>
+<path fill="none" stroke="midnightblue" d="M249.057,-54C257.216,-54 265.988,-54 274.883,-54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="274.95,-57.5001 284.95,-54 274.95,-50.5001 274.95,-57.5001"/>
+</g>
+<!-- Node8 -->
+<g id="node8" class="node"><title>Node8</title>
+<g id="a_node8"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a9d64596a63648e960da4dbf475ec2e4a" target="_top" xlink:title="Platform dependent code to shutdown a stream socket. ">
+<polygon fill="none" stroke="black" points="294.5,-6.5 294.5,-25.5 422.5,-25.5 422.5,-6.5 294.5,-6.5"/>
+<text text-anchor="middle" x="358.5" y="-13.5" font-family="Helvetica,sans-Serif" font-size="10.00">ShutdownSocketPlatform</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node8 -->
+<g id="edge7" class="edge"><title>Node2&#45;&gt;Node8</title>
+<path fill="none" stroke="midnightblue" d="M243.856,-44.411C263.824,-39.4191 288.43,-33.2676 309.633,-27.9666"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="310.567,-31.341 319.42,-25.5201 308.869,-24.55 310.567,-31.341"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>

@@ -10,8 +10,8 @@
 <title>CloseTcpSocket</title>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<polygon fill="#bfbfbf" stroke="black" points="0,-64.5 0,-83.5 89,-83.5 89,-64.5 0,-64.5"/>
-<text text-anchor="middle" x="44.5" y="-71.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloseTcpSocket</text>
+<polygon fill="#bfbfbf" stroke="black" points="0,-44.5 0,-63.5 89,-63.5 89,-44.5 0,-44.5"/>
+<text text-anchor="middle" x="44.5" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloseTcpSocket</text>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
@@ -23,8 +23,8 @@
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M89.0571,-80.0178C108.63,-82.7219 131.736,-85.9142 151.58,-88.6558"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="151.239,-92.1419 161.624,-90.0434 152.197,-85.2077 151.239,-92.1419"/>
+<path fill="none" stroke="midnightblue" d="M80.7539,-63.5093C102.068,-69.2585 129.453,-76.6451 152.342,-82.8193"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="151.608,-86.2462 162.174,-85.4714 153.431,-79.4878 151.608,-86.2462"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
@@ -36,8 +36,21 @@
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge"><title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M89.0571,-68.2688C97.2794,-67.1869 106.125,-66.023 115.091,-64.8433"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="115.78,-68.2829 125.238,-63.5082 114.867,-61.3427 115.78,-68.2829"/>
+<path fill="none" stroke="midnightblue" d="M89.0571,-54C97.2156,-54 105.988,-54 114.883,-54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="114.95,-57.5001 124.95,-54 114.95,-50.5001 114.95,-57.5001"/>
+</g>
+<!-- Node7 -->
+<g id="node7" class="node"><title>Node7</title>
+<g id="a_node7"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a9d64596a63648e960da4dbf475ec2e4a" target="_top" xlink:title="Platform dependent code to shutdown a stream socket. ">
+<polygon fill="none" stroke="black" points="134.5,-6.5 134.5,-25.5 262.5,-25.5 262.5,-6.5 134.5,-6.5"/>
+<text text-anchor="middle" x="198.5" y="-13.5" font-family="Helvetica,sans-Serif" font-size="10.00">ShutdownSocketPlatform</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node7 -->
+<g id="edge6" class="edge"><title>Node1&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M83.856,-44.411C103.824,-39.4191 128.43,-33.2676 149.633,-27.9666"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="150.567,-31.341 159.42,-25.5201 148.869,-24.55 150.567,-31.341"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>

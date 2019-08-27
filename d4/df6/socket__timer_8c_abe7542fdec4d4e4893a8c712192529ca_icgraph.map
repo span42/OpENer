@@ -1,28 +1,29 @@
 <map id="SocketTimerArrayGetSocketTimer" name="SocketTimerArrayGetSocketTimer">
-<area shape="rect" id="node2" href="$db/d4f/generic__networkhandler_8c.html#ab561fc66fe48a0cf95be3d152b297dd9" title="CheckEncapsulationInactivity" alt="" coords="731,222,926,249"/>
-<area shape="rect" id="node8" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="1264,142,1435,169"/>
-<area shape="rect" id="node9" href="$db/d4f/generic__networkhandler_8c.html#aea539a75995234e379a1c25019ba378f" title="RemoveSocketTimerFromList" alt="" coords="243,273,439,300"/>
-<area shape="rect" id="node25" href="$d1/d84/socket__timer_8h.html#a28bbdc758808db0e7f034aff98e5f6b3" title="Get an empty Socket Timer entry. " alt="" coords="487,40,673,82"/>
-<area shape="rect" id="node3" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="1493,222,1688,249"/>
-<area shape="rect" id="node4" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="1767,222,1858,249"/>
-<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="2284,364,2335,390"/>
-<area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="2383,364,2468,390"/>
-<area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="2516,364,2637,390"/>
-<area shape="rect" id="node10" href="$da/dc2/generic__networkhandler_8h.html#a1bfa5ef8e4802716459a56567ee16592" title="CloseTcpSocket" alt="" coords="521,273,639,300"/>
-<area shape="rect" id="node11" href="$d2/dc9/group__CIP__API.html#ga00a23c1c86472edf2ed679089ae8efc1" title="Inform the encapsulation layer that the remote host has closed the connection. " alt="" coords="777,328,880,354"/>
-<area shape="rect" id="node18" href="$d7/df9/encap_8h.html#ad083888333d3ceec1576126a88eeaca7" title="CloseSessionBySessionHandle" alt="" coords="725,385,932,412"/>
-<area shape="rect" id="node21" href="$d4/d91/group__ENCAP.html#ga1261bd2441f744c38d7a3f8d8c16c391" title="Shutdown the encapsulation layer. " alt="" coords="746,436,911,462"/>
-<area shape="rect" id="node23" href="$d2/dbd/encap_8c.html#a601cd19c88f03fd742f098a1bf5b9e85" title="HandleReceivedUnregister\lSessionCommand" alt="" coords="739,106,918,147"/>
-<area shape="rect" id="node12" href="$d7/df9/encap_8h.html#a0101714be726ab1b21125b6a82ac7a56" title="CloseEncapsulationSession\lBySockAddr" alt="" coords="1002,324,1187,366"/>
-<area shape="rect" id="node13" href="$df/d03/cipioconnection_8c.html#a7e4923f4b027d489d9933b52f6fd7007" title="HandleIoConnectionTimeOut" alt="" coords="1254,336,1445,362"/>
-<area shape="rect" id="node14" href="$df/d03/cipioconnection_8c.html#ab3282f146a3ea91c90cf14c32206ee8c" title="SetIoConnectionCallbacks" alt="" coords="1502,337,1679,364"/>
-<area shape="rect" id="node15" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="1736,338,1889,365"/>
-<area shape="rect" id="node16" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="1937,364,2093,390"/>
-<area shape="rect" id="node17" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="2141,364,2236,390"/>
-<area shape="rect" id="node19" href="$dc/d93/cipclass3connection_8c.html#a6053ab7004c1419bd80faf9aca54bfd3" title="Class3ConnectionTimeoutHandler" alt="" coords="984,390,1205,417"/>
-<area shape="rect" id="node20" href="$d2/d11/cipclass3connection_8h.html#a45bd741b44137164c07a6ce09a7a9a9d" title="Check if Class3 connection is available and if yes setup all data. " alt="" coords="1499,390,1682,417"/>
-<area shape="rect" id="node22" href="$d2/dc9/group__CIP__API.html#gaa57b527530adc2acda6febc500fd6831" title="Shutdown of the CIP stack. " alt="" coords="1948,434,2083,461"/>
-<area shape="rect" id="node24" href="$d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="991,113,1199,140"/>
-<area shape="rect" id="node26" href="$d7/df9/encap_8h.html#a6007bf2e4bd1e9b0447efc3d9937087b" title="HandleReceivedRegisterSession\lCommand" alt="" coords="721,40,936,82"/>
-<area shape="rect" id="node27" href="$db/d4f/generic__networkhandler_8c.html#a8c1688da4bc37416162f4ba5ac436294" title="handle any connection request coming in the TCP server socket. " alt="" coords="1253,30,1445,71"/>
+<area shape="rect" id="node2" href="$db/d4f/generic__networkhandler_8c.html#ab561fc66fe48a0cf95be3d152b297dd9" title="CheckEncapsulationInactivity" alt="" coords="731,274,926,301"/>
+<area shape="rect" id="node8" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="1264,350,1435,377"/>
+<area shape="rect" id="node9" href="$db/d4f/generic__networkhandler_8c.html#aea539a75995234e379a1c25019ba378f" title="RemoveSocketTimerFromList" alt="" coords="243,223,439,250"/>
+<area shape="rect" id="node26" href="$d1/d84/socket__timer_8h.html#a28bbdc758808db0e7f034aff98e5f6b3" title="Get an empty Socket Timer entry. " alt="" coords="487,492,673,533"/>
+<area shape="rect" id="node3" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="1493,274,1688,301"/>
+<area shape="rect" id="node4" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="1767,223,1858,250"/>
+<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="2340,147,2391,174"/>
+<area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="2439,147,2524,174"/>
+<area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="2572,147,2693,174"/>
+<area shape="rect" id="node10" href="$da/dc2/generic__networkhandler_8h.html#a1bfa5ef8e4802716459a56567ee16592" title="CloseTcpSocket" alt="" coords="521,198,639,225"/>
+<area shape="rect" id="node11" href="$d2/dc9/group__CIP__API.html#ga00a23c1c86472edf2ed679089ae8efc1" title="Inform the encapsulation layer that the remote host has closed the connection. " alt="" coords="777,17,880,43"/>
+<area shape="rect" id="node18" href="$d7/df9/encap_8h.html#ad083888333d3ceec1576126a88eeaca7" title="CloseSessionBySessionHandle" alt="" coords="725,71,932,98"/>
+<area shape="rect" id="node21" href="$d4/d91/group__ENCAP.html#ga1261bd2441f744c38d7a3f8d8c16c391" title="Shutdown the encapsulation layer. " alt="" coords="746,122,911,149"/>
+<area shape="rect" id="node23" href="$d2/dbd/encap_8c.html#a601cd19c88f03fd742f098a1bf5b9e85" title="HandleReceivedUnregister\lSessionCommand" alt="" coords="739,427,918,468"/>
+<area shape="rect" id="node25" href="$da/dc2/generic__networkhandler_8h.html#aace33c0e7aa348969492ede822183bd5" title="NetworkHandlerFinish" alt="" coords="2141,173,2292,199"/>
+<area shape="rect" id="node12" href="$d7/df9/encap_8h.html#a0101714be726ab1b21125b6a82ac7a56" title="CloseEncapsulationSession\lBySockAddr" alt="" coords="1002,5,1187,47"/>
+<area shape="rect" id="node13" href="$df/d03/cipioconnection_8c.html#a7e4923f4b027d489d9933b52f6fd7007" title="HandleIoConnectionTimeOut" alt="" coords="1254,15,1445,42"/>
+<area shape="rect" id="node14" href="$df/d03/cipioconnection_8c.html#ab3282f146a3ea91c90cf14c32206ee8c" title="SetIoConnectionCallbacks" alt="" coords="1502,19,1679,46"/>
+<area shape="rect" id="node15" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="1736,19,1889,46"/>
+<area shape="rect" id="node16" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="1937,71,2093,98"/>
+<area shape="rect" id="node17" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="2169,71,2264,98"/>
+<area shape="rect" id="node19" href="$dc/d93/cipclass3connection_8c.html#a6053ab7004c1419bd80faf9aca54bfd3" title="Class3ConnectionTimeoutHandler" alt="" coords="984,71,1205,98"/>
+<area shape="rect" id="node20" href="$d2/d11/cipclass3connection_8h.html#a45bd741b44137164c07a6ce09a7a9a9d" title="Check if Class3 connection is available and if yes setup all data. " alt="" coords="1499,71,1682,98"/>
+<area shape="rect" id="node22" href="$d2/dc9/group__CIP__API.html#gaa57b527530adc2acda6febc500fd6831" title="Shutdown of the CIP stack. " alt="" coords="1948,122,2083,149"/>
+<area shape="rect" id="node24" href="$d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="991,434,1199,461"/>
+<area shape="rect" id="node27" href="$d7/df9/encap_8h.html#a6007bf2e4bd1e9b0447efc3d9937087b" title="HandleReceivedRegisterSession\lCommand" alt="" coords="721,492,936,533"/>
+<area shape="rect" id="node28" href="$db/d4f/generic__networkhandler_8c.html#a8c1688da4bc37416162f4ba5ac436294" title="handle any connection request coming in the TCP server socket. " alt="" coords="1253,488,1445,529"/>
 </map>

@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 1187;
+var viewWidth = 1296;
 var viewHeight = 345;
 var sectionId = 'dynsection-13';
 </script>
@@ -99,43 +99,43 @@ var sectionId = 'dynsection-13';
 <path fill="none" stroke="midnightblue" d="M93.1963,-210.353C114.43,-199.151 151.383,-180.83 185,-170 261.812,-145.256 352.529,-128.633 416.653,-118.88"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="417.339,-122.316 426.71,-117.374 416.302,-115.394 417.339,-122.316"/>
 </g>
-<!-- Node17 -->
-<g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="../../df/d03/cipioconnection_8c.html#a9e2ce4666173987646cf60ce3422d7b4" target="_top" xlink:title="Open a Multicast connection dependent on direction. ">
+<!-- Node18 -->
+<g id="node18" class="node"><title>Node18</title>
+<g id="a_node18"><a xlink:href="../../df/d03/cipioconnection_8c.html#a9e2ce4666173987646cf60ce3422d7b4" target="_top" xlink:title="Open a Multicast connection dependent on direction. ">
 <polygon fill="none" stroke="black" points="435.5,-191.5 435.5,-210.5 564.5,-210.5 564.5,-191.5 435.5,-191.5"/>
 <text text-anchor="middle" x="500" y="-198.5" font-family="Helvetica,sans-Serif" font-size="10.00">OpenMulticastConnection</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node17 -->
-<g id="edge17" class="edge"><title>Node1&#45;&gt;Node17</title>
+<!-- Node1&#45;&gt;Node18 -->
+<g id="edge18" class="edge"><title>Node1&#45;&gt;Node18</title>
 <path fill="none" stroke="midnightblue" d="M149.268,-216.69C226.72,-213.216 347.797,-207.784 425.244,-204.309"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="425.571,-207.798 435.404,-203.853 425.258,-200.805 425.571,-207.798"/>
 </g>
-<!-- Node18 -->
-<g id="node18" class="node"><title>Node18</title>
-<g id="a_node18"><a xlink:href="../../df/d03/cipioconnection_8c.html#a5dea6fc1be0ed4ecf5d9e4f932d52106" target="_top" xlink:title="OpenProducingMulticastConnection">
+<!-- Node19 -->
+<g id="node19" class="node"><title>Node19</title>
+<g id="a_node19"><a xlink:href="../../df/d03/cipioconnection_8c.html#a5dea6fc1be0ed4ecf5d9e4f932d52106" target="_top" xlink:title="OpenProducingMulticastConnection">
 <polygon fill="none" stroke="black" points="201.5,-229.5 201.5,-248.5 374.5,-248.5 374.5,-229.5 201.5,-229.5"/>
 <text text-anchor="middle" x="288" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">OpenProducingMulticastConnection</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node18 -->
-<g id="edge20" class="edge"><title>Node1&#45;&gt;Node18</title>
+<!-- Node1&#45;&gt;Node19 -->
+<g id="edge21" class="edge"><title>Node1&#45;&gt;Node19</title>
 <path fill="none" stroke="midnightblue" d="M149.176,-226.619C162.702,-227.834 177.002,-229.118 191.068,-230.382"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="190.981,-233.888 201.254,-231.297 191.607,-226.916 190.981,-233.888"/>
 </g>
-<!-- Node21 -->
-<g id="node21" class="node"><title>Node21</title>
-<g id="a_node21"><a xlink:href="../../df/d03/cipioconnection_8c.html#aa3b58fd216ec6712abc29ef84b33006d" target="_top" xlink:title="OpenProducingPointToPoint\lConnection">
+<!-- Node22 -->
+<g id="node22" class="node"><title>Node22</title>
+<g id="a_node22"><a xlink:href="../../df/d03/cipioconnection_8c.html#aa3b58fd216ec6712abc29ef84b33006d" target="_top" xlink:title="OpenProducingPointToPoint\lConnection">
 <polygon fill="none" stroke="black" points="430,-142 430,-172 570,-172 570,-142 430,-142"/>
 <text text-anchor="start" x="438" y="-160" font-family="Helvetica,sans-Serif" font-size="10.00">OpenProducingPointToPoint</text>
 <text text-anchor="middle" x="500" y="-149" font-family="Helvetica,sans-Serif" font-size="10.00">Connection</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node21 -->
-<g id="edge25" class="edge"><title>Node1&#45;&gt;Node21</title>
+<!-- Node1&#45;&gt;Node22 -->
+<g id="edge26" class="edge"><title>Node1&#45;&gt;Node22</title>
 <path fill="none" stroke="midnightblue" d="M136.301,-210.466C152.15,-208.007 169.211,-205.382 185,-203 264.896,-190.946 356.3,-177.607 419.807,-168.41"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="420.358,-171.867 429.754,-166.971 419.356,-164.939 420.358,-171.867"/>
 </g>
@@ -250,110 +250,123 @@ var sectionId = 'dynsection-13';
 </g>
 <!-- Node13 -->
 <g id="node13" class="node"><title>Node13</title>
-<g id="a_node13"><a xlink:href="../../d5/dc5/group__CIP__CALLBACK__API.html#gae04e2a3e9937e910cbcdbff0b8d6ad2b" target="_top" xlink:title="Close the given socket and clean up the stack. ">
-<polygon fill="none" stroke="black" points="905.5,-190.5 905.5,-209.5 978.5,-209.5 978.5,-190.5 905.5,-190.5"/>
-<text text-anchor="middle" x="942" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloseSocket</text>
+<g id="a_node13"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#aab6e6c554aa10d27efe297ebef3ac1c9" target="_top" xlink:title="CloseUdpSocket">
+<polygon fill="none" stroke="black" points="896.5,-190.5 896.5,-209.5 987.5,-209.5 987.5,-190.5 896.5,-190.5"/>
+<text text-anchor="middle" x="942" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloseUdpSocket</text>
 </a>
 </g>
 </g>
 <!-- Node8&#45;&gt;Node13 -->
 <g id="edge13" class="edge"><title>Node8&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M759.689,-167.396C799.359,-174.53 855.972,-184.71 895.344,-191.79"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="894.75,-195.239 905.211,-193.564 895.989,-188.35 894.75,-195.239"/>
+<path fill="none" stroke="midnightblue" d="M759.689,-167.396C796.405,-173.998 847.633,-183.21 886.274,-190.159"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="885.851,-193.639 896.313,-191.964 887.09,-186.749 885.851,-193.639"/>
 </g>
-<!-- Node15 -->
-<g id="node15" class="node"><title>Node15</title>
-<g id="a_node15"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" target="_top" xlink:title="Sets QoS on socket. ">
+<!-- Node16 -->
+<g id="node16" class="node"><title>Node16</title>
+<g id="a_node16"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a20a53fded2d3f1e17272dbc7185988fd" target="_top" xlink:title="Sets QoS on socket. ">
 <polygon fill="none" stroke="black" points="895.5,-152.5 895.5,-171.5 988.5,-171.5 988.5,-152.5 895.5,-152.5"/>
 <text text-anchor="middle" x="942" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">SetQosOnSocket</text>
 </a>
 </g>
 </g>
-<!-- Node8&#45;&gt;Node15 -->
-<g id="edge15" class="edge"><title>Node8&#45;&gt;Node15</title>
+<!-- Node8&#45;&gt;Node16 -->
+<g id="edge16" class="edge"><title>Node8&#45;&gt;Node16</title>
 <path fill="none" stroke="midnightblue" d="M759.689,-159.614C796.046,-160.093 846.633,-160.758 885.138,-161.265"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="885.107,-164.765 895.152,-161.397 885.199,-157.765 885.107,-164.765"/>
 </g>
-<!-- Node16 -->
-<g id="node16" class="node"><title>Node16</title>
-<g id="a_node16"><a xlink:href="../../dd/d34/cipqos_8c.html#a6fa85e635fcd14e9797254ec3a5bb95e" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
+<!-- Node17 -->
+<g id="node17" class="node"><title>Node17</title>
+<g id="a_node17"><a xlink:href="../../dd/d34/cipqos_8c.html#a6fa85e635fcd14e9797254ec3a5bb95e" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
 <polygon fill="none" stroke="black" points="888,-114.5 888,-133.5 996,-133.5 996,-114.5 888,-114.5"/>
 <text text-anchor="middle" x="942" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetPriorityForSocket</text>
 </a>
 </g>
 </g>
-<!-- Node8&#45;&gt;Node16 -->
-<g id="edge16" class="edge"><title>Node8&#45;&gt;Node16</title>
+<!-- Node8&#45;&gt;Node17 -->
+<g id="edge17" class="edge"><title>Node8&#45;&gt;Node17</title>
 <path fill="none" stroke="midnightblue" d="M759.689,-151.833C793.748,-146.604 840.295,-139.459 877.698,-133.717"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="878.634,-137.115 887.987,-132.138 877.571,-130.196 878.634,-137.115"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node"><title>Node14</title>
-<g id="a_node14"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a2812ba0ecd1fd9a5549fbca397d76e3e" target="_top" xlink:title="Platform dependent code to close a socket. ">
-<polygon fill="none" stroke="black" points="1069,-190.5 1069,-209.5 1179,-209.5 1179,-190.5 1069,-190.5"/>
-<text text-anchor="middle" x="1124" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloseSocketPlatform</text>
+<g id="a_node14"><a xlink:href="../../d5/dc5/group__CIP__CALLBACK__API.html#gae04e2a3e9937e910cbcdbff0b8d6ad2b" target="_top" xlink:title="Close the given socket and clean up the stack. ">
+<polygon fill="none" stroke="black" points="1069,-190.5 1069,-209.5 1142,-209.5 1142,-190.5 1069,-190.5"/>
+<text text-anchor="middle" x="1105.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloseSocket</text>
 </a>
 </g>
 </g>
 <!-- Node13&#45;&gt;Node14 -->
 <g id="edge14" class="edge"><title>Node13&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M978.562,-200C1001.37,-200 1031.64,-200 1058.58,-200"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1058.71,-203.5 1068.71,-200 1058.71,-196.5 1058.71,-203.5"/>
+<path fill="none" stroke="midnightblue" d="M987.558,-200C1009.64,-200 1036.28,-200 1058.55,-200"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1058.77,-203.5 1068.77,-200 1058.77,-196.5 1058.77,-203.5"/>
 </g>
-<!-- Node17&#45;&gt;Node6 -->
-<g id="edge18" class="edge"><title>Node17&#45;&gt;Node6</title>
+<!-- Node15 -->
+<g id="node15" class="node"><title>Node15</title>
+<g id="a_node15"><a xlink:href="../../d3/de3/MINGW_2networkhandler_8c.html#a2812ba0ecd1fd9a5549fbca397d76e3e" target="_top" xlink:title="Platform dependent code to close a socket. ">
+<polygon fill="none" stroke="black" points="1178,-190.5 1178,-209.5 1288,-209.5 1288,-190.5 1178,-190.5"/>
+<text text-anchor="middle" x="1233" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">CloseSocketPlatform</text>
+</a>
+</g>
+</g>
+<!-- Node14&#45;&gt;Node15 -->
+<g id="edge15" class="edge"><title>Node14&#45;&gt;Node15</title>
+<path fill="none" stroke="midnightblue" d="M1142.13,-200C1150.24,-200 1159.09,-200 1167.98,-200"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1168,-203.5 1178,-200 1168,-196.5 1168,-203.5"/>
+</g>
+<!-- Node18&#45;&gt;Node6 -->
+<g id="edge19" class="edge"><title>Node18&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M550.262,-191.447C558.202,-188.764 566.078,-185.346 573,-181 593.538,-168.107 588.209,-152.482 609,-140 616.789,-135.324 625.42,-131.559 634.269,-128.528"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="635.421,-131.835 643.927,-125.518 633.338,-125.152 635.421,-131.835"/>
 </g>
-<!-- Node17&#45;&gt;Node8 -->
-<g id="edge19" class="edge"><title>Node17&#45;&gt;Node8</title>
+<!-- Node18&#45;&gt;Node8 -->
+<g id="edge20" class="edge"><title>Node18&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M548.652,-191.47C580.017,-185.197 621.231,-176.954 654.284,-170.343"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="655.14,-173.741 664.26,-168.348 653.767,-166.877 655.14,-173.741"/>
 </g>
-<!-- Node18&#45;&gt;Node17 -->
-<g id="edge24" class="edge"><title>Node18&#45;&gt;Node17</title>
+<!-- Node19&#45;&gt;Node18 -->
+<g id="edge25" class="edge"><title>Node19&#45;&gt;Node18</title>
 <path fill="none" stroke="midnightblue" d="M341.721,-229.46C370.429,-224.265 406.137,-217.804 436.27,-212.351"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="437.041,-215.769 446.258,-210.544 435.794,-208.88 437.041,-215.769"/>
 </g>
-<!-- Node19 -->
-<g id="node19" class="node"><title>Node19</title>
-<g id="a_node19"><a xlink:href="../../d1/dbc/appcontype_8c.html#ac568876f2c5ba2da91a0e62e17e27432" target="_top" xlink:title="Check if there exists already an exclusive owner or listen only connection which produces the input a...">
+<!-- Node20 -->
+<g id="node20" class="node"><title>Node20</title>
+<g id="a_node20"><a xlink:href="../../d1/dbc/appcontype_8c.html#ac568876f2c5ba2da91a0e62e17e27432" target="_top" xlink:title="Check if there exists already an exclusive owner or listen only connection which produces the input a...">
 <polygon fill="none" stroke="black" points="427,-230 427,-260 573,-260 573,-230 427,-230"/>
 <text text-anchor="start" x="435" y="-248" font-family="Helvetica,sans-Serif" font-size="10.00">GetExistingProducerMulticast</text>
 <text text-anchor="middle" x="500" y="-237" font-family="Helvetica,sans-Serif" font-size="10.00">Connection</text>
 </a>
 </g>
 </g>
-<!-- Node18&#45;&gt;Node19 -->
-<g id="edge21" class="edge"><title>Node18&#45;&gt;Node19</title>
+<!-- Node19&#45;&gt;Node20 -->
+<g id="edge22" class="edge"><title>Node19&#45;&gt;Node20</title>
 <path fill="none" stroke="midnightblue" d="M374.718,-241.449C388.545,-241.844 402.835,-242.252 416.582,-242.645"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="416.877,-246.155 426.973,-242.942 417.077,-239.158 416.877,-246.155"/>
 </g>
-<!-- Node19&#45;&gt;Node4 -->
-<g id="edge22" class="edge"><title>Node19&#45;&gt;Node4</title>
+<!-- Node20&#45;&gt;Node4 -->
+<g id="edge23" class="edge"><title>Node20&#45;&gt;Node4</title>
 <path fill="none" stroke="midnightblue" d="M572.683,-260.019C599.851,-265.712 630.338,-272.099 655.762,-277.426"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="655.095,-280.862 665.6,-279.488 656.53,-274.011 655.095,-280.862"/>
 </g>
-<!-- Node20 -->
-<g id="node20" class="node"><title>Node20</title>
-<g id="a_node20"><a xlink:href="../../df/d91/cipconnectionobject_8c.html#a4c3d0e8258e857f80e5b7111519f7daa" target="_top" xlink:title="ConnectionObjectIsTypeIOConnection">
+<!-- Node21 -->
+<g id="node21" class="node"><title>Node21</title>
+<g id="a_node21"><a xlink:href="../../df/d91/cipconnectionobject_8c.html#a4c3d0e8258e857f80e5b7111519f7daa" target="_top" xlink:title="ConnectionObjectIsTypeIOConnection">
 <polygon fill="none" stroke="black" points="619.5,-235.5 619.5,-254.5 804.5,-254.5 804.5,-235.5 619.5,-235.5"/>
 <text text-anchor="middle" x="712" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConnectionObjectIsTypeIOConnection</text>
 </a>
 </g>
 </g>
-<!-- Node19&#45;&gt;Node20 -->
-<g id="edge23" class="edge"><title>Node19&#45;&gt;Node20</title>
+<!-- Node20&#45;&gt;Node21 -->
+<g id="edge24" class="edge"><title>Node20&#45;&gt;Node21</title>
 <path fill="none" stroke="midnightblue" d="M573.27,-245C584.856,-245 597.033,-245 609.154,-245"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="609.309,-248.5 619.309,-245 609.309,-241.5 609.309,-248.5"/>
 </g>
-<!-- Node21&#45;&gt;Node6 -->
-<g id="edge26" class="edge"><title>Node21&#45;&gt;Node6</title>
+<!-- Node22&#45;&gt;Node6 -->
+<g id="edge27" class="edge"><title>Node22&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M570.053,-143.518C596.648,-138.326 626.742,-132.45 652.273,-127.466"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="653.036,-130.883 662.18,-125.531 651.695,-124.013 653.036,-130.883"/>
 </g>
-<!-- Node21&#45;&gt;Node8 -->
-<g id="edge27" class="edge"><title>Node21&#45;&gt;Node8</title>
+<!-- Node22&#45;&gt;Node8 -->
+<g id="edge28" class="edge"><title>Node22&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M570.053,-157.658C597.386,-157.918 628.416,-158.213 654.39,-158.461"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="654.413,-161.961 664.446,-158.557 654.479,-154.961 654.413,-161.961"/>
 </g>

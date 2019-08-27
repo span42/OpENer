@@ -1,5 +1,8 @@
 var NAVTREEINDEX6 =
 {
+"dc/d3c/structSocketAddressInfoItem.html":[5,0,43],
+"dc/d3c/structSocketAddressInfoItem.html#a3f7a4600643a87742112758468b42146":[5,0,43,4],
+"dc/d3c/structSocketAddressInfoItem.html#a46921af5bef9ee04546194f8d19d3163":[5,0,43,2],
 "dc/d3c/structSocketAddressInfoItem.html#a6698e4b44eeaf0795025d0be524b8e8a":[5,0,43,3],
 "dc/d3c/structSocketAddressInfoItem.html#a8933e644c7191ea8f5a22401b2e6a6fa":[5,0,43,0],
 "dc/d3c/structSocketAddressInfoItem.html#abaf556494b9fea3137c6c45522ab9bda":[5,0,43,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX6 =
 "de/ddc/cipepath_8c.html#aeec75233ea4d0e88baaac1a90ae48a8e":[6,0,0,0,14,0],
 "de/ddc/cipepath_8c.html#aef54869630b890374586301bb0340df0":[6,0,0,0,14,47],
 "de/ddc/cipepath_8c.html#af3833fd8a3d2273fa61780f47aec6516":[6,0,0,0,14,9],
-"de/ddc/cipepath_8c.html#af3b803ea732d44ccfe0b87e6fe7468fe":[6,0,0,0,14,40],
-"de/ddc/cipepath_8c.html#af415c4c27f4de757ec66ef9a1fa91be9":[6,0,0,0,14,56],
-"de/ddc/cipepath_8c.html#af7384f38b0fa1d0efd09b8503c18056d":[6,0,0,0,14,38],
-"de/ddc/cipepath_8c.html#afabde71633f049102bf8eba15baa263a":[6,0,0,0,14,41]
+"de/ddc/cipepath_8c.html#af3b803ea732d44ccfe0b87e6fe7468fe":[6,0,0,0,14,40]
 };
