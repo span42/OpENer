@@ -61,7 +61,7 @@ var sectionId = 'dynsection-7';
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d4/d91/group__ENCAP.html#gaf4beeca6ee941986295958572352a567" target="_top" xlink:title="NotifyCommonPacketFormat">
+<g id="a_node2"><a xlink:href="../../d4/d91/group__ENCAP.html#ga9c408ca52db513a953b72e8dfcad27e8" target="_top" xlink:title="NotifyCommonPacketFormat">
 <polygon fill="none" stroke="black" points="156.5,-53 156.5,-72 300.5,-72 300.5,-53 156.5,-53"/>
 <text text-anchor="middle" x="228.5" y="-60" font-family="Helvetica,sans-Serif" font-size="10.00">NotifyCommonPacketFormat</text>
 </a>
@@ -72,17 +72,17 @@ var sectionId = 'dynsection-7';
 <path fill="none" stroke="midnightblue" d="M122.523,-48.3389C133.768,-49.8557 145.497,-51.438 156.868,-52.972"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="122.735,-44.8358 112.356,-46.9674 121.799,-51.773 122.735,-44.8358"/>
 </g>
-<!-- Node11 -->
-<g id="node11" class="node"><title>Node11</title>
-<g id="a_node11"><a xlink:href="../../d4/d91/group__ENCAP.html#ga93b23ccc67639937716a8f436a96c2b5" target="_top" xlink:title="NotifyConnectedCommonPacket\lFormat">
+<!-- Node13 -->
+<g id="node13" class="node"><title>Node13</title>
+<g id="a_node13"><a xlink:href="../../d4/d91/group__ENCAP.html#ga72c9878cc686b15d10481b716e6f628d" target="_top" xlink:title="NotifyConnectedCommonPacket\lFormat">
 <polygon fill="none" stroke="black" points="148,-2.5 148,-32.5 309,-32.5 309,-2.5 148,-2.5"/>
 <text text-anchor="start" x="156" y="-20.5" font-family="Helvetica,sans-Serif" font-size="10.00">NotifyConnectedCommonPacket</text>
 <text text-anchor="middle" x="228.5" y="-9.5" font-family="Helvetica,sans-Serif" font-size="10.00">Format</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node11 -->
-<g id="edge10" class="edge"><title>Node1&#45;&gt;Node11</title>
+<!-- Node1&#45;&gt;Node13 -->
+<g id="edge13" class="edge"><title>Node1&#45;&gt;Node13</title>
 <path fill="none" stroke="midnightblue" d="M122.403,-31.0609C130.768,-29.9816 139.403,-28.8674 147.96,-27.7632"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="121.826,-27.6062 112.356,-32.3572 122.722,-34.5487 121.826,-27.6062"/>
 </g>
@@ -102,7 +102,7 @@ var sectionId = 'dynsection-7';
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a" target="_top" xlink:title="Notify the encapsulation layer that an explicit message has been received via TCP. ">
+<g id="a_node4"><a xlink:href="../../d2/dc9/group__CIP__API.html#ga4b8ec8e9b8a1dd71e84f2ea54e1c2b2d" target="_top" xlink:title="Notify the encapsulation layer that an explicit message has been received via TCP. ">
 <polygon fill="none" stroke="black" points="531,-30 531,-49 687,-49 687,-30 531,-30"/>
 <text text-anchor="middle" x="609" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">HandleReceivedExplictTcpData</text>
 </a>
@@ -115,29 +115,42 @@ var sectionId = 'dynsection-7';
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" target="_top" xlink:title="Handles data on an established TCP connection, processed connection is given by socket. ">
-<polygon fill="none" stroke="black" points="723,-30 723,-49 851,-49 851,-30 723,-30"/>
-<text text-anchor="middle" x="787" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">HandleDataOnTcpSocket</text>
+<g id="a_node5"><a xlink:href="../../d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022" target="_top" xlink:title="Initialize the encapsulation layer. ">
+<polygon fill="none" stroke="black" points="741,-49 741,-68 833,-68 833,-49 741,-49"/>
+<text text-anchor="middle" x="787" y="-56" font-family="Helvetica,sans-Serif" font-size="10.00">EncapsulationInit</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node5 -->
 <g id="edge4" class="edge"><title>Node4&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M697.293,-39.5C705.914,-39.5 714.545,-39.5 722.853,-39.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="697.196,-36.0001 687.196,-39.5 697.196,-43.0001 697.196,-36.0001"/>
+<path fill="none" stroke="midnightblue" d="M697.528,-48.9491C712.487,-50.564 727.465,-52.1808 740.731,-53.613"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="697.514,-45.4273 687.196,-47.8337 696.763,-52.3869 697.514,-45.4273"/>
+</g>
+<!-- Node10 -->
+<g id="node10" class="node"><title>Node10</title>
+<g id="a_node10"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" target="_top" xlink:title="Handles data on an established TCP connection, processed connection is given by socket. ">
+<polygon fill="none" stroke="black" points="723,-11 723,-30 851,-30 851,-11 723,-11"/>
+<text text-anchor="middle" x="787" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">HandleDataOnTcpSocket</text>
+</a>
+</g>
+</g>
+<!-- Node4&#45;&gt;Node10 -->
+<g id="edge9" class="edge"><title>Node4&#45;&gt;Node10</title>
+<path fill="none" stroke="midnightblue" d="M697.293,-30.0763C705.914,-29.1456 714.545,-28.2139 722.853,-27.317"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="696.763,-26.6131 687.196,-31.1663 697.514,-33.5727 696.763,-26.6131"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="../../da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" target="_top" xlink:title="NetworkHandlerProcessOnce">
-<polygon fill="none" stroke="black" points="887,-30 887,-49 1033,-49 1033,-30 887,-30"/>
-<text text-anchor="middle" x="960" y="-37" font-family="Helvetica,sans-Serif" font-size="10.00">NetworkHandlerProcessOnce</text>
+<g id="a_node6"><a xlink:href="../../d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" target="_top" xlink:title="Initialize and setup the CIP&#45;stack. ">
+<polygon fill="none" stroke="black" points="924.5,-49 924.5,-68 995.5,-68 995.5,-49 924.5,-49"/>
+<text text-anchor="middle" x="960" y="-56" font-family="Helvetica,sans-Serif" font-size="10.00">CipStackInit</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node6 -->
 <g id="edge5" class="edge"><title>Node5&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M861.379,-39.5C869.817,-39.5 878.417,-39.5 886.839,-39.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="861.188,-36.0001 851.188,-39.5 861.188,-43.0001 861.188,-36.0001"/>
+<path fill="none" stroke="midnightblue" d="M843.682,-58.5C870.216,-58.5 901.13,-58.5 924.267,-58.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="843.376,-55.0001 833.376,-58.5 843.376,-62.0001 843.376,-55.0001"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
@@ -149,21 +162,8 @@ var sectionId = 'dynsection-7';
 </g>
 <!-- Node6&#45;&gt;Node7 -->
 <g id="edge6" class="edge"><title>Node6&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M1041.85,-50.3949C1057.71,-52.5322 1072.86,-54.5731 1083.98,-56.0724"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1042.29,-46.9225 1031.91,-49.0557 1041.36,-53.8598 1042.29,-46.9225"/>
-</g>
-<!-- Node10 -->
-<g id="node10" class="node"><title>Node10</title>
-<g id="a_node10"><a xlink:href="../../d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" target="_top" xlink:title="Signal handler function for ending stack execution. ">
-<polygon fill="none" stroke="black" points="1069,-11 1069,-30 1137,-30 1137,-11 1069,-11"/>
-<text text-anchor="middle" x="1103" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">LeaveStack</text>
-</a>
-</g>
-</g>
-<!-- Node6&#45;&gt;Node10 -->
-<g id="edge9" class="edge"><title>Node6&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M1041.85,-28.6051C1051.33,-27.3281 1060.55,-26.0855 1068.81,-24.9723"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1041.36,-25.1402 1031.91,-29.9443 1042.29,-32.0775 1041.36,-25.1402"/>
+<path fill="none" stroke="midnightblue" d="M1006.03,-58.5C1032.43,-58.5 1064.33,-58.5 1083.89,-58.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1005.85,-55.0001 995.854,-58.5 1005.85,-62.0001 1005.85,-55.0001"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node"><title>Node8</title>
@@ -191,22 +191,53 @@ var sectionId = 'dynsection-7';
 <path fill="none" stroke="midnightblue" d="M1247.3,-58.5C1255.63,-58.5 1264.42,-58.5 1272.86,-58.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1247.06,-55.0001 1237.06,-58.5 1247.06,-62.0001 1247.06,-55.0001"/>
 </g>
+<!-- Node11 -->
+<g id="node11" class="node"><title>Node11</title>
+<g id="a_node11"><a xlink:href="../../da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" target="_top" xlink:title="NetworkHandlerProcessOnce">
+<polygon fill="none" stroke="black" points="887,-11 887,-30 1033,-30 1033,-11 887,-11"/>
+<text text-anchor="middle" x="960" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">NetworkHandlerProcessOnce</text>
+</a>
+</g>
+</g>
+<!-- Node10&#45;&gt;Node11 -->
+<g id="edge10" class="edge"><title>Node10&#45;&gt;Node11</title>
+<path fill="none" stroke="midnightblue" d="M861.379,-20.5C869.817,-20.5 878.417,-20.5 886.839,-20.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="861.188,-17.0001 851.188,-20.5 861.188,-24.0001 861.188,-17.0001"/>
+</g>
+<!-- Node11&#45;&gt;Node7 -->
+<g id="edge11" class="edge"><title>Node11&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M1007.45,-32.6792C1015.95,-34.9312 1024.75,-37.2746 1033,-39.5 1050.28,-44.1577 1069.95,-49.5872 1083.85,-53.4465"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1008.21,-29.2606 997.648,-30.0901 1006.42,-36.0284 1008.21,-29.2606"/>
+</g>
 <!-- Node12 -->
 <g id="node12" class="node"><title>Node12</title>
-<g id="a_node12"><a xlink:href="../../d2/dbd/encap_8c.html#a49dc585614f655a5b313150a01fd7221" target="_top" xlink:title="Call Connection Manager. ">
+<g id="a_node12"><a xlink:href="../../d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" target="_top" xlink:title="Signal handler function for ending stack execution. ">
+<polygon fill="none" stroke="black" points="1069,-11 1069,-30 1137,-30 1137,-11 1069,-11"/>
+<text text-anchor="middle" x="1103" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">LeaveStack</text>
+</a>
+</g>
+</g>
+<!-- Node11&#45;&gt;Node12 -->
+<g id="edge12" class="edge"><title>Node11&#45;&gt;Node12</title>
+<path fill="none" stroke="midnightblue" d="M1043.33,-20.5C1052.28,-20.5 1060.96,-20.5 1068.79,-20.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1043.15,-17.0001 1033.15,-20.5 1043.15,-24.0001 1043.15,-17.0001"/>
+</g>
+<!-- Node14 -->
+<g id="node14" class="node"><title>Node14</title>
+<g id="a_node14"><a xlink:href="../../d2/dbd/encap_8c.html#a49dc585614f655a5b313150a01fd7221" target="_top" xlink:title="Call Connection Manager. ">
 <polygon fill="none" stroke="black" points="345,-0.5 345,-30.5 495,-30.5 495,-0.5 345,-0.5"/>
 <text text-anchor="start" x="353" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">HandleReceivedSendUnitData</text>
 <text text-anchor="middle" x="420" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Command</text>
 </a>
 </g>
 </g>
-<!-- Node11&#45;&gt;Node12 -->
-<g id="edge11" class="edge"><title>Node11&#45;&gt;Node12</title>
+<!-- Node13&#45;&gt;Node14 -->
+<g id="edge14" class="edge"><title>Node13&#45;&gt;Node14</title>
 <path fill="none" stroke="midnightblue" d="M319.101,-16.5543C327.706,-16.4635 336.369,-16.3721 344.803,-16.2831"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="319.004,-13.0551 309.041,-16.6605 319.078,-20.0547 319.004,-13.0551"/>
 </g>
-<!-- Node12&#45;&gt;Node4 -->
-<g id="edge12" class="edge"><title>Node12&#45;&gt;Node4</title>
+<!-- Node14&#45;&gt;Node4 -->
+<g id="edge15" class="edge"><title>Node14&#45;&gt;Node4</title>
 <path fill="none" stroke="midnightblue" d="M505.117,-26.2958C514.72,-27.5282 524.455,-28.7777 533.914,-29.9916"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="505.54,-22.8214 495.176,-25.0199 504.649,-29.7645 505.54,-22.8214"/>
 </g>

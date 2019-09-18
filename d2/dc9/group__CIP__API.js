@@ -1,7 +1,7 @@
 var group__CIP__API =
 [
     [ "Callback Functions Demanded by OpENer", "d5/dc5/group__CIP__CALLBACK__API.html", "d5/dc5/group__CIP__CALLBACK__API" ],
-    [ "CipServiceFunction", "d2/dc9/group__CIP__API.html#ga3362466561288caf8b81793ddb6bec30", null ],
+    [ "CipServiceFunction", "d2/dc9/group__CIP__API.html#ga2a36c8ba9a72b371265e60b425551ebf", null ],
     [ "ConnectionCloseFunction", "d2/dc9/group__CIP__API.html#ga02493229dff3a1b0e6d531412f38218e", null ],
     [ "ConnectionReceiveDataFunction", "d2/dc9/group__CIP__API.html#gad3a0b10837a49a5f4472cd6867eef726", null ],
     [ "ConnectionSendDataFunction", "d2/dc9/group__CIP__API.html#ga2cc2e62447eb32ee601100ae42901963", null ],
@@ -29,8 +29,8 @@ var group__CIP__API =
     [ "GetCipClass", "d2/dc9/group__CIP__API.html#ga98bd609c80ece316406363575b4a89ea", null ],
     [ "GetCipInstance", "d2/dc9/group__CIP__API.html#gaa50395aca91b378c297d6ad919df210e", null ],
     [ "HandleReceivedConnectedData", "d2/dc9/group__CIP__API.html#ga9abc7c86317baaa7ede1a4bce09fa542", null ],
-    [ "HandleReceivedExplictTcpData", "d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a", null ],
-    [ "HandleReceivedExplictUdpData", "d2/dc9/group__CIP__API.html#gaab62df9410a09727a82afa7672e3194a", null ],
+    [ "HandleReceivedExplictTcpData", "d2/dc9/group__CIP__API.html#ga4b8ec8e9b8a1dd71e84f2ea54e1c2b2d", null ],
+    [ "HandleReceivedExplictUdpData", "d2/dc9/group__CIP__API.html#gabde366c9e0849b9bca9c1bab7eed34f6", null ],
     [ "InsertAttribute", "d2/dc9/group__CIP__API.html#gac207feb53c1f98b45f3934bbea63d618", null ],
     [ "InsertService", "d2/dc9/group__CIP__API.html#ga35f639b135ec3c3903f49fd65daed307", null ],
     [ "ManageConnections", "d2/dc9/group__CIP__API.html#ga9f57b09260efb5bfb188b9d0ca0c6091", null ],

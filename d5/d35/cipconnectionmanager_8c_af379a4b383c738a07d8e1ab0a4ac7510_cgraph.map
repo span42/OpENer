@@ -26,7 +26,7 @@
 <area shape="rect" id="node33" href="$d5/d35/cipconnectionmanager_8c.html#a536c0dafefbe0ea14d8c13cc9d25e946" title="Compare the electronic key received with a forward open request with the device&#39;s data..." alt="" coords="555,1311,725,1338"/>
 <area shape="rect" id="node35" href="$d3/dfe/cipelectronickey_8c.html#a9fa7805c9496e42b8ccfff62112202f6" title="Destructor for the electroic key format 4 class. " alt="" coords="545,1463,735,1490"/>
 <area shape="rect" id="node36" href="$de/ddc/cipepath_8c.html#a8b23b9db19fa379a44d29b62ee1a6337" title="Return the Network Segment subtype. " alt="" coords="1121,1389,1340,1415"/>
-<area shape="rect" id="node37" href="$de/ddc/cipepath_8c.html#aec3040041f35cce28dfb9127869e5f6e" title="CipEpathGetLogicalValue" alt="" coords="555,1049,725,1075"/>
+<area shape="rect" id="node37" href="$de/ddc/cipepath_8c.html#af2a3ed4029a1abdda171f86eaeb69058" title="CipEpathGetLogicalValue" alt="" coords="555,1049,725,1075"/>
 <area shape="rect" id="node40" href="$d2/dc9/group__CIP__API.html#gaa50395aca91b378c297d6ad919df210e" title="Get a pointer to an instance. " alt="" coords="583,365,697,391"/>
 <area shape="rect" id="node41" href="$df/d91/cipconnectionobject_8c.html#a0f3d8e6f21712dbef3fb2e1da42f35ba" title="ConnectionObjectGetTransport\lClassTriggerTransportClass" alt="" coords="539,416,741,457"/>
 <area shape="rect" id="node42" href="$df/d91/cipconnectionobject_8c.html#aa896ebb7d03c6e75027402b3e0d6dc6e" title="ConnectionObjectGetOToTConnectionType" alt="" coords="503,533,777,559"/>

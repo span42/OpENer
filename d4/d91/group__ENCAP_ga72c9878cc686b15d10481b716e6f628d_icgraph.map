@@ -1,0 +1,12 @@
+<map id="NotifyConnectedCommonPacketFormat" name="NotifyConnectedCommonPacketFormat">
+<area shape="rect" id="node2" href="$d2/dbd/encap_8c.html#a49dc585614f655a5b313150a01fd7221" title="Call Connection Manager. " alt="" coords="268,23,468,65"/>
+<area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#ga4b8ec8e9b8a1dd71e84f2ea54e1c2b2d" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="516,31,724,57"/>
+<area shape="rect" id="node4" href="$d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022" title="Initialize the encapsulation layer. " alt="" coords="796,5,919,32"/>
+<area shape="rect" id="node9" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="772,56,943,83"/>
+<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="1041,5,1135,32"/>
+<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1253,5,1304,32"/>
+<area shape="rect" id="node7" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1372,5,1457,32"/>
+<area shape="rect" id="node8" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1505,5,1627,32"/>
+<area shape="rect" id="node10" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="991,56,1185,83"/>
+<area shape="rect" id="node11" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="1233,56,1324,83"/>
+</map>

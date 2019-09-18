@@ -1,9 +1,11 @@
 <map id="HandleReceivedSendUnitDataCommand" name="HandleReceivedSendUnitDataCommand">
-<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="253,31,461,57"/>
-<area shape="rect" id="node3" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="509,31,680,57"/>
-<area shape="rect" id="node4" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="728,31,923,57"/>
+<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga4b8ec8e9b8a1dd71e84f2ea54e1c2b2d" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="253,31,461,57"/>
+<area shape="rect" id="node3" href="$d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022" title="Initialize the encapsulation layer. " alt="" coords="533,5,656,32"/>
+<area shape="rect" id="node8" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="509,56,680,83"/>
+<area shape="rect" id="node4" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="778,5,873,32"/>
 <area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="991,5,1041,32"/>
-<area shape="rect" id="node8" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="971,56,1061,83"/>
 <area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1109,5,1195,32"/>
 <area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1243,5,1364,32"/>
+<area shape="rect" id="node9" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="728,56,923,83"/>
+<area shape="rect" id="node10" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="971,56,1061,83"/>
 </map>

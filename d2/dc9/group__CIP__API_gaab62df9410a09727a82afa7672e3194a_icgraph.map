@@ -1,9 +1,0 @@
-<map id="HandleReceivedExplictUdpData" name="HandleReceivedExplictUdpData">
-<area shape="rect" id="node2" href="$db/d4f/generic__networkhandler_8c.html#a5cae623dd720f3072dabdb78aa134262" title="Checks and handles incoming messages via UDP broadcast. " alt="" coords="264,5,508,47"/>
-<area shape="rect" id="node8" href="$db/d4f/generic__networkhandler_8c.html#ace1d8f3907ead0c43c1b5853132d5eb1" title="Checks and processes request received via the UDP unicast socket, currently the implementation is por..." alt="" coords="289,71,483,112"/>
-<area shape="rect" id="node3" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="556,46,751,73"/>
-<area shape="rect" id="node4" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="799,21,889,47"/>
-<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="819,71,869,98"/>
-<area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="937,71,1023,98"/>
-<area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1071,71,1192,98"/>
-</map>

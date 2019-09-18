@@ -1,0 +1,8 @@
+<map id="GetAttributeSingleTcpIpInterface" name="GetAttributeSingleTcpIpInterface">
+<area shape="rect" id="node2" href="$d1/dad/ciptcpipinterface_8h.html#a4c1f49654e48c5581513d990840933b0" title="Initializing the data structures of the TCP/IP interface object. " alt="" coords="504,5,648,32"/>
+<area shape="rect" id="node7" href="$dd/d20/ciptcpipinterface_8c.html#af60f6b6b60831de02c99dd1c99b85af6" title="GetAttributeAllTcpIpInterface" alt="" coords="265,31,456,57"/>
+<area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="696,5,791,32"/>
+<area shape="rect" id="node4" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="839,5,889,32"/>
+<area shape="rect" id="node5" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="937,5,1023,32"/>
+<area shape="rect" id="node6" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1071,5,1192,32"/>
+</map>

@@ -11,7 +11,7 @@
 <area shape="rect" id="node20" href="$d1/d02/cipepath_8h.html#a9ba09ee71090f214ffe092f6f4b3f00e" title="Gets the Extended Format subtype of a Symbolic Segment EPath message. " alt="" coords="205,564,436,605"/>
 <area shape="rect" id="node21" href="$d1/d02/cipepath_8h.html#a57fd1c8eec1417d236293fecd5eeb76f" title="SetPathLogicalSegmentLogical\lFormat" alt="" coords="219,629,422,671"/>
 <area shape="rect" id="node23" href="$d1/d02/cipepath_8h.html#a92013da4716b44a660f776539d3954e9" title="SetPathLogicalSegmentLogicalType" alt="" coords="205,695,437,722"/>
-<area shape="rect" id="node4" href="$d1/d02/cipepath_8h.html#aec3040041f35cce28dfb9127869e5f6e" title="CipEpathGetLogicalValue" alt="" coords="792,83,963,110"/>
+<area shape="rect" id="node4" href="$d1/d02/cipepath_8h.html#af2a3ed4029a1abdda171f86eaeb69058" title="CipEpathGetLogicalValue" alt="" coords="792,83,963,110"/>
 <area shape="rect" id="node6" href="$d5/d35/cipconnectionmanager_8c.html#af379a4b383c738a07d8e1ab0a4ac7510" title="Handles a Non Null Non Matching Forward Open Request. " alt="" coords="1484,229,1671,271"/>
 <area shape="rect" id="node7" href="$d5/d35/cipconnectionmanager_8c.html#a7eaeec6cc54d1799cfaba4031f0168d1" title="Handles a Non Null Matching Forward Open Request. " alt="" coords="1719,229,1929,271"/>
 <area shape="rect" id="node8" href="$d5/d35/cipconnectionmanager_8c.html#a8da18334cfde58434b845b0968620811" title="Handles a Null Matching Forward Open request. " alt="" coords="1977,229,2164,271"/>
