@@ -133,9 +133,9 @@
 </g>
 <!-- Node13 -->
 <g id="node13" class="node"><title>Node13</title>
-<g id="a_node13"><a xlink:href="../../dd/d34/cipqos_8c.html#a6fa85e635fcd14e9797254ec3a5bb95e" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
-<polygon fill="none" stroke="black" points="400.5,-0.5 400.5,-19.5 508.5,-19.5 508.5,-0.5 400.5,-0.5"/>
-<text text-anchor="middle" x="454.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetPriorityForSocket</text>
+<g id="a_node13"><a xlink:href="../../dd/d34/cipqos_8c.html#a87b966b54976d5911a46eed3909cc1d5" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
+<polygon fill="none" stroke="black" points="395,-0.5 395,-19.5 514,-19.5 514,-0.5 395,-0.5"/>
+<text text-anchor="middle" x="454.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">CipQosGetDscpPriority</text>
 </a>
 </g>
 </g>

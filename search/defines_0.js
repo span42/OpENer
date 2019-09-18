@@ -29,5 +29,5 @@ var searchData=
   ['cip_5fconnection_5fobject_5fwatchdog_5ftimeout_5faction_5fauto_5freset',['CIP_CONNECTION_OBJECT_WATCHDOG_TIMEOUT_ACTION_AUTO_RESET',['../df/d91/cipconnectionobject_8c.html#a51c4628f30dd71b67e44dd98de814ae7',1,'cipconnectionobject.c']]],
   ['cip_5fconnection_5fobject_5fwatchdog_5ftimeout_5faction_5fdeferred_5fdelete',['CIP_CONNECTION_OBJECT_WATCHDOG_TIMEOUT_ACTION_DEFERRED_DELETE',['../df/d91/cipconnectionobject_8c.html#a8a7aa97bd3724951dafe5c0cceda27d1',1,'cipconnectionobject.c']]],
   ['cip_5fconnection_5fobject_5fwatchdog_5ftimeout_5faction_5ftransition_5fto_5ftimed_5fout',['CIP_CONNECTION_OBJECT_WATCHDOG_TIMEOUT_ACTION_TRANSITION_TO_TIMED_OUT',['../df/d91/cipconnectionobject_8c.html#a4eb209f5b4c48e10c3bf1730967e215e',1,'cipconnectionobject.c']]],
-  ['cip_5fethernetlink_5fclass_5fcode',['CIP_ETHERNETLINK_CLASS_CODE',['../dd/d4d/cipethernetlink_8h.html#a5e127ce81b8e9b960b8831b27e7c9fa1',1,'cipethernetlink.h']]]
+  ['cip_5fethernetlink_5fclass_5fid',['CIP_ETHERNETLINK_CLASS_ID',['../dd/d4d/cipethernetlink_8h.html#a38bd8e6e2730208b4eff46f012e6a47f',1,'cipethernetlink.h']]]
 ];

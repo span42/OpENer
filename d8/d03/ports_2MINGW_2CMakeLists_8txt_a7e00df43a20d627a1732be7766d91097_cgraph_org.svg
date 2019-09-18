@@ -440,16 +440,16 @@
 </g>
 <!-- Node30 -->
 <g id="node30" class="node"><title>Node30</title>
-<g id="a_node30"><a xlink:href="../../dd/d34/cipqos_8c.html#a6fa85e635fcd14e9797254ec3a5bb95e" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
-<polygon fill="none" stroke="black" points="635,-912.5 635,-931.5 743,-931.5 743,-912.5 635,-912.5"/>
-<text text-anchor="middle" x="689" y="-919.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetPriorityForSocket</text>
+<g id="a_node30"><a xlink:href="../../dd/d34/cipqos_8c.html#a87b966b54976d5911a46eed3909cc1d5" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
+<polygon fill="none" stroke="black" points="629.5,-912.5 629.5,-931.5 748.5,-931.5 748.5,-912.5 629.5,-912.5"/>
+<text text-anchor="middle" x="689" y="-919.5" font-family="Helvetica,sans-Serif" font-size="10.00">CipQosGetDscpPriority</text>
 </a>
 </g>
 </g>
 <!-- Node22&#45;&gt;Node30 -->
 <g id="edge30" class="edge"><title>Node22&#45;&gt;Node30</title>
-<path fill="none" stroke="midnightblue" d="M531.098,-780.692C542.028,-783.731 552.6,-788.534 561,-796 598.503,-829.333 559.479,-869.688 597,-903 604.866,-909.983 614.624,-914.642 624.802,-917.708"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="624.089,-921.138 634.641,-920.183 625.797,-914.349 624.089,-921.138"/>
+<path fill="none" stroke="midnightblue" d="M531.098,-780.692C542.028,-783.731 552.6,-788.534 561,-796 598.503,-829.333 559.479,-869.688 597,-903 603.577,-908.839 611.477,-913.053 619.839,-916.069"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="618.844,-919.425 629.43,-918.989 620.883,-912.728 618.844,-919.425"/>
 </g>
 <!-- Node31 -->
 <g id="node31" class="node"><title>Node31</title>
