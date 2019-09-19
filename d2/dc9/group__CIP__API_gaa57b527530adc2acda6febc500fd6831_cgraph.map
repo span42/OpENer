@@ -13,6 +13,6 @@
 <area shape="rect" id="node10" href="$d4/df6/socket__timer_8c.html#abe7542fdec4d4e4893a8c712192529ca" title="Get the Socket Timer entry with the spezified socket value. " alt="" coords="812,263,1001,305"/>
 <area shape="rect" id="node11" href="$d4/df6/socket__timer_8c.html#a6130830815ae46fe4e6d45cf89bc3506" title="Clears a Socket Timer entry. " alt="" coords="843,329,970,356"/>
 <area shape="rect" id="node14" href="$d2/dc9/group__CIP__API.html#ga5a14c8d76acacb09312b709bb0a76265" title="Get a pointer to an instance&#39;s attribute. " alt="" coords="405,132,517,159"/>
-<area shape="rect" id="node15" href="$d2/dc9/group__CIP__API.html#ga98bd609c80ece316406363575b4a89ea" title="Get a pointer to a CIP object with given class code. " alt="" coords="412,183,509,209"/>
+<area shape="rect" id="node15" href="$d2/dc9/group__CIP__API.html#gad5040e0986778fe27769c02a7086fb68" title="Get a pointer to a CIP object with given class code. " alt="" coords="412,183,509,209"/>
 <area shape="rect" id="node16" href="$d9/d7d/cipmessagerouter_8c.html#a7a9f44f2d6f010b6f6ee922d378d9bb1" title="Get the registered MessageRouter object corresponding to ClassID. given a class ID, return a pointer to the registration node for that object. " alt="" coords="594,169,738,196"/>
 </map>

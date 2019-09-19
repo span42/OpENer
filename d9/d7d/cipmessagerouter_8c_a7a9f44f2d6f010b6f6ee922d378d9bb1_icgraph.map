@@ -1,9 +1,9 @@
 <map id="GetRegisteredObject" name="GetRegisteredObject">
-<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga98bd609c80ece316406363575b4a89ea" title="Get a pointer to a CIP object with given class code. " alt="" coords="453,319,551,345"/>
+<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#gad5040e0986778fe27769c02a7086fb68" title="Get a pointer to a CIP object with given class code. " alt="" coords="453,319,551,345"/>
 <area shape="rect" id="node24" href="$d2/d75/cipmessagerouter_8h.html#a234c9436c4c2f2e9737b8bea98c4d83f" title="Notify the MessageRouter that an explicit message (connected or unconnected) has been received..." alt="" coords="197,508,347,535"/>
 <area shape="rect" id="node3" href="$de/df4/cipassembly_8h.html#adcacd62b6a866c5c74c3cdda19598b98" title="clean up the data allocated in the assembly object instances " alt="" coords="683,5,831,32"/>
 <area shape="rect" id="node8" href="$d2/dc9/group__CIP__API.html#gae61b613fed863d30428e78b2311bf593" title="Create an instance of an assembly object. " alt="" coords="1168,56,1325,83"/>
-<area shape="rect" id="node10" href="$d2/d3d/cipcommon_8c.html#a3dfa07bc40e59ba348d713272d1cbfdb" title="CreateCipClass" alt="" coords="700,265,815,292"/>
+<area shape="rect" id="node10" href="$d2/d3d/cipcommon_8c.html#addfffa8f875b4f5c22c1257884d2aaba" title="CreateCipClass" alt="" coords="700,265,815,292"/>
 <area shape="rect" id="node20" href="$df/d03/cipioconnection_8c.html#ac00a39ab755db54e4abf917618ff9849" title="SetupIoConnectionOriginator\lToTargetConnectionPoint" alt="" coords="663,370,852,411"/>
 <area shape="rect" id="node22" href="$df/d03/cipioconnection_8c.html#a4efa3b0cf11b363c8c5f4f8c8070b43f" title="SetupIoConnectionTargetTo\lOriginatorConnectionPoint" alt="" coords="665,435,850,477"/>
 <area shape="rect" id="node23" href="$df/d03/cipioconnection_8c.html#a68b99df85d462657b12a854316c168f5" title="HandleConfigData" alt="" coords="693,319,822,345"/>

@@ -1,5 +1,5 @@
 <map id="GetCipInstance" name="GetCipInstance">
-<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga180023c8528628f7d83023e4db81287a" title="Create one instance of a given class with a certain instance number. " alt="" coords="202,5,321,32"/>
+<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga7a8b065d04c2fd96c793ce89e109360f" title="Create one instance of a given class with a certain instance number. " alt="" coords="204,5,319,32"/>
 <area shape="rect" id="node5" href="$dd/d4d/cipethernetlink_8h.html#ad6d2028b90ec96ad148d092a30acb7d6" title="Initialize the Ethernet Link Objects data. " alt="" coords="1188,56,1321,83"/>
 <area shape="rect" id="node10" href="$dc/d72/cipidentity_8h.html#a5d5136e167300543aa046057b56ae813" title="CIP Identity object constructor. " alt="" coords="1442,107,1545,133"/>
 <area shape="rect" id="node11" href="$d0/d3c/cipqos_8h.html#ab9a656060dcf03c3f51dbd967dff3f52" title="CipQoSInit" alt="" coords="958,157,1045,184"/>

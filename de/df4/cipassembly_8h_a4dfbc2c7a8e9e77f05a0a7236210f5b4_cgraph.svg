@@ -74,7 +74,7 @@ var sectionId = 'dynsection-2';
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="../../d2/d3d/cipcommon_8c.html#a3dfa07bc40e59ba348d713272d1cbfdb" target="_top" xlink:title="CreateCipClass">
+<g id="a_node3"><a xlink:href="../../d2/d3d/cipcommon_8c.html#addfffa8f875b4f5c22c1257884d2aaba" target="_top" xlink:title="CreateCipClass">
 <polygon fill="none" stroke="black" points="324.5,-269.5 324.5,-288.5 410.5,-288.5 410.5,-269.5 324.5,-269.5"/>
 <text text-anchor="middle" x="367.5" y="-276.5" font-family="Helvetica,sans-Serif" font-size="10.00">CreateCipClass</text>
 </a>
@@ -126,7 +126,7 @@ var sectionId = 'dynsection-2';
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d2/dc9/group__CIP__API.html#ga98bd609c80ece316406363575b4a89ea" target="_top" xlink:title="Get a pointer to a CIP object with given class code. ">
+<g id="a_node4"><a xlink:href="../../d2/dc9/group__CIP__API.html#gad5040e0986778fe27769c02a7086fb68" target="_top" xlink:title="Get a pointer to a CIP object with given class code. ">
 <polygon fill="none" stroke="black" points="509,-440.5 509,-459.5 582,-459.5 582,-440.5 509,-440.5"/>
 <text text-anchor="middle" x="545.5" y="-447.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetCipClass</text>
 </a>

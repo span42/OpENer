@@ -27,7 +27,8 @@ var cipconnectionobject_8h =
       [ "kConnectionObjectPriorityLow", "d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08ad41dea40a8924c5c076f4a8f1365675a", null ],
       [ "kConnectionObjectPriorityHigh", "d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08acff6d39dbfe5ef664b7501c9132edac7", null ],
       [ "kConnectionObjectPriorityScheduled", "d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08ad843ae59c0006ddbe75bcb68e0ff648d", null ],
-      [ "kConnectionObjectPriorityUrgent", "d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08a9f3e88448365d3edd981dbe5c5b022e5", null ]
+      [ "kConnectionObjectPriorityUrgent", "d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08a9f3e88448365d3edd981dbe5c5b022e5", null ],
+      [ "kConnectionObjectPriorityExplicit", "d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08abd29bb5359daa2e0947b2437e25a164d", null ]
     ] ],
     [ "ConnectionObjectSocketType", "d1/d6c/cipconnectionobject_8h.html#aac0c7050edd5eaaff323b25a7a73b351", [
       [ "kConnectionObjectSocketTypeProducing", "d1/d6c/cipconnectionobject_8h.html#aac0c7050edd5eaaff323b25a7a73b351a811c98896cbc81b7c40fb29176bb3f83", null ],

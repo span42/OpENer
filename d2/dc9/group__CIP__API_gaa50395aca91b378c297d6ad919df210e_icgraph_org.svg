@@ -15,15 +15,15 @@
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d2/dc9/group__CIP__API.html#ga180023c8528628f7d83023e4db81287a" target="_top" xlink:title="Create one instance of a given class with a certain instance number. ">
-<polygon fill="none" stroke="black" points="147.5,-430 147.5,-449 236.5,-449 236.5,-430 147.5,-430"/>
-<text text-anchor="middle" x="192" y="-437" font-family="Helvetica,sans-Serif" font-size="10.00">AddCIPInstance</text>
+<g id="a_node2"><a xlink:href="../../d2/dc9/group__CIP__API.html#ga7a8b065d04c2fd96c793ce89e109360f" target="_top" xlink:title="Create one instance of a given class with a certain instance number. ">
+<polygon fill="none" stroke="black" points="149,-430 149,-449 235,-449 235,-430 149,-430"/>
+<text text-anchor="middle" x="192" y="-437" font-family="Helvetica,sans-Serif" font-size="10.00">AddCipInstance</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge"><title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M48.6952,-288.055C57.9953,-319.369 80.416,-380.761 121,-415.5 128.515,-421.933 137.842,-426.667 147.212,-430.143"/>
+<path fill="none" stroke="midnightblue" d="M48.6952,-288.055C57.9953,-319.369 80.416,-380.761 121,-415.5 128.906,-422.267 138.816,-427.154 148.672,-430.674"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="52.0333,-286.997 45.9446,-278.327 45.2974,-288.902 52.0333,-286.997"/>
 </g>
 <!-- Node5 -->
@@ -155,8 +155,8 @@
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge"><title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M246.84,-439.5C266.745,-439.5 289.392,-439.5 309.676,-439.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="246.709,-436 236.708,-439.5 246.708,-443 246.709,-436"/>
+<path fill="none" stroke="midnightblue" d="M245.368,-439.5C265.673,-439.5 289.005,-439.5 309.83,-439.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="245.363,-436 235.363,-439.5 245.363,-443 245.363,-436"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>

@@ -1,5 +1,5 @@
 <map id="CipIdentityInit" name="CipIdentityInit">
-<area shape="rect" id="node2" href="$d2/d3d/cipcommon_8c.html#a3dfa07bc40e59ba348d713272d1cbfdb" title="CreateCipClass" alt="" coords="163,189,278,216"/>
+<area shape="rect" id="node2" href="$d2/d3d/cipcommon_8c.html#addfffa8f875b4f5c22c1257884d2aaba" title="CreateCipClass" alt="" coords="163,189,278,216"/>
 <area shape="rect" id="node7" href="$d2/d3d/cipcommon_8c.html#a9c9e27dacef3a49543cd2e3868349f5f" title="Generic implementation of the GetAttributeAll CIP service. " alt="" coords="359,240,465,266"/>
 <area shape="rect" id="node9" href="$d2/d3d/cipcommon_8c.html#ab4a4e141020fc10ead0def343c767413" title="Generic implementation of the GetAttributeSingle CIP service. " alt="" coords="348,404,476,430"/>
 <area shape="rect" id="node19" href="$d2/dc9/group__CIP__API.html#gac207feb53c1f98b45f3934bbea63d618" title="Insert an attribute in an instance of a CIP class. " alt="" coords="360,341,464,368"/>
@@ -9,7 +9,7 @@
 <area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#ga39dafca98f844a12511af11b1273d0a8" title="Add a number of CIP instances to a given CIP class. " alt="" coords="351,37,473,64"/>
 <area shape="rect" id="node4" href="$d5/dc5/group__CIP__CALLBACK__API.html#ga70ee7034f390fd3759d42a50e60e1b1c" title="Allocate memory for the CIP stack. " alt="" coords="587,62,666,89"/>
 <area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5ec1d2c432792c39f93c170943964302" title="Allocates Attribute bitmasks. " alt="" coords="333,138,491,165"/>
-<area shape="rect" id="node17" href="$d2/dc9/group__CIP__API.html#ga98bd609c80ece316406363575b4a89ea" title="Get a pointer to a CIP object with given class code. " alt="" coords="363,189,461,216"/>
+<area shape="rect" id="node17" href="$d2/dc9/group__CIP__API.html#gad5040e0986778fe27769c02a7086fb68" title="Get a pointer to a CIP object with given class code. " alt="" coords="363,189,461,216"/>
 <area shape="rect" id="node21" href="$d9/d7d/cipmessagerouter_8c.html#ae00f521e394d00fd5fd99271a6983116" title="Register a CIP Class to the message router. " alt="" coords="349,88,475,114"/>
 <area shape="rect" id="node6" href="$d2/dc9/group__CIP__API.html#ga1eb3004bbf086b276500e1d6e7a2f677" title="Calculates Byte&#45;Index of Attribute. " alt="" coords="572,290,681,317"/>
 <area shape="rect" id="node8" href="$d2/d3d/cipcommon_8c.html#a1150da559a1729bf2a1ccf1634f17ad2" title="GetCipService" alt="" coords="573,240,680,266"/>

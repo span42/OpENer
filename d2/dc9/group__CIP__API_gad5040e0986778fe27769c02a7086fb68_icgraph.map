@@ -1,6 +1,6 @@
 <map id="GetCipClass" name="GetCipClass">
 <area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#gae61b613fed863d30428e78b2311bf593" title="Create an instance of an assembly object. " alt="" coords="589,56,747,83"/>
-<area shape="rect" id="node4" href="$d2/d3d/cipcommon_8c.html#a3dfa07bc40e59ba348d713272d1cbfdb" title="CreateCipClass" alt="" coords="188,268,303,295"/>
+<area shape="rect" id="node4" href="$d2/d3d/cipcommon_8c.html#addfffa8f875b4f5c22c1257884d2aaba" title="CreateCipClass" alt="" coords="188,268,303,295"/>
 <area shape="rect" id="node17" href="$df/d03/cipioconnection_8c.html#a68b99df85d462657b12a854316c168f5" title="HandleConfigData" alt="" coords="181,460,310,487"/>
 <area shape="rect" id="node19" href="$df/d03/cipioconnection_8c.html#ac00a39ab755db54e4abf917618ff9849" title="SetupIoConnectionOriginator\lToTargetConnectionPoint" alt="" coords="151,321,340,362"/>
 <area shape="rect" id="node20" href="$df/d03/cipioconnection_8c.html#a4efa3b0cf11b363c8c5f4f8c8070b43f" title="SetupIoConnectionTargetTo\lOriginatorConnectionPoint" alt="" coords="153,389,338,430"/>
