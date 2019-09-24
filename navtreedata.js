@@ -49,9 +49,9 @@ var NAVTREEINDEX =
 "d2/dc9/group__CIP__API.html#ga9abc7c86317baaa7ede1a4bce09fa542",
 "d5/daa/MINGW_2sample__application_2sampleapplication_8c.html#a006160b801568c4b110baaf860edcd1b",
 "d8/d13/structCipEthernetLinkObject.html#a353eee07bb6c92bcd5583e94122ef21a",
-"dc/d16/structCipMessageRouterRequest.html#ad77c58ca6a008b6dc0fdef151ebb7a8e",
-"de/ddc/cipepath_8c.html#ac2a15e1d8686b598840d8df93271e9f6",
-"df/d91/cipconnectionobject_8c.html#ae21a6efe9518ad83e4c7db9b837a2b81"
+"dc/d2b/MINGW_2networkconfig_8c.html",
+"de/ddc/cipepath_8c.html#ac6e66ab4f22749d2e736cec6c5fb97f4",
+"df/d91/cipconnectionobject_8c.html#ae90368c85cedeaa7a56fb0eae81eeef2"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
