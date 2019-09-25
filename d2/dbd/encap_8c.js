@@ -33,6 +33,7 @@ var encap_8c =
     [ "EncapsulationInit", "d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022", null ],
     [ "EncapsulationShutDown", "d4/d91/group__ENCAP.html#ga1261bd2441f744c38d7a3f8d8c16c391", null ],
     [ "EncodeListIdentityCipIdentityItem", "d2/dbd/encap_8c.html#a25f80c3d5c2d4edc54d71311acda663b", null ],
+    [ "EncodeListIdentitySecurityItem", "d2/dbd/encap_8c.html#ae92d8275abbd22fc2d679992a6cc9e93", null ],
     [ "GenerateEncapsulationHeader", "d2/dbd/encap_8c.html#ad558c3aae69a6ab80034278c108802e9", null ],
     [ "GetFreeSessionIndex", "d2/dbd/encap_8c.html#ad674cdd0452f59d824a0bebbf678cb6d", null ],
     [ "GetSessionFromSocket", "d2/dbd/encap_8c.html#a53d77511dde21e6baa59d8d7cc7ef4ec", null ],
