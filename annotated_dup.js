@@ -25,6 +25,7 @@ var annotated_dup =
     [ "CipRoutePath", "d4/d41/structCipRoutePath.html", "d4/d41/structCipRoutePath" ],
     [ "CipShortString", "d4/def/structCipShortString.html", "d4/def/structCipShortString" ],
     [ "CipString", "df/d66/structCipString.html", "df/d66/structCipString" ],
+    [ "CipStringI", "d5/d57/structCipStringI.html", "d5/d57/structCipStringI" ],
     [ "CipStringN", "d9/d72/structCipStringN.html", "d9/d72/structCipStringN" ],
     [ "CipTcpIpNetworkInterfaceConfiguration", "d0/d4c/structCipTcpIpNetworkInterfaceConfiguration.html", "d0/d4c/structCipTcpIpNetworkInterfaceConfiguration" ],
     [ "CipUnconnectedSendParameter", "de/dcb/structCipUnconnectedSendParameter.html", "de/dcb/structCipUnconnectedSendParameter" ],

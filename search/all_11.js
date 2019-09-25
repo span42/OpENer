@@ -86,7 +86,7 @@ var searchData=
   ['state',['state',['../d2/da8/structcip__connection__object.html#acbe573abee2756c4189d57c091bcda71',1,'cip_connection_object']]],
   ['status',['status',['../d9/d42/structencapsulation__data.html#ae9d36e698eb09d2248f8856da0281f5c',1,'encapsulation_data']]],
   ['status_5f',['status_',['../dd/dc4/cipidentity_8c.html#a57df2d7b543e0a5f2f3d6748d61371e6',1,'status_():&#160;cipidentity.c'],['../d2/dbd/encap_8c.html#a57df2d7b543e0a5f2f3d6748d61371e6',1,'status_():&#160;cipidentity.c']]],
-  ['string',['string',['../d4/def/structCipShortString.html#a4a9780b559b58e74f6203f6d82cfd88d',1,'CipShortString::string()'],['../df/d66/structCipString.html#a5e952aabbdf886a82f194f9e8a3908b1',1,'CipString::string()'],['../d9/d72/structCipStringN.html#adb98cd4bcf549f1d5ce899281a02b7e6',1,'CipStringN::string()']]],
+  ['string',['string',['../d4/def/structCipShortString.html#a4a9780b559b58e74f6203f6d82cfd88d',1,'CipShortString::string()'],['../df/d66/structCipString.html#a5e952aabbdf886a82f194f9e8a3908b1',1,'CipString::string()'],['../d9/d72/structCipStringN.html#adb98cd4bcf549f1d5ce899281a02b7e6',1,'CipStringN::string()'],['../d5/d57/structCipStringI.html#aa39ae0fd191a2691aee925ea1ca59eff',1,'CipStringI::string()']]],
   ['symbolic_5fsegment_5fextended_5fformat',['symbolic_segment_extended_format',['../d1/d02/cipepath_8h.html#aa9160642c8cef1396b54acb330186aea',1,'cipepath.h']]],
   ['symbolic_5fsegment_5fextended_5fformat_5fdouble_5fchar',['SYMBOLIC_SEGMENT_EXTENDED_FORMAT_DOUBLE_CHAR',['../de/ddc/cipepath_8c.html#ac8041ab277042a0d179d43da9f85c071',1,'cipepath.c']]],
   ['symbolic_5fsegment_5fextended_5fformat_5fnumeric',['SYMBOLIC_SEGMENT_EXTENDED_FORMAT_NUMERIC',['../de/ddc/cipepath_8c.html#a51ebeb8e5c566ba2d35f9ce6762f2171',1,'cipepath.c']]],

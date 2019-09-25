@@ -23,6 +23,7 @@ var searchData=
   ['ciproutepath',['CipRoutePath',['../d4/d41/structCipRoutePath.html',1,'']]],
   ['cipshortstring',['CipShortString',['../d4/def/structCipShortString.html',1,'']]],
   ['cipstring',['CipString',['../df/d66/structCipString.html',1,'']]],
+  ['cipstringi',['CipStringI',['../d5/d57/structCipStringI.html',1,'']]],
   ['cipstringn',['CipStringN',['../d9/d72/structCipStringN.html',1,'']]],
   ['ciptcpipnetworkinterfaceconfiguration',['CipTcpIpNetworkInterfaceConfiguration',['../d0/d4c/structCipTcpIpNetworkInterfaceConfiguration.html',1,'']]],
   ['cipunconnectedsendparameter',['CipUnconnectedSendParameter',['../de/dcb/structCipUnconnectedSendParameter.html',1,'']]],

@@ -2,6 +2,8 @@ var searchData=
 [
   ['capability_5fbits',['capability_bits',['../dd/dc6/structCipEthernetLinkInterfaceCapability.html#ad1ddbc75a554a3dc507af790a152b5d1',1,'CipEthernetLinkInterfaceCapability']]],
   ['capability_5fflags',['capability_flags',['../dc/dfa/structencapsulation__service__information.html#afdab182d0f7743d90d336bba7befbf60',1,'encapsulation_service_information']]],
+  ['char_5fstring_5fstruct',['char_string_struct',['../d5/d57/structCipStringI.html#a281467bd85ed69d948f08053defbc040',1,'CipStringI']]],
+  ['character_5fset',['character_set',['../d5/d57/structCipStringI.html#a63f3a3912bd628e3378a89fe91b53806',1,'CipStringI']]],
   ['checksum',['checksum',['../dd/db3/structUDPHeader.html#ad906672f6c381c5bb987b9ca20fa8e73',1,'UDPHeader']]],
   ['cip_5fclass',['cip_class',['../d2/d6d/structcip__message__router__object.html#a440815cdd66b94380266bbc5e1a9a459',1,'cip_message_router_object::cip_class()'],['../d5/dc5/structcip__instance.html#a62fb5c9eb145e33e6435b77734344f1e',1,'cip_instance::cip_class()']]],
   ['cip_5fconsumed_5fconnection_5fid',['cip_consumed_connection_id',['../d2/da8/structcip__connection__object.html#ad05de2776070ef95a4e8c359241ed8d1',1,'cip_connection_object']]],
