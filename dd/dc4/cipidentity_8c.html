@@ -150,6 +150,8 @@ Functions</h2></td></tr>
 Variables</h2></td></tr>
 <tr class="memitem:af844bd974a294ebe1eb06996ec9fbe03"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d69/typedefs_8h.html#a72c0fba927c5681c44dbf59147578fc7">CipUint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc4/cipidentity_8c.html#af844bd974a294ebe1eb06996ec9fbe03">device_type_</a> = <a class="el" href="../../da/da8/devicedata_8h.html#aa760b71a038b6ba21238a9be1165c96b">OPENER_DEVICE_TYPE</a></td></tr>
 <tr class="separator:af844bd974a294ebe1eb06996ec9fbe03"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36894e25b20dc3c858028fa4b2187d35"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d69/typedefs_8h.html#a378b726bef4c65cb2ec1c1cdf1205f52">CipUsint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc4/cipidentity_8c.html#a36894e25b20dc3c858028fa4b2187d35">g_state</a> = 255</td></tr>
+<tr class="separator:a36894e25b20dc3c858028fa4b2187d35"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa02b53cc558aee887ae34996f9dbe1fb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d69/typedefs_8h.html#a72c0fba927c5681c44dbf59147578fc7">CipUint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc4/cipidentity_8c.html#aa02b53cc558aee887ae34996f9dbe1fb">product_code_</a> = <a class="el" href="../../da/da8/devicedata_8h.html#a0202c58db20678a7d2532643de074f39">OPENER_DEVICE_PRODUCT_CODE</a></td></tr>
 <tr class="separator:aa02b53cc558aee887ae34996f9dbe1fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a31a04dc4760074cc3ab21b16fe5323fe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/def/structCipShortString.html">CipShortString</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc4/cipidentity_8c.html#a31a04dc4760074cc3ab21b16fe5323fe">product_name_</a></td></tr>
@@ -174,6 +176,7 @@ Variables</h2></td></tr>
 <li>Attribute 5: Status</li>
 <li>Attribute 6: Serial Number</li>
 <li>Attribute 7: Product Name</li>
+<li>Attribute 8: State</li>
 </ul>
 <h2>Implemented Services </h2>
 
@@ -196,9 +199,9 @@ Variables</h2></td></tr>
 <p>CIP Identity object constructor. </p>
 <dl class="section return"><dt>Returns</dt><dd>kEipStatusError if the class could not be created, otherwise kEipStatusOk </dd></dl>
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00148">148</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00150">150</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
-<p>References <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00202">CreateCipClass()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00042">device_type_</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00718">GetAttributeAll()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00404">GetAttributeSingle()</a>, <a class="el" href="../../d9/d7d/cipmessagerouter_8c_source.html#l00136">GetCipInstance()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00123">InitializeCipIdentiy()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00317">InsertAttribute()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00359">InsertService()</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00044">kCipShortString</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00026">kCipUdint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00025">kCipUint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00052">kCipUsintUsint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00036">kCipWord</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00098">kEipStatusError</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00096">kEipStatusOk</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00110">kGetableSingleAndAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00070">kGetAttributeAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00081">kGetAttributeSingle</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00074">kReset</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00043">product_code_</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00047">serial_number_</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00046">status_</a>, and <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00041">vendor_id_</a>.</p>
+<p>References <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00202">CreateCipClass()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00043">device_type_</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00718">GetAttributeAll()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00404">GetAttributeSingle()</a>, <a class="el" href="../../d9/d7d/cipmessagerouter_8c_source.html#l00136">GetCipInstance()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00125">InitializeCipIdentiy()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00317">InsertAttribute()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00359">InsertService()</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00044">kCipShortString</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00026">kCipUdint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00025">kCipUint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00052">kCipUsintUsint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00036">kCipWord</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00098">kEipStatusError</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00096">kEipStatusOk</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00110">kGetableSingleAndAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00070">kGetAttributeAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00081">kGetAttributeSingle</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00074">kReset</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00044">product_code_</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00048">serial_number_</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00047">status_</a>, and <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00042">vendor_id_</a>.</p>
 
 <p>Referenced by <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00036">CipStackInit()</a>.</p>
 
@@ -234,9 +237,9 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00185">185</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00187">187</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
-<p>References <a class="el" href="../../d1/d1b/trace_8h_source.html#l00091">OPENER_TRACE_INFO</a>, and <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00046">status_</a>.</p>
+<p>References <a class="el" href="../../d1/d1b/trace_8h_source.html#l00091">OPENER_TRACE_INFO</a>, and <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00047">status_</a>.</p>
 
 <p>Referenced by <a class="el" href="../../df/d03/cipioconnection_8c_source.html#l00870">HandleReceivedIoConnectionData()</a>, and <a class="el" href="../../d2/daa/POSIX_2sample__application_2sampleapplication_8c_source.html#l00157">RunIdleChanged()</a>.</p>
 
@@ -264,11 +267,11 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00123">123</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00125">125</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
 <p>References <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00235">cip_instance::cip_class</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00242">cip_class::class_instance</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00249">cip_class::highest_attribute_number</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00317">InsertAttribute()</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00025">kCipUint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00110">kGetableSingleAndAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00081">kGetAttributeSingle</a>, and <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00104">kNotSetOrGetable</a>.</p>
 
-<p>Referenced by <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00148">CipIdentityInit()</a>.</p>
+<p>Referenced by <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00150">CipIdentityInit()</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -300,9 +303,25 @@ Here is the caller graph for this function:</div>
 </div><div class="memdoc">
 <p>Attribute 2: Device Type </p>
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00042">42</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00043">43</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
-<p>Referenced by <a class="el" href="../../d5/d35/cipconnectionmanager_8c_source.html#l00972">CheckElectronicKeyData()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00148">CipIdentityInit()</a>, and <a class="el" href="../../d2/dbd/encap_8c_source.html#l00436">EncapsulateListIdentityResponseMessage()</a>.</p>
+<p>Referenced by <a class="el" href="../../d5/d35/cipconnectionmanager_8c_source.html#l00972">CheckElectronicKeyData()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00150">CipIdentityInit()</a>, and <a class="el" href="../../d2/dbd/encap_8c_source.html#l00443">EncodeListIdentityCipIdentityItem()</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a36894e25b20dc3c858028fa4b2187d35"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/d69/typedefs_8h.html#a378b726bef4c65cb2ec1c1cdf1205f52">CipUsint</a> g_state = 255</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00051">51</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+
+<p>Referenced by <a class="el" href="../../d2/dbd/encap_8c_source.html#l00443">EncodeListIdentityCipIdentityItem()</a>.</p>
 
 </div>
 </div>
@@ -317,9 +336,9 @@ Here is the caller graph for this function:</div>
 </div><div class="memdoc">
 <p>Attribute 3: Product Code </p>
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00043">43</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00044">44</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
-<p>Referenced by <a class="el" href="../../d5/d35/cipconnectionmanager_8c_source.html#l00972">CheckElectronicKeyData()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00148">CipIdentityInit()</a>, and <a class="el" href="../../d2/dbd/encap_8c_source.html#l00436">EncapsulateListIdentityResponseMessage()</a>.</p>
+<p>Referenced by <a class="el" href="../../d5/d35/cipconnectionmanager_8c_source.html#l00972">CheckElectronicKeyData()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00150">CipIdentityInit()</a>, and <a class="el" href="../../d2/dbd/encap_8c_source.html#l00443">EncodeListIdentityCipIdentityItem()</a>.</p>
 
 </div>
 </div>
@@ -335,7 +354,7 @@ Here is the caller graph for this function:</div>
 <b>Initial value:</b><div class="fragment"><div class="line">= { <span class="keyword">sizeof</span>(<a class="code" href="../../da/da8/devicedata_8h.html#aa8de555c432471ff7661d4cf71eadcac">OPENER_DEVICE_NAME</a>) - 1,</div><div class="line">                                 <a class="code" href="../../da/da8/devicedata_8h.html#aa8de555c432471ff7661d4cf71eadcac">OPENER_DEVICE_NAME</a> }</div><div class="ttc" id="devicedata_8h_html_aa8de555c432471ff7661d4cf71eadcac"><div class="ttname"><a href="../../da/da8/devicedata_8h.html#aa8de555c432471ff7661d4cf71eadcac">OPENER_DEVICE_NAME</a></div><div class="ttdeci">#define OPENER_DEVICE_NAME</div><div class="ttdef"><b>Definition:</b> <a href="../../da/da8/devicedata_8h_source.html#l00015">devicedata.h:15</a></div></div>
 </div><!-- fragment --><p>Attribute 7: Product Name </p>
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00048">48</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00049">49</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
 </div>
 </div>
@@ -352,7 +371,7 @@ Here is the caller graph for this function:</div>
 <div class="ttc" id="devicedata_8h_html_a7f6ea0b15c8995ecaad60f608abf672c"><div class="ttname"><a href="../../da/da8/devicedata_8h.html#a7f6ea0b15c8995ecaad60f608abf672c">OPENER_DEVICE_MINOR_REVISION</a></div><div class="ttdeci">#define OPENER_DEVICE_MINOR_REVISION</div><div class="ttdef"><b>Definition:</b> <a href="../../da/da8/devicedata_8h_source.html#l00014">devicedata.h:14</a></div></div>
 </div><!-- fragment --><p>Attribute 4: Revision / USINT Major, USINT Minor </p>
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00044">44</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00045">45</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
 </div>
 </div>
@@ -367,9 +386,9 @@ Here is the caller graph for this function:</div>
 </div><div class="memdoc">
 <p>Attribute 6: Serial Number, has to be set prior to OpENer initialization </p>
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00047">47</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00048">48</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
-<p>Referenced by <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00148">CipIdentityInit()</a>, <a class="el" href="../../d2/dbd/encap_8c_source.html#l00436">EncapsulateListIdentityResponseMessage()</a>, and <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00054">SetDeviceSerialNumber()</a>.</p>
+<p>Referenced by <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00150">CipIdentityInit()</a>, <a class="el" href="../../d2/dbd/encap_8c_source.html#l00443">EncodeListIdentityCipIdentityItem()</a>, and <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00056">SetDeviceSerialNumber()</a>.</p>
 
 </div>
 </div>
@@ -384,9 +403,9 @@ Here is the caller graph for this function:</div>
 </div><div class="memdoc">
 <p>Attribute 5: Status </p>
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00046">46</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00047">47</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
-<p>Referenced by <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00148">CipIdentityInit()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00185">CipIdentitySetExtendedDeviceStatus()</a>, <a class="el" href="../../d2/dbd/encap_8c_source.html#l00436">EncapsulateListIdentityResponseMessage()</a>, and <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00061">SetDeviceStatus()</a>.</p>
+<p>Referenced by <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00150">CipIdentityInit()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00187">CipIdentitySetExtendedDeviceStatus()</a>, <a class="el" href="../../d2/dbd/encap_8c_source.html#l00443">EncodeListIdentityCipIdentityItem()</a>, and <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00063">SetDeviceStatus()</a>.</p>
 
 </div>
 </div>
@@ -401,9 +420,9 @@ Here is the caller graph for this function:</div>
 </div><div class="memdoc">
 <p>Attribute 1: Vendor ID </p>
 
-<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00041">41</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00042">42</a> of file <a class="el" href="../../dd/dc4/cipidentity_8c_source.html">cipidentity.c</a>.</p>
 
-<p>Referenced by <a class="el" href="../../d5/d35/cipconnectionmanager_8c_source.html#l00972">CheckElectronicKeyData()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00148">CipIdentityInit()</a>, and <a class="el" href="../../d2/dbd/encap_8c_source.html#l00436">EncapsulateListIdentityResponseMessage()</a>.</p>
+<p>Referenced by <a class="el" href="../../d5/d35/cipconnectionmanager_8c_source.html#l00972">CheckElectronicKeyData()</a>, <a class="el" href="../../dd/dc4/cipidentity_8c_source.html#l00150">CipIdentityInit()</a>, and <a class="el" href="../../d2/dbd/encap_8c_source.html#l00443">EncodeListIdentityCipIdentityItem()</a>.</p>
 
 </div>
 </div>
@@ -413,7 +432,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_527d9ccdfcaa9588043fa6eaabe08755.html">cip</a></li><li class="navelem"><a class="el" href="../../dd/dc4/cipidentity_8c.html">cipidentity.c</a></li>
-    <li class="footer">Generated on Wed Sep 25 2019 11:16:38 for OpENer - Open Source EtherNet/IP(TM)  I/O Target Stack by
+    <li class="footer">Generated on Wed Sep 25 2019 14:10:44 for OpENer - Open Source EtherNet/IP(TM)  I/O Target Stack by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

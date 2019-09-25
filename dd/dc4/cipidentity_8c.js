@@ -6,6 +6,7 @@ var cipidentity_8c =
     [ "SetDeviceSerialNumber", "d2/dc9/group__CIP__API.html#ga696952d9dbc1b6fdedf517aa55f94323", null ],
     [ "SetDeviceStatus", "d2/dc9/group__CIP__API.html#ga2113be94f1eab4f25770d975abe6015c", null ],
     [ "device_type_", "dd/dc4/cipidentity_8c.html#af844bd974a294ebe1eb06996ec9fbe03", null ],
+    [ "g_state", "dd/dc4/cipidentity_8c.html#a36894e25b20dc3c858028fa4b2187d35", null ],
     [ "product_code_", "dd/dc4/cipidentity_8c.html#aa02b53cc558aee887ae34996f9dbe1fb", null ],
     [ "product_name_", "dd/dc4/cipidentity_8c.html#a31a04dc4760074cc3ab21b16fe5323fe", null ],
     [ "revision_", "dd/dc4/cipidentity_8c.html#aef2b62657ef56842d595877f2af6c64b", null ],

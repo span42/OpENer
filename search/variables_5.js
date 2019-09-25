@@ -31,6 +31,7 @@ var searchData=
   ['g_5fregistered_5fsessions',['g_registered_sessions',['../d2/dbd/encap_8c.html#a7b6dba11e298fc4aacafc47ed2d565df',1,'encap.c']]],
   ['g_5frun_5fidle_5fstate',['g_run_idle_state',['../df/d03/cipioconnection_8c.html#a4901ec04ad1ac886626e556c60f12196',1,'cipioconnection.c']]],
   ['g_5fservice_5finformation',['g_service_information',['../d2/dbd/encap_8c.html#a1e41801f6e0d413995711bf265f96073',1,'encap.c']]],
+  ['g_5fstate',['g_state',['../dd/dc4/cipidentity_8c.html#a36894e25b20dc3c858028fa4b2187d35',1,'g_state():&#160;cipidentity.c'],['../d2/dbd/encap_8c.html#a36894e25b20dc3c858028fa4b2187d35',1,'g_state():&#160;cipidentity.c']]],
   ['g_5ftime_5fto_5flive_5fvalue',['g_time_to_live_value',['../dd/d20/ciptcpipinterface_8c.html#a80c0f3f25208a8befe2a112a78b15435',1,'g_time_to_live_value():&#160;ciptcpipinterface.c'],['../d1/dad/ciptcpipinterface_8h.html#a893d4111b2549a2ecb907c037a776927',1,'g_time_to_live_value():&#160;ciptcpipinterface.c']]],
   ['g_5ftime_5fvalue',['g_time_value',['../da/dc2/generic__networkhandler_8h.html#a9d5af295c10123a5eeddada9f9c397cb',1,'generic_networkhandler.h']]],
   ['g_5ftimestamps',['g_timestamps',['../da/dc2/generic__networkhandler_8h.html#ae034c02af6a2380fb828523f9978b9e1',1,'generic_networkhandler.h']]],
