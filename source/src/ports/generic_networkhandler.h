@@ -43,8 +43,8 @@ int highest_socket_handle; /**< temporary file descriptor for select() */
 int g_current_active_tcp_socket;
 
 struct timeval g_time_value;
-MilliSeconds g_actual_time;
-MilliSeconds g_last_time;
+MicroSeconds g_actual_time;
+MicroSeconds g_last_time;
 /** @brief Struct representing the current network status
  *
  */
@@ -52,10 +52,10 @@ typedef struct {
   int tcp_listener; /**< TCP listener socket */
   int udp_unicast_listener; /**< UDP unicast listener socket */
   int udp_global_broadcast_listener; /**< UDP global network broadcast listener */
-  MilliSeconds elapsed_time;
+  MicroSeconds elapsed_time;
 } NetworkStatus;
 
-NetworkStatus g_network_status; /**< Global variable holding the current network status */
+static NetworkStatus g_network_status; /**< Global variable holding the current network status */
 
 /** @brief The platform independent part of network handler initialization routine
  *

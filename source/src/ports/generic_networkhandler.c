@@ -322,7 +322,7 @@ EipStatus NetworkHandlerInitialize(void) {
     0,
     g_network_status.udp_unicast_listener);
 
-  g_last_time = GetMilliSeconds(); /* initialize time keeping */
+  g_last_time = GetMicroSeconds(); /* initialize time keeping */
   g_network_status.elapsed_time = 0;
 
   return kEipStatusOk;
@@ -413,9 +413,12 @@ EipStatus NetworkHandlerProcessOnce(void) {
 
   g_time_value.tv_sec = 0;
   g_time_value.tv_usec = (
-    g_network_status.elapsed_time < kOpenerTimerTickInMilliSeconds ?
-    kOpenerTimerTickInMilliSeconds - g_network_status.elapsed_time : 0)
-                         * 1000; /* 10 ms */
+    g_network_status.elapsed_time < kOpenerTimerTickInMilliSeconds * 1000 ?
+    kOpenerTimerTickInMilliSeconds * 1000 - g_network_status.elapsed_time :
+	g_network_status.elapsed_time - kOpenerTimerTickInMilliSeconds * 1000);
+
+
+  OPENER_TRACE_INFO("Current wait time: %u s and %u us\n", g_time_value.tv_sec, g_time_value.tv_usec);
 
   int ready_socket = select(highest_socket_handle + 1, &read_socket, 0, 0,
                             &g_time_value);
@@ -463,17 +466,17 @@ EipStatus NetworkHandlerProcessOnce(void) {
 
   //OPENER_TRACE_INFO("Socket Loop done\n");
 
-  g_actual_time = GetMilliSeconds();
+  g_actual_time = GetMicroSeconds();
   g_network_status.elapsed_time += g_actual_time - g_last_time;
   g_last_time = g_actual_time;
-  //OPENER_TRACE_INFO("Elapsed time: %u\n", g_network_status.elapsed_time);
+  OPENER_TRACE_INFO("Elapsed time: %u us\n", g_network_status.elapsed_time);
 
   /* check if we had been not able to update the connection manager for several kOpenerTimerTickInMilliSeconds.
    * This should compensate the jitter of the windows timer
    */
-  if (g_network_status.elapsed_time >= kOpenerTimerTickInMilliSeconds) {
+  if (g_network_status.elapsed_time >= kOpenerTimerTickInMilliSeconds * 1000) {
     /* call manage_connections() in connection manager every kOpenerTimerTickInMilliSeconds ms */
-    ManageConnections(g_network_status.elapsed_time);
+    ManageConnections(g_network_status.elapsed_time / 1000);
     g_network_status.elapsed_time = 0;
   }
   return kEipStatusOk;
@@ -760,7 +763,7 @@ EipStatus HandleDataOnTcpSocket(int socket) {
         data_sent = data_size;
       }
     } while (0 < data_size);
-    SocketTimerSetLastUpdate(socket_timer, g_actual_time);
+    SocketTimerSetLastUpdate(socket_timer, g_actual_time / 1000);
     return kEipStatusOk;
   }
 
@@ -824,7 +827,7 @@ EipStatus HandleDataOnTcpSocket(int socket) {
       OPENER_NUMBER_OF_SUPPORTED_SESSIONS,
       socket);
     if(NULL != socket_timer) {
-      SocketTimerSetLastUpdate(socket_timer, g_actual_time);
+      SocketTimerSetLastUpdate(socket_timer, g_actual_time / 1000);
     }
 
     g_current_active_tcp_socket = kEipInvalidSocket;
@@ -846,7 +849,7 @@ EipStatus HandleDataOnTcpSocket(int socket) {
         g_timestamps,
         OPENER_NUMBER_OF_SUPPORTED_SESSIONS,
         socket);
-      SocketTimerSetLastUpdate(socket_timer, g_actual_time);
+      SocketTimerSetLastUpdate(socket_timer, g_actual_time / 1000);
       if (data_sent != outgoing_message.used_message_length) {
         OPENER_TRACE_WARN(
           "TCP response was not fully sent: exp %" PRIuSZT ", sent %ld\n",
@@ -1125,7 +1128,7 @@ void CheckEncapsulationInactivity(int socket_handle) {
 //                      socket_handle,
 //                      socket_timer);
     if(NULL != socket_timer) {
-      MilliSeconds diff_milliseconds = g_actual_time - SocketTimerGetLastUpdate(
+      MilliSeconds diff_milliseconds = g_actual_time / 1000 - SocketTimerGetLastUpdate(
         socket_timer);
 
       if ( diff_milliseconds >=

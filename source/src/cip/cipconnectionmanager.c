@@ -640,7 +640,7 @@ EipStatus GetConnectionOwner(
 }
 
 EipStatus ManageConnections(MilliSeconds elapsed_time) {
-  //OPENER_TRACE_INFO("Entering ManageConnections\n");
+  OPENER_TRACE_INFO("Entering ManageConnections: %u ms elapsed\n", elapsed_time);
   /*Inform application that it can execute */
   HandleApplication();
   ManageEncapsulationMessages(elapsed_time);
