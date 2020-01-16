@@ -230,16 +230,16 @@
 </g>
 <!-- Node17 -->
 <g id="node17" class="node"><title>Node17</title>
-<g id="a_node17"><a xlink:href="../../dd/d34/cipqos_8c.html#a87b966b54976d5911a46eed3909cc1d5" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
-<polygon fill="none" stroke="black" points="882.5,-114.5 882.5,-133.5 1001.5,-133.5 1001.5,-114.5 882.5,-114.5"/>
-<text text-anchor="middle" x="942" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">CipQosGetDscpPriority</text>
+<g id="a_node17"><a xlink:href="../../dd/d34/cipqos_8c.html#a6fa85e635fcd14e9797254ec3a5bb95e" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
+<polygon fill="none" stroke="black" points="888,-114.5 888,-133.5 996,-133.5 996,-114.5 888,-114.5"/>
+<text text-anchor="middle" x="942" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetPriorityForSocket</text>
 </a>
 </g>
 </g>
 <!-- Node8&#45;&gt;Node17 -->
 <g id="edge17" class="edge"><title>Node8&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M759.689,-151.833C792.081,-146.86 835.768,-140.154 872.142,-134.57"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="872.839,-138.004 882.192,-133.028 871.776,-131.086 872.839,-138.004"/>
+<path fill="none" stroke="midnightblue" d="M759.689,-151.833C793.748,-146.604 840.295,-139.459 877.698,-133.717"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="878.634,-137.115 887.987,-132.138 877.571,-130.196 878.634,-137.115"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node"><title>Node14</title>

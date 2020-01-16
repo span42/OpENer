@@ -512,16 +512,16 @@ var sectionId = 'dynsection-0';
 </g>
 <!-- Node31 -->
 <g id="node31" class="node"><title>Node31</title>
-<g id="a_node31"><a xlink:href="../../dd/d34/cipqos_8c.html#a87b966b54976d5911a46eed3909cc1d5" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
-<polygon fill="none" stroke="black" points="822.5,-672.5 822.5,-691.5 941.5,-691.5 941.5,-672.5 822.5,-672.5"/>
-<text text-anchor="middle" x="882" y="-679.5" font-family="Helvetica,sans-Serif" font-size="10.00">CipQosGetDscpPriority</text>
+<g id="a_node31"><a xlink:href="../../dd/d34/cipqos_8c.html#a6fa85e635fcd14e9797254ec3a5bb95e" target="_top" xlink:title="Initializing the data structures of the TCP/IP interface object. ">
+<polygon fill="none" stroke="black" points="828,-672.5 828,-691.5 936,-691.5 936,-672.5 828,-672.5"/>
+<text text-anchor="middle" x="882" y="-679.5" font-family="Helvetica,sans-Serif" font-size="10.00">GetPriorityForSocket</text>
 </a>
 </g>
 </g>
 <!-- Node23&#45;&gt;Node31 -->
 <g id="edge31" class="edge"><title>Node23&#45;&gt;Node31</title>
-<path fill="none" stroke="midnightblue" d="M724.086,-695.707C751.401,-693.321 783.797,-690.491 812.04,-688.024"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="812.582,-691.49 822.24,-687.133 811.973,-684.517 812.582,-691.49"/>
+<path fill="none" stroke="midnightblue" d="M724.086,-695.707C753.208,-693.163 788.104,-690.115 817.586,-687.54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="818.112,-691.007 827.77,-686.65 817.503,-684.034 818.112,-691.007"/>
 </g>
 <!-- Node32 -->
 <g id="node32" class="node"><title>Node32</title>

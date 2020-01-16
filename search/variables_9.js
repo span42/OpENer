@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['language_5fchar_5f1',['language_char_1',['../d5/d57/structCipStringI.html#a8ad58d6ce8aec8f26120dadca8a30095',1,'CipStringI']]],
-  ['language_5fchar_5f2',['language_char_2',['../d5/d57/structCipStringI.html#a7ad215ac69e69bfad189ebfdf0e8c350',1,'CipStringI']]],
-  ['language_5fchar_5f3',['language_char_3',['../d5/d57/structCipStringI.html#afaf5305b386b3b68a0eaef50245ecec3',1,'CipStringI']]],
   ['last',['last',['../dd/de5/structDoublyLinkedList.html#a3863c07c210edf26d74f2d80996c4e90',1,'DoublyLinkedList']]],
   ['last_5fpackage_5fwatchdog_5ftimer',['last_package_watchdog_timer',['../d2/da8/structcip__connection__object.html#a71642c8a395c63ebd056867df5f71327',1,'cip_connection_object']]],
   ['last_5freply_5fsent',['last_reply_sent',['../d2/da8/structcip__connection__object.html#a33ad29ea9aee3c48ad838b6503c6e3f6',1,'cip_connection_object']]],

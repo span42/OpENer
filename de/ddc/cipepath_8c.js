@@ -45,7 +45,7 @@ var cipepath_8c =
     [ "SYMBOLIC_SEGMENT_FORMAT_EXTENDED_STRING", "de/ddc/cipepath_8c.html#a4db1eb9345309a826e36750d31564e9c", null ],
     [ "CipEpathEncodeConnectionEpath", "de/ddc/cipepath_8c.html#a22b9f76d4ea85ca54024f5c4f46efd12", null ],
     [ "CipEpathEqual", "de/ddc/cipepath_8c.html#a455752d9d8b1d319e6f34c3724886348", null ],
-    [ "CipEpathGetLogicalValue", "de/ddc/cipepath_8c.html#af2a3ed4029a1abdda171f86eaeb69058", null ],
+    [ "CipEpathGetLogicalValue", "de/ddc/cipepath_8c.html#aec3040041f35cce28dfb9127869e5f6e", null ],
     [ "CipEpathGetNeededLogicalFormatForValue", "de/ddc/cipepath_8c.html#a3def073e9e7b771cfbe1ef90ce3421f0", null ],
     [ "CipEpathSetLogicalValue", "de/ddc/cipepath_8c.html#aef54869630b890374586301bb0340df0", null ],
     [ "GetElectronicKeyFormat4FromMessage", "de/ddc/cipepath_8c.html#abfed6be598ea8419660436d9c7797d66", null ],

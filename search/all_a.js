@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['language_5fchar_5f1',['language_char_1',['../d5/d57/structCipStringI.html#a8ad58d6ce8aec8f26120dadca8a30095',1,'CipStringI']]],
-  ['language_5fchar_5f2',['language_char_2',['../d5/d57/structCipStringI.html#a7ad215ac69e69bfad189ebfdf0e8c350',1,'CipStringI']]],
-  ['language_5fchar_5f3',['language_char_3',['../d5/d57/structCipStringI.html#afaf5305b386b3b68a0eaef50245ecec3',1,'CipStringI']]],
   ['last',['last',['../dd/de5/structDoublyLinkedList.html#a3863c07c210edf26d74f2d80996c4e90',1,'DoublyLinkedList']]],
   ['last_5fpackage_5fwatchdog_5ftimer',['last_package_watchdog_timer',['../d2/da8/structcip__connection__object.html#a71642c8a395c63ebd056867df5f71327',1,'cip_connection_object']]],
   ['last_5freply_5fsent',['last_reply_sent',['../d2/da8/structcip__connection__object.html#a33ad29ea9aee3c48ad838b6503c6e3f6',1,'cip_connection_object']]],
@@ -17,7 +14,6 @@ var searchData=
   ['link_2etxt',['link.txt',['../d5/d14/enet__encap_2CMakeFiles_2ENET__ENCAP_8dir_2link_8txt.html',1,'']]],
   ['link_2etxt',['link.txt',['../d4/ddb/ports_2POSIX_2sample__application_2CMakeFiles_2SAMPLE__APP_8dir_2link_8txt.html',1,'']]],
   ['listenonlyconnection',['ListenOnlyConnection',['../d3/d01/structListenOnlyConnection.html',1,'']]],
-  ['listidentitygetcipidentityitemlength',['ListIdentityGetCipIdentityItemLength',['../d2/dbd/encap_8c.html#aa155387b0b3c5fe813c0276e61e28054',1,'encap.c']]],
   ['logical_5fsegment_5fextended_5flogical_5ftype',['logical_segment_extended_logical_type',['../d1/d02/cipepath_8h.html#a1c22bd11a095840953e726e6cbf570a1',1,'cipepath.h']]],
   ['logical_5fsegment_5fextended_5ftype_5farray_5findex',['LOGICAL_SEGMENT_EXTENDED_TYPE_ARRAY_INDEX',['../de/ddc/cipepath_8c.html#a78c6bd1f4ab7fea31cb00f9da7d59f70',1,'LOGICAL_SEGMENT_EXTENDED_TYPE_ARRAY_INDEX():&#160;cipepath.c'],['../d1/d02/cipepath_8h.html#a78c6bd1f4ab7fea31cb00f9da7d59f70',1,'LOGICAL_SEGMENT_EXTENDED_TYPE_ARRAY_INDEX():&#160;cipepath.h']]],
   ['logical_5fsegment_5fextended_5ftype_5fbit_5findex',['LOGICAL_SEGMENT_EXTENDED_TYPE_BIT_INDEX',['../de/ddc/cipepath_8c.html#a8820a1c8f9f3a56457cafc34c56e8730',1,'LOGICAL_SEGMENT_EXTENDED_TYPE_BIT_INDEX():&#160;cipepath.c'],['../d1/d02/cipepath_8h.html#a8820a1c8f9f3a56457cafc34c56e8730',1,'LOGICAL_SEGMENT_EXTENDED_TYPE_BIT_INDEX():&#160;cipepath.h']]],
@@ -44,5 +40,6 @@ var searchData=
   ['logicalsegmentextendedlogicaltype',['LogicalSegmentExtendedLogicalType',['../d1/d02/cipepath_8h.html#aa28d7b540f30607e3e32a1bd13bab9e2',1,'cipepath.h']]],
   ['logicalsegmentlogicalformat',['LogicalSegmentLogicalFormat',['../d1/d02/cipepath_8h.html#ac6910dd6ceea8c9c19389952f73d717f',1,'cipepath.h']]],
   ['logicalsegmentlogicaltype',['LogicalSegmentLogicalType',['../d1/d02/cipepath_8h.html#a4f4ed916f51185fd6d442eb7109b34f1',1,'cipepath.h']]],
-  ['logicalsegmentspecialtypelogicalformat',['LogicalSegmentSpecialTypeLogicalFormat',['../d1/d02/cipepath_8h.html#a8ba3613c5f58e4741590aa2e102906e4',1,'cipepath.h']]]
+  ['logicalsegmentspecialtypelogicalformat',['LogicalSegmentSpecialTypeLogicalFormat',['../d1/d02/cipepath_8h.html#a8ba3613c5f58e4741590aa2e102906e4',1,'cipepath.h']]],
+  ['loopback_5fbinary',['LOOPBACK_BINARY',['../df/def/POSIX_2networkconfig_8c.html#a51337483be7fd187db3d87b5eca6dc96',1,'networkconfig.c']]]
 ];

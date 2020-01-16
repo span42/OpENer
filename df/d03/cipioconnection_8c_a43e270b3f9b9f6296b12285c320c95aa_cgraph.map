@@ -26,7 +26,7 @@
 <area shape="rect" id="node20" href="$d1/dbc/appcontype_8c.html#a0c46e6942d5dbb0cd7c9b1eb97e78aea" title="Takes an ConnectionObject and searches and returns an Exclusive Owner Connection based on the Connect..." alt="" coords="538,638,742,665"/>
 <area shape="rect" id="node21" href="$d1/dbc/appcontype_8c.html#a06e551d0aff7ac41def5bbc39652f89a" title="Takes an ConnectionObject and searches and returns an Input Only Connection based on the ConnectionOb..." alt="" coords="557,689,723,715"/>
 <area shape="rect" id="node22" href="$d1/dbc/appcontype_8c.html#ae76893528b0e064cf220f6eb19ac5bdf" title="Takes an ConnectionObject and searches and returns an Listen Only Connection based on the ConnectionO..." alt="" coords="555,739,725,766"/>
-<area shape="rect" id="node24" href="$d2/dc9/group__CIP__API.html#gad5040e0986778fe27769c02a7086fb68" title="Get a pointer to a CIP object with given class code. " alt="" coords="914,1757,1011,1783"/>
+<area shape="rect" id="node24" href="$d2/dc9/group__CIP__API.html#ga98bd609c80ece316406363575b4a89ea" title="Get a pointer to a CIP object with given class code. " alt="" coords="914,1757,1011,1783"/>
 <area shape="rect" id="node25" href="$d2/dc9/group__CIP__API.html#gaa50395aca91b378c297d6ad919df210e" title="Get a pointer to an instance. " alt="" coords="906,1874,1019,1901"/>
 <area shape="rect" id="node26" href="$d1/dbc/appcontype_8c.html#ac869fbefb1f616eaa666fe659c224fe3" title="Check if there is an established connection that uses the same config point. " alt="" coords="869,1808,1056,1849"/>
 <area shape="rect" id="node27" href="$d2/dc9/group__CIP__API.html#ga5a14c8d76acacb09312b709bb0a76265" title="Get a pointer to an instance&#39;s attribute. " alt="" coords="907,1925,1019,1951"/>

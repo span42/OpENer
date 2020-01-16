@@ -8,7 +8,7 @@
 <area shape="rect" id="node11" href="$df/d91/cipconnectionobject_8c.html#aeee7026822ffa05ebabab57a0eed1665" title="ConnectionObjectGetTToOPriority" alt="" coords="265,370,487,397"/>
 <area shape="rect" id="node13" href="$df/d91/cipconnectionobject_8c.html#a5a8dca52f318b4aca92f10de1c1072fc" title="ConnectionObjectGetTToORequested\lPacketInterval" alt="" coords="255,421,497,463"/>
 <area shape="rect" id="node14" href="$d2/dc9/group__CIP__API.html#ga5a14c8d76acacb09312b709bb0a76265" title="Get a pointer to an instance&#39;s attribute. " alt="" coords="320,487,432,514"/>
-<area shape="rect" id="node15" href="$d2/dc9/group__CIP__API.html#gad5040e0986778fe27769c02a7086fb68" title="Get a pointer to a CIP object with given class code. " alt="" coords="327,538,425,565"/>
+<area shape="rect" id="node15" href="$d2/dc9/group__CIP__API.html#ga98bd609c80ece316406363575b4a89ea" title="Get a pointer to a CIP object with given class code. " alt="" coords="327,538,425,565"/>
 <area shape="rect" id="node17" href="$d2/dc9/group__CIP__API.html#gaa50395aca91b378c297d6ad919df210e" title="Get a pointer to an instance. " alt="" coords="319,589,433,615"/>
 <area shape="rect" id="node6" href="$df/d91/cipconnectionobject_8c.html#aed3dd75101c6e6e93d7ab682b6f26d85" title="ConnectionObjectGetConnectionSize" alt="" coords="563,202,802,229"/>
 <area shape="rect" id="node8" href="$df/d91/cipconnectionobject_8c.html#a0e743d9eb9ed5197efacda331a57a7c3" title="ConnectionObjectGetConnection\lSizeType" alt="" coords="576,253,789,295"/>

@@ -119,7 +119,7 @@ var cipepath_8h =
     ] ],
     [ "CipEpathEncodeConnectionEpath", "d1/d02/cipepath_8h.html#a22b9f76d4ea85ca54024f5c4f46efd12", null ],
     [ "CipEpathEqual", "d1/d02/cipepath_8h.html#a455752d9d8b1d319e6f34c3724886348", null ],
-    [ "CipEpathGetLogicalValue", "d1/d02/cipepath_8h.html#af2a3ed4029a1abdda171f86eaeb69058", null ],
+    [ "CipEpathGetLogicalValue", "d1/d02/cipepath_8h.html#aec3040041f35cce28dfb9127869e5f6e", null ],
     [ "CipEpathSetLogicalValue", "d1/d02/cipepath_8h.html#aef54869630b890374586301bb0340df0", null ],
     [ "GetElectronicKeyFormat4FromMessage", "d1/d02/cipepath_8h.html#a8194b2888502980a0c2b3c15aee9722a", null ],
     [ "GetPathDataSegmentSimpleDataWordLength", "d1/d02/cipepath_8h.html#a27b1a3769281dfd32fe6db6d52d5173e", null ],

@@ -1,6 +1,6 @@
 var structcip__class =
 [
-    [ "class_code", "da/d8e/structcip__class.html#aa0d3c86eeb643ead0ec90799efbc1dee", null ],
+    [ "class_id", "da/d8e/structcip__class.html#abd6eb84c5d2f1e74c2660bb5ebf6c64e", null ],
     [ "class_instance", "da/d8e/structcip__class.html#ab9ed12190a1a0eb8de324736094f3d5a", null ],
     [ "class_name", "da/d8e/structcip__class.html#a298e05ca692371f03674cbd5e3ba194c", null ],
     [ "get_all_bit_mask", "da/d8e/structcip__class.html#a8a4204ed825dc9b04c6db70a3eb2704e", null ],

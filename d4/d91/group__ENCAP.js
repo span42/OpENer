@@ -23,7 +23,7 @@ var group__ENCAP =
     [ "GetIntFromMessage", "d4/d91/group__ENCAP.html#ga70322f970709ca9c9a1a1d474cfe2302", null ],
     [ "GetSintFromMessage", "d4/d91/group__ENCAP.html#ga0a45608ad12bae48152cb1cfafef1a4c", null ],
     [ "ManageEncapsulationMessages", "d4/d91/group__ENCAP.html#ga3b9c0d7d9d1413e4cd8ca5634b4bc9ac", null ],
-    [ "NotifyCommonPacketFormat", "d4/d91/group__ENCAP.html#ga9c408ca52db513a953b72e8dfcad27e8", null ],
-    [ "NotifyConnectedCommonPacketFormat", "d4/d91/group__ENCAP.html#ga72c9878cc686b15d10481b716e6f628d", null ],
+    [ "NotifyCommonPacketFormat", "d4/d91/group__ENCAP.html#gaf4beeca6ee941986295958572352a567", null ],
+    [ "NotifyConnectedCommonPacketFormat", "d4/d91/group__ENCAP.html#ga93b23ccc67639937716a8f436a96c2b5", null ],
     [ "g_common_packet_format_data_item", "d4/d91/group__ENCAP.html#gafaae5be8de81c633ea4df46fa8b957e0", null ]
 ];

@@ -188,7 +188,6 @@ var searchData=
   ['kconnectionobjectinstancetypeioexclusiveowner',['kConnectionObjectInstanceTypeIOExclusiveOwner',['../d1/d6c/cipconnectionobject_8h.html#a8fbd6c5533dcc176e91ae9292524d5aba868ab030f24ecf41724bed2fadfe4caa',1,'cipconnectionobject.h']]],
   ['kconnectionobjectinstancetypeioinputonly',['kConnectionObjectInstanceTypeIOInputOnly',['../d1/d6c/cipconnectionobject_8h.html#a8fbd6c5533dcc176e91ae9292524d5abab018e791efab5611f65151a46a40854c',1,'cipconnectionobject.h']]],
   ['kconnectionobjectinstancetypeiolistenonly',['kConnectionObjectInstanceTypeIOListenOnly',['../d1/d6c/cipconnectionobject_8h.html#a8fbd6c5533dcc176e91ae9292524d5aba798ef4c0d84ae03f5082185fb84f2eca',1,'cipconnectionobject.h']]],
-  ['kconnectionobjectpriorityexplicit',['kConnectionObjectPriorityExplicit',['../d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08abd29bb5359daa2e0947b2437e25a164d',1,'cipconnectionobject.h']]],
   ['kconnectionobjectpriorityhigh',['kConnectionObjectPriorityHigh',['../d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08acff6d39dbfe5ef664b7501c9132edac7',1,'cipconnectionobject.h']]],
   ['kconnectionobjectprioritylow',['kConnectionObjectPriorityLow',['../d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08ad41dea40a8924c5c076f4a8f1365675a',1,'cipconnectionobject.h']]],
   ['kconnectionobjectpriorityscheduled',['kConnectionObjectPriorityScheduled',['../d1/d6c/cipconnectionobject_8h.html#a3c465a6a4a65cfa8a06ba2ddc97eba08ad843ae59c0006ddbe75bcb68e0ff648d',1,'cipconnectionobject.h']]],

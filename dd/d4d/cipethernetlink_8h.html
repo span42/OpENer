@@ -139,8 +139,7 @@ Data Structures</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:a5e127ce81b8e9b960b8831b27e7c9fa1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d4d/cipethernetlink_8h.html#a5e127ce81b8e9b960b8831b27e7c9fa1">CIP_ETHERNETLINK_CLASS_CODE</a>&#160;&#160;&#160;0xF6u</td></tr>
-<tr class="memdesc:a5e127ce81b8e9b960b8831b27e7c9fa1"><td class="mdescLeft">&#160;</td><td class="mdescRight">This Ethernet Link class id as #define is still needed for a static initialization.  <a href="#a5e127ce81b8e9b960b8831b27e7c9fa1">More...</a><br /></td></tr>
+<tr class="memitem:a5e127ce81b8e9b960b8831b27e7c9fa1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d4d/cipethernetlink_8h.html#a5e127ce81b8e9b960b8831b27e7c9fa1">CIP_ETHERNETLINK_CLASS_CODE</a>&#160;&#160;&#160;0xF6</td></tr>
 <tr class="separator:a5e127ce81b8e9b960b8831b27e7c9fa1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
@@ -156,6 +155,8 @@ Functions</h2></td></tr>
 <tr class="separator:a841bea27e0f777e8b8beaa35fbaa80c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad7df5a954d504d818bf33ef2f2ae909d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d4d/cipethernetlink_8h.html#ad7df5a954d504d818bf33ef2f2ae909d">EncodeMediaCounters</a> (<a class="el" href="../../d7/d69/typedefs_8h.html#aa0c108ee762a27720919a4634643040e">EipUint8</a> **pa_acMsg)</td></tr>
 <tr class="separator:ad7df5a954d504d818bf33ef2f2ae909d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab32c3ac78db693933538f44ed0b1fb42"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d69/typedefs_8h.html#a3dcc5f7837c120360f8cc88a76781709">EipStatus</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d4d/cipethernetlink_8h.html#ab32c3ac78db693933538f44ed0b1fb42">GetAttributeSingleEthernetLink</a> (<a class="el" href="../../df/d28/ciptypes_8h.html#aea7976be629e5ece275c993982186188">CipInstance</a> *RESTRICT const instance, <a class="el" href="../../dc/d16/structCipMessageRouterRequest.html">CipMessageRouterRequest</a> *const message_router_request, <a class="el" href="../../d0/d1f/structCipMessageRouterResponse.html">CipMessageRouterResponse</a> *const message_router_response, struct sockaddr *originator_address, const int encapsulation_session)</td></tr>
+<tr class="separator:ab32c3ac78db693933538f44ed0b1fb42"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
@@ -168,14 +169,14 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define CIP_ETHERNETLINK_CLASS_CODE&#160;&#160;&#160;0xF6u</td>
+          <td class="memname">#define CIP_ETHERNETLINK_CLASS_CODE&#160;&#160;&#160;0xF6</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>This Ethernet Link class id as #define is still needed for a static initialization. </p>
+<p>Definition at line <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00012">12</a> of file <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html">cipethernetlink.h</a>.</p>
 
-<p>Definition at line <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00014">14</a> of file <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html">cipethernetlink.h</a>.</p>
+<p>Referenced by <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00068">CipEthernetLinkInit()</a>.</p>
 
 </div>
 </div>
@@ -199,7 +200,7 @@ Variables</h2></td></tr>
 
 <p>Definition at line <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00068">68</a> of file <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html">cipethernetlink.c</a>.</p>
 
-<p>References <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00202">CreateCipClass()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00050">dummy_attribute_udint</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00049">dummy_attribute_usint</a>, <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00042">g_ethernet_link</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00718">GetAttributeAll()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00176">GetAttributeSingleEthernetLink()</a>, <a class="el" href="../../d9/d7d/cipmessagerouter_8c_source.html#l00136">GetCipInstance()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00317">InsertAttribute()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00359">InsertService()</a>, <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00036">CipEthernetLinkObject::interface_flags</a>, <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00035">CipEthernetLinkObject::interface_speed</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00055">kCip6Usint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00018">kCipAny</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00037">kCipDword</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00044">kCipShortString</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00026">kCipUdint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00024">kCipUsint</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00098">kEipStatusError</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00096">kEipStatusOk</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00105">kGetableAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00110">kGetableSingleAndAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00070">kGetAttributeAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00081">kGetAttributeSingle</a>, and <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00037">CipEthernetLinkObject::physical_address</a>.</p>
+<p>References <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00012">CIP_ETHERNETLINK_CLASS_CODE</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00189">CreateCipClass()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00050">dummy_attribute_udint</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00049">dummy_attribute_usint</a>, <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00045">g_ethernet_link</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00705">GetAttributeAll()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00176">GetAttributeSingleEthernetLink()</a>, <a class="el" href="../../d9/d7d/cipmessagerouter_8c_source.html#l00135">GetCipInstance()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00304">InsertAttribute()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00346">InsertService()</a>, <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00039">CipEthernetLinkObject::interface_flags</a>, <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00038">CipEthernetLinkObject::interface_speed</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00055">kCip6Usint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00018">kCipAny</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00037">kCipDword</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00044">kCipShortString</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00026">kCipUdint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00024">kCipUsint</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00098">kEipStatusError</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00096">kEipStatusOk</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00105">kGetableAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00110">kGetableSingleAndAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00070">kGetAttributeAll</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00081">kGetAttributeSingle</a>, and <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00040">CipEthernetLinkObject::physical_address</a>.</p>
 
 <p>Referenced by <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00036">CipStackInit()</a>.</p>
 
@@ -237,7 +238,7 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00150">150</a> of file <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html">cipethernetlink.c</a>.</p>
 
-<p>References <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00033">CipEthernetLinkInterfaceCapability::capability_bits</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00463">EncodeData()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00024">speed_duplex_array_entry::interface_duplex_mode</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00023">speed_duplex_array_entry::interface_speed</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00037">kCipDword</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00025">kCipUint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00024">kCipUsint</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00029">speed_duplex_options::speed_duplex_array</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00028">speed_duplex_options::speed_duplex_array_count</a>, and <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00034">CipEthernetLinkInterfaceCapability::speed_duplex_options</a>.</p>
+<p>References <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00033">CipEthernetLinkInterfaceCapability::capability_bits</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00450">EncodeData()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00024">speed_duplex_array_entry::interface_duplex_mode</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00023">speed_duplex_array_entry::interface_speed</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00037">kCipDword</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00025">kCipUint</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00024">kCipUsint</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00029">speed_duplex_options::speed_duplex_array</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00028">speed_duplex_options::speed_duplex_array_count</a>, and <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00034">CipEthernetLinkInterfaceCapability::speed_duplex_options</a>.</p>
 
 <p>Referenced by <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00176">GetAttributeSingleEthernetLink()</a>.</p>
 
@@ -275,7 +276,7 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00139">139</a> of file <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html">cipethernetlink.c</a>.</p>
 
-<p>References <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00018">CipEthernetLinkInterfaceControl::control_bits</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00463">EncodeData()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00019">CipEthernetLinkInterfaceControl::forced_interface_speed</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00025">kCipUint</a>, and <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00036">kCipWord</a>.</p>
+<p>References <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00018">CipEthernetLinkInterfaceControl::control_bits</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00450">EncodeData()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00019">CipEthernetLinkInterfaceControl::forced_interface_speed</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00025">kCipUint</a>, and <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00036">kCipWord</a>.</p>
 
 <p>Referenced by <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00176">GetAttributeSingleEthernetLink()</a>.</p>
 
@@ -313,7 +314,7 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00121">121</a> of file <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html">cipethernetlink.c</a>.</p>
 
-<p>References <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00050">dummy_attribute_udint</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00463">EncodeData()</a>, and <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00026">kCipUdint</a>.</p>
+<p>References <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00050">dummy_attribute_udint</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00450">EncodeData()</a>, and <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00026">kCipUdint</a>.</p>
 
 <p>Referenced by <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00176">GetAttributeSingleEthernetLink()</a>.</p>
 
@@ -351,7 +352,7 @@ Here is the caller graph for this function:</div>
 
 <p>Definition at line <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00130">130</a> of file <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html">cipethernetlink.c</a>.</p>
 
-<p>References <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00050">dummy_attribute_udint</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00463">EncodeData()</a>, and <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00026">kCipUdint</a>.</p>
+<p>References <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00050">dummy_attribute_udint</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00450">EncodeData()</a>, and <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00026">kCipUdint</a>.</p>
 
 <p>Referenced by <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00176">GetAttributeSingleEthernetLink()</a>.</p>
 
@@ -373,6 +374,72 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
+<a class="anchor" id="ab32c3ac78db693933538f44ed0b1fb42"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/d69/typedefs_8h.html#a3dcc5f7837c120360f8cc88a76781709">EipStatus</a> GetAttributeSingleEthernetLink </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d28/ciptypes_8h.html#aea7976be629e5ece275c993982186188">CipInstance</a> *RESTRICT const&#160;</td>
+          <td class="paramname"><em>instance</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d16/structCipMessageRouterRequest.html">CipMessageRouterRequest</a> *const&#160;</td>
+          <td class="paramname"><em>message_router_request</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d1f/structCipMessageRouterResponse.html">CipMessageRouterResponse</a> *const&#160;</td>
+          <td class="paramname"><em>message_router_response</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">struct sockaddr *&#160;</td>
+          <td class="paramname"><em>originator_address</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const int&#160;</td>
+          <td class="paramname"><em>encapsulation_session</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00176">176</a> of file <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html">cipethernetlink.c</a>.</p>
+
+<p>References <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00156">CipEpath::attribute_number</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00906">CalculateIndex()</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00211">CipMessageRouterResponse::data</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00221">CipAttributeStruct::data</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00210">CipMessageRouterResponse::data_length</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00150">EncodeInterfaceCapability()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00139">EncodeInterfaceControl()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00121">EncodeInterfaceCounters()</a>, <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00130">EncodeMediaCounters()</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00203">CipMessageRouterResponse::general_status</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00391">GetAttributeSingle()</a>, <a class="el" href="../../d2/d3d/cipcommon_8c_source.html#l00373">GetCipAttribute()</a>, <a class="el" href="../../d6/d52/ciperror_8h_source.html#l00030">kCipErrorAttributeNotSupported</a>, <a class="el" href="../../d6/d52/ciperror_8h_source.html#l00010">kCipErrorSuccess</a>, <a class="el" href="../../d7/d69/typedefs_8h_source.html#l00097">kEipStatusOkSend</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00070">kGetAttributeAll</a>, <a class="el" href="../../d1/d1b/trace_8h_source.html#l00091">OPENER_TRACE_INFO</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00200">CipMessageRouterResponse::reply_service</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00189">CipMessageRouterRequest::request_path</a>, <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00188">CipMessageRouterRequest::service</a>, and <a class="el" href="../../df/d28/ciptypes_8h_source.html#l00205">CipMessageRouterResponse::size_of_additional_status</a>.</p>
+
+<p>Referenced by <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00068">CipEthernetLinkInit()</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../dd/d4d/cipethernetlink_8h_ab32c3ac78db693933538f44ed0b1fb42_cgraph.svg" width="100%" height="540"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+</div>
+</p>
+
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../dd/d4d/cipethernetlink_8h_ab32c3ac78db693933538f44ed0b1fb42_icgraph.svg" width="100%" height="300"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+</div>
+</p>
+
+</div>
+</div>
 <h2 class="groupheader">Variable Documentation</h2>
 <a class="anchor" id="acebbb33ab03fd30a2ac2f2702d167521"></a>
 <div class="memitem">
@@ -384,9 +451,9 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00042">42</a> of file <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html">cipethernetlink.h</a>.</p>
+<p>Definition at line <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html#l00045">45</a> of file <a class="el" href="../../dd/d4d/cipethernetlink_8h_source.html">cipethernetlink.h</a>.</p>
 
-<p>Referenced by <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00068">CipEthernetLinkInit()</a>, <a class="el" href="../../d2/d9c/WIN32_2networkconfig_8c_source.html#l00035">ConfigureIpMacAddress()</a>, <a class="el" href="../../df/def/POSIX_2networkconfig_8c_source.html#l00026">ConfigureMacAddress()</a>, and <a class="el" href="../../dc/d2b/MINGW_2networkconfig_8c_source.html#l00027">ConfigureNetworkInterface()</a>.</p>
+<p>Referenced by <a class="el" href="../../d7/d65/cipethernetlink_8c_source.html#l00068">CipEthernetLinkInit()</a>, <a class="el" href="../../d2/d9c/WIN32_2networkconfig_8c_source.html#l00035">ConfigureIpMacAddress()</a>, <a class="el" href="../../df/def/POSIX_2networkconfig_8c_source.html#l00031">ConfigureMacAddress()</a>, and <a class="el" href="../../dc/d2b/MINGW_2networkconfig_8c_source.html#l00027">ConfigureNetworkInterface()</a>.</p>
 
 </div>
 </div>
@@ -396,7 +463,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_527d9ccdfcaa9588043fa6eaabe08755.html">cip</a></li><li class="navelem"><a class="el" href="../../dd/d4d/cipethernetlink_8h.html">cipethernetlink.h</a></li>
-    <li class="footer">Generated on Wed Sep 25 2019 14:50:13 for OpENer - Open Source EtherNet/IP(TM)  I/O Target Stack by
+    <li class="footer">Generated on Thu Jan 16 2020 11:35:36 for OpENer - Open Source EtherNet/IP(TM)  I/O Target Stack by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

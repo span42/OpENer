@@ -19,7 +19,7 @@ var cpf_8h =
     [ "AssembleIOMessage", "d4/d91/group__ENCAP.html#ga137d29fba9dd744ed2e9323bf75e0bba", null ],
     [ "AssembleLinearMessage", "d4/d91/group__ENCAP.html#gaa28ed48b18b92a64faf70093eb74d891", null ],
     [ "CreateCommonPacketFormatStructure", "d4/d91/group__ENCAP.html#gab4525f090b67d97b3a3f7cce3ca441ec", null ],
-    [ "NotifyCommonPacketFormat", "d4/d91/group__ENCAP.html#ga9c408ca52db513a953b72e8dfcad27e8", null ],
-    [ "NotifyConnectedCommonPacketFormat", "d4/d91/group__ENCAP.html#ga72c9878cc686b15d10481b716e6f628d", null ],
+    [ "NotifyCommonPacketFormat", "d4/d91/group__ENCAP.html#gaf4beeca6ee941986295958572352a567", null ],
+    [ "NotifyConnectedCommonPacketFormat", "d4/d91/group__ENCAP.html#ga93b23ccc67639937716a8f436a96c2b5", null ],
     [ "g_common_packet_format_data_item", "d4/d91/group__ENCAP.html#gafaae5be8de81c633ea4df46fa8b957e0", null ]
 ];

@@ -1,7 +1,5 @@
 <map id="SetDeviceStatus" name="SetDeviceStatus">
-<area shape="rect" id="node2" href="$d5/dc5/group__CIP__CALLBACK__API.html#gacfb8706d76bc6fe1816546e122fdcac2" title="Emulate as close a possible a power cycle of the device. " alt="" coords="502,31,601,57"/>
-<area shape="rect" id="node5" href="$d5/dc5/group__CIP__CALLBACK__API.html#gabec9a29cf19789a6534814680c21f6e7" title="Reset the device to the initial configuration and emulate as close as possible a power cycle of the d..." alt="" coords="175,81,396,108"/>
-<area shape="rect" id="node3" href="$d1/dbc/appcontype_8c.html#a18d2a32030faf1d5e3d48e610b1c4fe7" title="CloseAllConnections" alt="" coords="746,5,890,32"/>
-<area shape="rect" id="node4" href="$dd/d34/cipqos_8c.html#ad6dcfab529ee5f068b09de4949d39b3c" title="Updates the currently used set of DSCP priority values. " alt="" coords="707,56,929,83"/>
-<area shape="rect" id="node6" href="$dd/d34/cipqos_8c.html#a1f80a420a6128a8e219a28ad17604d87" title="Reset attribute values to default. Does not update currently used set. " alt="" coords="444,82,659,123"/>
+<area shape="rect" id="node2" href="$d5/dc5/group__CIP__CALLBACK__API.html#gacfb8706d76bc6fe1816546e122fdcac2" title="Emulate as close a possible a power cycle of the device. " alt="" coords="444,5,543,32"/>
+<area shape="rect" id="node4" href="$d5/dc5/group__CIP__CALLBACK__API.html#gabec9a29cf19789a6534814680c21f6e7" title="Reset the device to the initial configuration and emulate as close as possible a power cycle of the d..." alt="" coords="175,31,396,57"/>
+<area shape="rect" id="node3" href="$d1/dbc/appcontype_8c.html#a18d2a32030faf1d5e3d48e610b1c4fe7" title="CloseAllConnections" alt="" coords="591,5,735,32"/>
 </map>

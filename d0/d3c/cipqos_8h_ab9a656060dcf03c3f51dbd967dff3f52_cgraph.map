@@ -1,17 +1,17 @@
 <map id="CipQoSInit" name="CipQoSInit">
-<area shape="rect" id="node2" href="$d2/d3d/cipcommon_8c.html#addfffa8f875b4f5c22c1257884d2aaba" title="CreateCipClass" alt="" coords="160,233,275,260"/>
+<area shape="rect" id="node2" href="$d2/d3d/cipcommon_8c.html#a3dfa07bc40e59ba348d713272d1cbfdb" title="CreateCipClass" alt="" coords="160,233,275,260"/>
 <area shape="rect" id="node19" href="$d2/dc9/group__CIP__API.html#gac207feb53c1f98b45f3934bbea63d618" title="Insert an attribute in an instance of a CIP class. " alt="" coords="369,309,473,336"/>
 <area shape="rect" id="node20" href="$d2/dc9/group__CIP__API.html#ga35f639b135ec3c3903f49fd65daed307" title="Insert a service in an instance of a CIP object. " alt="" coords="372,411,471,437"/>
-<area shape="rect" id="node22" href="$dd/d34/cipqos_8c.html#a5d9d92286e873ae02cb2c13ea9a0dee0" title="GetAttributeSingleQoS" alt="" coords="140,360,295,387"/>
+<area shape="rect" id="node22" href="$dd/d34/cipqos_8c.html#aa40ff7ab77fbd2634d671fb0a64d7f76" title="GetAttributeSingleQoS" alt="" coords="140,360,295,387"/>
 <area shape="rect" id="node23" href="$d2/dc9/group__CIP__API.html#gaa50395aca91b378c297d6ad919df210e" title="Get a pointer to an instance. " alt="" coords="161,512,274,539"/>
 <area shape="rect" id="node24" href="$dd/d34/cipqos_8c.html#ac274d150c9f82c615c75f681a30e0b38" title="InitializeCipQos" alt="" coords="160,563,275,589"/>
-<area shape="rect" id="node25" href="$dd/d34/cipqos_8c.html#a594bf619ca9096b347cf14788602b6b4" title="SetAttributeSingleQoS" alt="" coords="345,461,498,488"/>
+<area shape="rect" id="node25" href="$dd/d34/cipqos_8c.html#a698f45a084157feeb9d13e3dbd058a5c" title="SetAttributeSingleQoS" alt="" coords="345,461,498,488"/>
 <area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#ga39dafca98f844a12511af11b1273d0a8" title="Add a number of CIP instances to a given CIP class. " alt="" coords="360,56,483,83"/>
 <area shape="rect" id="node4" href="$d5/dc5/group__CIP__CALLBACK__API.html#ga70ee7034f390fd3759d42a50e60e1b1c" title="Allocate memory for the CIP stack. " alt="" coords="597,132,675,159"/>
 <area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5ec1d2c432792c39f93c170943964302" title="Allocates Attribute bitmasks. " alt="" coords="343,208,500,235"/>
-<area shape="rect" id="node7" href="$d2/d3d/cipcommon_8c.html#a9c9e27dacef3a49543cd2e3868349f5f" title="Generic implementation of the GetAttributeAll CIP service. " alt="" coords="368,259,475,285"/>
-<area shape="rect" id="node9" href="$d2/d3d/cipcommon_8c.html#ab4a4e141020fc10ead0def343c767413" title="Generic implementation of the GetAttributeSingle CIP service. " alt="" coords="357,360,485,387"/>
-<area shape="rect" id="node17" href="$d2/dc9/group__CIP__API.html#gad5040e0986778fe27769c02a7086fb68" title="Get a pointer to a CIP object with given class code. " alt="" coords="373,5,470,32"/>
+<area shape="rect" id="node7" href="$d2/d3d/cipcommon_8c.html#ab5e27f4fb889d26a7dcd993cf2d3ddfe" title="Generic implementation of the GetAttributeAll CIP service. " alt="" coords="368,259,475,285"/>
+<area shape="rect" id="node9" href="$d2/d3d/cipcommon_8c.html#a4d2d00f2e1252b192ef73aa388898e7d" title="Generic implementation of the GetAttributeSingle CIP service. " alt="" coords="357,360,485,387"/>
+<area shape="rect" id="node17" href="$d2/dc9/group__CIP__API.html#ga98bd609c80ece316406363575b4a89ea" title="Get a pointer to a CIP object with given class code. " alt="" coords="373,5,470,32"/>
 <area shape="rect" id="node21" href="$d9/d7d/cipmessagerouter_8c.html#ae00f521e394d00fd5fd99271a6983116" title="Register a CIP Class to the message router. " alt="" coords="359,107,484,133"/>
 <area shape="rect" id="node6" href="$d2/dc9/group__CIP__API.html#ga1eb3004bbf086b276500e1d6e7a2f677" title="Calculates Byte&#45;Index of Attribute. " alt="" coords="581,285,691,312"/>
 <area shape="rect" id="node8" href="$d2/d3d/cipcommon_8c.html#a1150da559a1729bf2a1ccf1634f17ad2" title="GetCipService" alt="" coords="583,235,689,261"/>

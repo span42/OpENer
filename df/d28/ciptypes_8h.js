@@ -14,7 +14,6 @@ var ciptypes_8h =
     [ "CipRoutePath", "d4/d41/structCipRoutePath.html", "d4/d41/structCipRoutePath" ],
     [ "CipShortString", "d4/def/structCipShortString.html", "d4/def/structCipShortString" ],
     [ "CipString", "df/d66/structCipString.html", "df/d66/structCipString" ],
-    [ "CipStringI", "d5/d57/structCipStringI.html", "d5/d57/structCipStringI" ],
     [ "CipStringN", "d9/d72/structCipStringN.html", "d9/d72/structCipStringN" ],
     [ "CipTcpIpNetworkInterfaceConfiguration", "d0/d4c/structCipTcpIpNetworkInterfaceConfiguration.html", "d0/d4c/structCipTcpIpNetworkInterfaceConfiguration" ],
     [ "CipUnconnectedSendParameter", "de/dcb/structCipUnconnectedSendParameter.html", "de/dcb/structCipUnconnectedSendParameter" ],
@@ -30,7 +29,7 @@ var ciptypes_8h =
     [ "CipClass", "df/d28/ciptypes_8h.html#a175191808b8fac50b47d9bbc9edc6051", null ],
     [ "CipDataType", "df/d28/ciptypes_8h.html#a22530082e67e6b7c97b74ebaecde3f61", null ],
     [ "CipInstance", "df/d28/ciptypes_8h.html#aea7976be629e5ece275c993982186188", null ],
-    [ "CipServiceFunction", "d2/dc9/group__CIP__API.html#ga2a36c8ba9a72b371265e60b425551ebf", null ],
+    [ "CipServiceFunction", "d2/dc9/group__CIP__API.html#ga3362466561288caf8b81793ddb6bec30", null ],
     [ "CipServiceStruct", "df/d28/ciptypes_8h.html#a8dcc43f5bab0798fbe107dc2cb757b09", null ],
     [ "ConnectionPointType", "df/d28/ciptypes_8h.html#aae064ca86d6d2ef9b60e4234e25197bd", null ],
     [ "cip_data_types", "df/d28/ciptypes_8h.html#a320130332b1a5062394fc0bd20723985", [

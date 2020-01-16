@@ -1,12 +1,10 @@
 <map id="SocketTimerSetLastUpdate" name="SocketTimerSetLastUpdate">
-<area shape="rect" id="node2" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="755,5,925,32"/>
-<area shape="rect" id="node8" href="$d7/df9/encap_8h.html#a6007bf2e4bd1e9b0447efc3d9937087b" title="HandleReceivedRegisterSession\lCommand" alt="" coords="236,53,451,94"/>
-<area shape="rect" id="node3" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="973,5,1168,32"/>
+<area shape="rect" id="node2" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="755,31,925,57"/>
+<area shape="rect" id="node8" href="$d7/df9/encap_8h.html#a6007bf2e4bd1e9b0447efc3d9937087b" title="HandleReceivedRegisterSession\lCommand" alt="" coords="236,54,451,95"/>
+<area shape="rect" id="node3" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="973,31,1168,57"/>
 <area shape="rect" id="node4" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="1216,5,1307,32"/>
 <area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1236,56,1287,83"/>
 <area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1355,56,1440,83"/>
 <area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1488,56,1609,83"/>
-<area shape="rect" id="node9" href="$d2/dc9/group__CIP__API.html#ga4b8ec8e9b8a1dd71e84f2ea54e1c2b2d" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="499,56,707,83"/>
-<area shape="rect" id="node10" href="$d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022" title="Initialize the encapsulation layer. " alt="" coords="779,56,901,83"/>
-<area shape="rect" id="node11" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="1023,56,1118,83"/>
+<area shape="rect" id="node9" href="$d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="499,57,707,84"/>
 </map>

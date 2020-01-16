@@ -75,7 +75,7 @@ var sectionId = 'dynsection-10';
 </g>
 <!-- Node3 -->
 <g id="node3" class="node"><title>Node3</title>
-<g id="a_node3"><a xlink:href="../../d2/dc9/group__CIP__API.html#ga4b8ec8e9b8a1dd71e84f2ea54e1c2b2d" target="_top" xlink:title="Notify the encapsulation layer that an explicit message has been received via TCP. ">
+<g id="a_node3"><a xlink:href="../../d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a" target="_top" xlink:title="Notify the encapsulation layer that an explicit message has been received via TCP. ">
 <polygon fill="none" stroke="black" points="351,-19.5 351,-38.5 507,-38.5 507,-19.5 351,-19.5"/>
 <text text-anchor="middle" x="429" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">HandleReceivedExplictTcpData</text>
 </a>
@@ -88,112 +88,81 @@ var sectionId = 'dynsection-10';
 </g>
 <!-- Node4 -->
 <g id="node4" class="node"><title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d4/d91/group__ENCAP.html#ga7a0dc2be6c485d9e6940d5b20a981022" target="_top" xlink:title="Initialize the encapsulation layer. ">
-<polygon fill="none" stroke="black" points="561,-38.5 561,-57.5 653,-57.5 653,-38.5 561,-38.5"/>
-<text text-anchor="middle" x="607" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">EncapsulationInit</text>
+<g id="a_node4"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" target="_top" xlink:title="Handles data on an established TCP connection, processed connection is given by socket. ">
+<polygon fill="none" stroke="black" points="543,-19.5 543,-38.5 671,-38.5 671,-19.5 543,-19.5"/>
+<text text-anchor="middle" x="607" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">HandleDataOnTcpSocket</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge"><title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M517.528,-38.4491C532.487,-40.064 547.465,-41.6808 560.731,-43.113"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="517.514,-34.9273 507.196,-37.3337 516.763,-41.8869 517.514,-34.9273"/>
-</g>
-<!-- Node9 -->
-<g id="node9" class="node"><title>Node9</title>
-<g id="a_node9"><a xlink:href="../../db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" target="_top" xlink:title="Handles data on an established TCP connection, processed connection is given by socket. ">
-<polygon fill="none" stroke="black" points="543,-0.5 543,-19.5 671,-19.5 671,-0.5 543,-0.5"/>
-<text text-anchor="middle" x="607" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">HandleDataOnTcpSocket</text>
-</a>
-</g>
-</g>
-<!-- Node3&#45;&gt;Node9 -->
-<g id="edge8" class="edge"><title>Node3&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M517.293,-19.5763C525.914,-18.6456 534.545,-17.7139 542.853,-16.817"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="516.763,-16.1131 507.196,-20.6663 517.514,-23.0727 516.763,-16.1131"/>
+<path fill="none" stroke="midnightblue" d="M517.293,-29C525.914,-29 534.545,-29 542.853,-29"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="517.196,-25.5001 507.196,-29 517.196,-32.5001 517.196,-25.5001"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node"><title>Node5</title>
-<g id="a_node5"><a xlink:href="../../d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" target="_top" xlink:title="Initialize and setup the CIP&#45;stack. ">
-<polygon fill="none" stroke="black" points="744.5,-38.5 744.5,-57.5 815.5,-57.5 815.5,-38.5 744.5,-38.5"/>
-<text text-anchor="middle" x="780" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">CipStackInit</text>
+<g id="a_node5"><a xlink:href="../../da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" target="_top" xlink:title="NetworkHandlerProcessOnce">
+<polygon fill="none" stroke="black" points="707,-19.5 707,-38.5 853,-38.5 853,-19.5 707,-19.5"/>
+<text text-anchor="middle" x="780" y="-26.5" font-family="Helvetica,sans-Serif" font-size="10.00">NetworkHandlerProcessOnce</text>
 </a>
 </g>
 </g>
 <!-- Node4&#45;&gt;Node5 -->
 <g id="edge4" class="edge"><title>Node4&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M663.682,-48C690.216,-48 721.13,-48 744.267,-48"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="663.376,-44.5001 653.376,-48 663.376,-51.5001 663.376,-44.5001"/>
+<path fill="none" stroke="midnightblue" d="M681.379,-29C689.817,-29 698.417,-29 706.839,-29"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="681.188,-25.5001 671.188,-29 681.188,-32.5001 681.188,-25.5001"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node"><title>Node6</title>
-<g id="a_node6"><a xlink:href="../../d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" target="_top" xlink:title="main">
-<polygon fill="none" stroke="black" points="904,-38.5 904,-57.5 942,-57.5 942,-38.5 904,-38.5"/>
-<text text-anchor="middle" x="923" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">main</text>
+<g id="a_node6"><a xlink:href="../../d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" target="_top" xlink:title="Signal handler function for ending stack execution. ">
+<polygon fill="none" stroke="black" points="889,-38.5 889,-57.5 957,-57.5 957,-38.5 889,-38.5"/>
+<text text-anchor="middle" x="923" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">LeaveStack</text>
 </a>
 </g>
 </g>
 <!-- Node5&#45;&gt;Node6 -->
 <g id="edge5" class="edge"><title>Node5&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M826.034,-48C852.431,-48 884.332,-48 903.889,-48"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="825.854,-44.5001 815.854,-48 825.854,-51.5001 825.854,-44.5001"/>
+<path fill="none" stroke="midnightblue" d="M861.851,-39.8949C871.328,-41.1719 880.55,-42.4145 888.811,-43.5277"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="862.291,-36.4225 851.913,-38.5557 861.356,-43.3598 862.291,-36.4225"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node"><title>Node7</title>
-<g id="a_node7"><a xlink:href="../../d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" target="_top" xlink:title="add_library">
-<polygon fill="none" stroke="black" points="993,-38.5 993,-57.5 1057,-57.5 1057,-38.5 993,-38.5"/>
-<text text-anchor="middle" x="1025" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">add_library</text>
+<g id="a_node7"><a xlink:href="../../d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" target="_top" xlink:title="main">
+<polygon fill="none" stroke="black" points="904,-0.5 904,-19.5 942,-19.5 942,-0.5 904,-0.5"/>
+<text text-anchor="middle" x="923" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">main</text>
 </a>
 </g>
 </g>
-<!-- Node6&#45;&gt;Node7 -->
-<g id="edge6" class="edge"><title>Node6&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M952.697,-48C965.244,-48 979.992,-48 992.809,-48"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="952.342,-44.5001 942.342,-48 952.342,-51.5001 952.342,-44.5001"/>
+<!-- Node5&#45;&gt;Node7 -->
+<g id="edge6" class="edge"><title>Node5&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M861.851,-18.1051C877.712,-15.9678 892.859,-13.9269 903.984,-12.4276"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="861.356,-14.6402 851.913,-19.4443 862.291,-21.5775 861.356,-14.6402"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node"><title>Node8</title>
-<g id="a_node8"><a xlink:href="../../d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" target="_top" xlink:title="add_subdirectory">
-<polygon fill="none" stroke="black" points="1093,-38.5 1093,-57.5 1184,-57.5 1184,-38.5 1093,-38.5"/>
-<text text-anchor="middle" x="1138.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">add_subdirectory</text>
+<g id="a_node8"><a xlink:href="../../d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" target="_top" xlink:title="add_library">
+<polygon fill="none" stroke="black" points="993,-0.5 993,-19.5 1057,-19.5 1057,-0.5 993,-0.5"/>
+<text text-anchor="middle" x="1025" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">add_library</text>
 </a>
 </g>
 </g>
 <!-- Node7&#45;&gt;Node8 -->
 <g id="edge7" class="edge"><title>Node7&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M1067.3,-48C1075.63,-48 1084.42,-48 1092.86,-48"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="1067.06,-44.5001 1057.06,-48 1067.06,-51.5001 1067.06,-44.5001"/>
+<path fill="none" stroke="midnightblue" d="M952.697,-10C965.244,-10 979.992,-10 992.809,-10"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="952.342,-6.5001 942.342,-10 952.342,-13.5001 952.342,-6.5001"/>
 </g>
-<!-- Node10 -->
-<g id="node10" class="node"><title>Node10</title>
-<g id="a_node10"><a xlink:href="../../da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" target="_top" xlink:title="NetworkHandlerProcessOnce">
-<polygon fill="none" stroke="black" points="707,-0.5 707,-19.5 853,-19.5 853,-0.5 707,-0.5"/>
-<text text-anchor="middle" x="780" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">NetworkHandlerProcessOnce</text>
+<!-- Node9 -->
+<g id="node9" class="node"><title>Node9</title>
+<g id="a_node9"><a xlink:href="../../d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" target="_top" xlink:title="add_subdirectory">
+<polygon fill="none" stroke="black" points="1093,-0.5 1093,-19.5 1184,-19.5 1184,-0.5 1093,-0.5"/>
+<text text-anchor="middle" x="1138.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">add_subdirectory</text>
 </a>
 </g>
 </g>
-<!-- Node9&#45;&gt;Node10 -->
-<g id="edge9" class="edge"><title>Node9&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M681.379,-10C689.817,-10 698.417,-10 706.839,-10"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="681.188,-6.5001 671.188,-10 681.188,-13.5001 681.188,-6.5001"/>
-</g>
-<!-- Node10&#45;&gt;Node6 -->
-<g id="edge11" class="edge"><title>Node10&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M827.449,-22.1792C835.952,-24.4312 844.746,-26.7746 853,-29 870.275,-33.6577 889.948,-39.0872 903.855,-42.9465"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="828.211,-18.7606 817.648,-19.5901 826.423,-25.5284 828.211,-18.7606"/>
-</g>
-<!-- Node11 -->
-<g id="node11" class="node"><title>Node11</title>
-<g id="a_node11"><a xlink:href="../../d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" target="_top" xlink:title="Signal handler function for ending stack execution. ">
-<polygon fill="none" stroke="black" points="889,-0.5 889,-19.5 957,-19.5 957,-0.5 889,-0.5"/>
-<text text-anchor="middle" x="923" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">LeaveStack</text>
-</a>
-</g>
-</g>
-<!-- Node10&#45;&gt;Node11 -->
-<g id="edge10" class="edge"><title>Node10&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M863.332,-10C872.278,-10 880.962,-10 888.786,-10"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="863.152,-6.5001 853.152,-10 863.152,-13.5001 863.152,-6.5001"/>
+<!-- Node8&#45;&gt;Node9 -->
+<g id="edge8" class="edge"><title>Node8&#45;&gt;Node9</title>
+<path fill="none" stroke="midnightblue" d="M1067.3,-10C1075.63,-10 1084.42,-10 1092.86,-10"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="1067.06,-6.5001 1057.06,-10 1067.06,-13.5001 1067.06,-6.5001"/>
 </g>
 </g>
 </svg>
