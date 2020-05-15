@@ -11,7 +11,7 @@ var searchData=
   ['transport_5fclass_5ftrigger',['transport_class_trigger',['../d2/da8/structcip__connection__object.html#a98bb53e120fc9e000d9b13c639dcf117',1,'cip_connection_object']]],
   ['triggerconnections',['TriggerConnections',['../d2/dc9/group__CIP__API.html#ga286de29d4e88bd1fec0611e75c288faf',1,'TriggerConnections(unsigned int output_assembly, unsigned int input_assembly):&#160;cipconnectionmanager.c'],['../d2/dc9/group__CIP__API.html#ga286de29d4e88bd1fec0611e75c288faf',1,'TriggerConnections(unsigned int output_assembly_id, unsigned int input_assembly_id):&#160;cipconnectionmanager.c']]],
   ['type',['type',['../d4/d62/structCipAttributeStruct.html#a5882627a9fc1b118b1c34bf4da8a66cd',1,'CipAttributeStruct']]],
-  ['type_5fcode',['type_code',['../dc/dfa/structencapsulation__service__information.html#ab04c1cb891f71801f2b2ff1a5af393db',1,'encapsulation_service_information']]],
+  ['type_5fcode',['type_code',['../d0/d6e/structencapsulation__interface__information.html#af37bc735455105810324d3caf470bcf0',1,'encapsulation_interface_information']]],
   ['type_5fid',['type_id',['../d3/d56/structAddressItem.html#a9b3cf54385b7e3db0c41d4d394c2d465',1,'AddressItem::type_id()'],['../de/d71/structDataItem.html#acf4b53bdfe8766830d313e9c7e1cf5dc',1,'DataItem::type_id()'],['../dc/d3c/structSocketAddressInfoItem.html#ad71289b55ab0ff6a4382af44afaccca2',1,'SocketAddressInfoItem::type_id()']]],
   ['typedefs_2eh',['typedefs.h',['../d7/d69/typedefs_8h.html',1,'']]]
 ];

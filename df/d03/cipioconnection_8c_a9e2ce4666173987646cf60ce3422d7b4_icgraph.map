@@ -1,10 +1,8 @@
 <map id="OpenMulticastConnection" name="OpenMulticastConnection">
-<area shape="rect" id="node2" href="$de/d45/cipioconnection_8h.html#a53b85bce88b582414fc282c95f5626f4" title="Take the data given in the connection object structure and open the necessary communication channels..." alt="" coords="504,5,703,32"/>
-<area shape="rect" id="node9" href="$df/d03/cipioconnection_8c.html#a5dea6fc1be0ed4ecf5d9e4f932d52106" title="OpenProducingMulticastConnection" alt="" coords="225,31,456,57"/>
-<area shape="rect" id="node3" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="751,5,904,32"/>
-<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="952,5,1108,32"/>
-<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="1156,5,1251,32"/>
-<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1299,5,1349,32"/>
-<area shape="rect" id="node7" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1397,5,1483,32"/>
-<area shape="rect" id="node8" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1531,5,1652,32"/>
+<area shape="rect" id="node2" href="$de/d45/cipioconnection_8h.html#a53b85bce88b582414fc282c95f5626f4" title="Take the data given in the connection object structure and open the necessary communication channels..." alt="" coords="507,5,706,32"/>
+<area shape="rect" id="node7" href="$df/d03/cipioconnection_8c.html#a5dea6fc1be0ed4ecf5d9e4f932d52106" title="OpenProducingMulticastConnection" alt="" coords="227,31,458,57"/>
+<area shape="rect" id="node3" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="755,5,909,32"/>
+<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="958,5,1114,32"/>
+<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="1163,5,1258,32"/>
+<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1307,5,1357,32"/>
 </map>

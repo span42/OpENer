@@ -1,0 +1,5 @@
+<map id="AddNewActiveConnection" name="AddNewActiveConnection">
+<area shape="rect" id="node2" href="$df/d91/cipconnectionobject_8c.html#ace0a978d1b7fe59261b1024b5ba1cd15" title="ConnectionObjectSetState" alt="" coords="241,5,418,32"/>
+<area shape="rect" id="node3" href="$d9/ddc/doublylinkedlist_8c.html#abca57475d14f9dffff53bea22eaf7b2f" title="DoublyLinkedListInsertAtHead" alt="" coords="230,56,429,83"/>
+<area shape="rect" id="node4" href="$d9/ddc/doublylinkedlist_8c.html#a973d3b25eae020e7b5e5927c8785106c" title="DoublyLinkedListNodeCreate" alt="" coords="477,56,669,83"/>
+</map>

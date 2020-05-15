@@ -1,11 +1,10 @@
 <map id="DetermineDelayTime" name="DetermineDelayTime">
-<area shape="rect" id="node2" href="$d2/dbd/encap_8c.html#aa042b74f0d2659164f5c6811e6cb4fda" title="HandleReceivedListIdentity\lCommandUdp" alt="" coords="199,39,381,80"/>
-<area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#gaab62df9410a09727a82afa7672e3194a" title="Notify the encapsulation layer that an explicit message has been received via UDP. " alt="" coords="429,46,640,73"/>
-<area shape="rect" id="node4" href="$db/d4f/generic__networkhandler_8c.html#a5cae623dd720f3072dabdb78aa134262" title="Checks and handles incoming messages via UDP broadcast. " alt="" coords="688,5,932,47"/>
-<area shape="rect" id="node10" href="$db/d4f/generic__networkhandler_8c.html#ace1d8f3907ead0c43c1b5853132d5eb1" title="Checks and processes request received via the UDP unicast socket, currently the implementation is por..." alt="" coords="713,71,907,112"/>
-<area shape="rect" id="node5" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="980,46,1175,73"/>
-<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1243,21,1293,47"/>
-<area shape="rect" id="node9" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="1223,71,1313,98"/>
-<area shape="rect" id="node7" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1361,21,1447,47"/>
-<area shape="rect" id="node8" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1495,21,1616,47"/>
+<area shape="rect" id="node2" href="$d2/dbd/encap_8c.html#aa042b74f0d2659164f5c6811e6cb4fda" title="HandleReceivedListIdentity\lCommandUdp" alt="" coords="201,38,383,79"/>
+<area shape="rect" id="node3" href="$d2/dc9/group__CIP__API.html#gaab62df9410a09727a82afa7672e3194a" title="Notify the encapsulation layer that an explicit message has been received via UDP. " alt="" coords="432,45,643,72"/>
+<area shape="rect" id="node4" href="$db/d4f/generic__networkhandler_8c.html#a5cae623dd720f3072dabdb78aa134262" title="Checks and handles incoming messages via UDP broadcast. " alt="" coords="691,5,935,46"/>
+<area shape="rect" id="node9" href="$db/d4f/generic__networkhandler_8c.html#ace1d8f3907ead0c43c1b5853132d5eb1" title="Checks and processes request received via the UDP unicast socket, currently the implementation is por..." alt="" coords="717,70,910,111"/>
+<area shape="rect" id="node5" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="984,45,1179,72"/>
+<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1267,20,1317,47"/>
+<area shape="rect" id="node7" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="1227,71,1357,97"/>
+<area shape="rect" id="node8" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1405,71,1456,97"/>
 </map>

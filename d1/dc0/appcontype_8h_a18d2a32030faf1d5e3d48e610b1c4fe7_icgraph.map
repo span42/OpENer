@@ -1,8 +1,6 @@
 <map id="CloseAllConnections" name="CloseAllConnections">
-<area shape="rect" id="node2" href="$d5/dc5/group__CIP__CALLBACK__API.html#gacfb8706d76bc6fe1816546e122fdcac2" title="Emulate as close a possible a power cycle of the device. " alt="" coords="215,5,314,32"/>
-<area shape="rect" id="node4" href="$d2/dc9/group__CIP__API.html#gaa57b527530adc2acda6febc500fd6831" title="Shutdown of the CIP stack. " alt="" coords="197,56,332,83"/>
-<area shape="rect" id="node3" href="$d5/dc5/group__CIP__CALLBACK__API.html#gabec9a29cf19789a6534814680c21f6e7" title="Reset the device to the initial configuration and emulate as close as possible a power cycle of the d..." alt="" coords="380,5,601,32"/>
-<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="465,56,516,83"/>
-<area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="649,56,735,83"/>
-<area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="783,56,904,83"/>
+<area shape="rect" id="node2" href="$d5/dc5/group__CIP__CALLBACK__API.html#gacfb8706d76bc6fe1816546e122fdcac2" title="Emulate as close a possible a power cycle of the device. " alt="" coords="216,5,315,32"/>
+<area shape="rect" id="node4" href="$d2/dc9/group__CIP__API.html#gaa57b527530adc2acda6febc500fd6831" title="Shutdown of the CIP stack. " alt="" coords="198,56,333,83"/>
+<area shape="rect" id="node3" href="$d5/dc5/group__CIP__CALLBACK__API.html#gabec9a29cf19789a6534814680c21f6e7" title="Reset the device to the initial configuration and emulate as close as possible a power cycle of the d..." alt="" coords="381,5,603,32"/>
+<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="467,56,517,83"/>
 </map>

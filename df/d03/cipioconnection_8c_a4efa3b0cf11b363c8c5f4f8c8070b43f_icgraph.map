@@ -1,8 +1,6 @@
 <map id="SetupIoConnectionTargetToOriginatorConnectionPoint" name="SetupIoConnectionTargetToOriginatorConnectionPoint">
-<area shape="rect" id="node2" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="239,13,392,39"/>
-<area shape="rect" id="node3" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="440,13,596,39"/>
-<area shape="rect" id="node4" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="644,13,739,39"/>
-<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="787,13,837,39"/>
-<area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="885,13,971,39"/>
-<area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1019,13,1140,39"/>
+<area shape="rect" id="node2" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="241,12,394,39"/>
+<area shape="rect" id="node3" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="443,12,599,39"/>
+<area shape="rect" id="node4" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="649,12,743,39"/>
+<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="792,12,843,39"/>
 </map>

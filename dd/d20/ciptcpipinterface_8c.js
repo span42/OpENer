@@ -2,7 +2,8 @@ var ciptcpipinterface_8c =
 [
     [ "CipTcpIpInterfaceInit", "dd/d20/ciptcpipinterface_8c.html#a30729bd683f7ee214bbb684de52456cd", null ],
     [ "GetAttributeAllTcpIpInterface", "dd/d20/ciptcpipinterface_8c.html#ac5a74c6d9822446c5b7beeb949c93b11", null ],
-    [ "GetAttributeSingleTcpIpInterface", "dd/d20/ciptcpipinterface_8c.html#abe1c177c3c79ea065834ce8b9679d78d", null ],
+    [ "GetAttributeSingleTcpIpInterface", "dd/d20/ciptcpipinterface_8c.html#aabfc930fac3aa322a2ad8f6047d14424", null ],
+    [ "GetAttributeSingleTcpIpInterface", "dd/d20/ciptcpipinterface_8c.html#a161bd417fa1fcdc893b4a3b68a17c4c9", null ],
     [ "GetEncapsulationInactivityTimeout", "dd/d20/ciptcpipinterface_8c.html#ab17a8c773efeaebc86149f9a4dade5e2", null ],
     [ "SetAttributeSingleTcp", "dd/d20/ciptcpipinterface_8c.html#a0eb1970cfc9a9d427a4e7d6d3579fdc8", null ],
     [ "ShutdownTcpIpInterface", "dd/d20/ciptcpipinterface_8c.html#a523c7909b1d929c0b9b288802189d391", null ],

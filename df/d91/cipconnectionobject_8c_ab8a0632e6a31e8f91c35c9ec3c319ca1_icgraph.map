@@ -1,9 +1,7 @@
 <map id="ConnectionObjectSetOriginatorVendorId" name="ConnectionObjectSetOriginatorVendorId">
-<area shape="rect" id="node2" href="$d1/d6c/cipconnectionobject_8h.html#ad1ae63909621ed91670ae33862edd214" title="ConnectionObjectInitialize\lFromMessage" alt="" coords="256,5,431,47"/>
-<area shape="rect" id="node3" href="$d5/d35/cipconnectionmanager_8c.html#a29e07d628d1216f979fbed720a40503d" title="Check if resources for new connection available, generate ForwardOpen Reply message. " alt="" coords="479,13,579,39"/>
-<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="627,13,783,39"/>
-<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="831,13,925,39"/>
-<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="973,13,1024,39"/>
-<area shape="rect" id="node7" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1072,13,1157,39"/>
-<area shape="rect" id="node8" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1205,13,1327,39"/>
+<area shape="rect" id="node2" href="$d1/d6c/cipconnectionobject_8h.html#ad1ae63909621ed91670ae33862edd214" title="ConnectionObjectInitialize\lFromMessage" alt="" coords="257,5,431,46"/>
+<area shape="rect" id="node3" href="$d5/d35/cipconnectionmanager_8c.html#a29e07d628d1216f979fbed720a40503d" title="Check if resources for new connection available, generate ForwardOpen Reply message. " alt="" coords="481,12,581,39"/>
+<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="630,12,786,39"/>
+<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="835,12,930,39"/>
+<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="979,12,1029,39"/>
 </map>

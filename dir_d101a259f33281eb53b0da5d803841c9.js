@@ -5,6 +5,6 @@ var dir_d101a259f33281eb53b0da5d803841c9 =
     [ "networkconfig.c", "dc/d2b/MINGW_2networkconfig_8c.html", "dc/d2b/MINGW_2networkconfig_8c" ],
     [ "networkconfig.h", "d2/d78/MINGW_2networkconfig_8h.html", null ],
     [ "networkhandler.c", "d3/de3/MINGW_2networkhandler_8c.html", "d3/de3/MINGW_2networkhandler_8c" ],
-    [ "opener_error.c", "d8/d60/MINGW_2opener__error_8c.html", "d8/d60/MINGW_2opener__error_8c" ],
-    [ "platform_network_includes.h", "d8/d0f/MINGW_2platform__network__includes_8h.html", null ]
+    [ "networkhandler.h", "d7/d74/MINGW_2networkhandler_8h.html", "d7/d74/MINGW_2networkhandler_8h" ],
+    [ "opener_error.c", "d8/d60/MINGW_2opener__error_8c.html", "d8/d60/MINGW_2opener__error_8c" ]
 ];

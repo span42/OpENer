@@ -1,8 +1,6 @@
 <map id="InitializeClass3ConnectionData" name="InitializeClass3ConnectionData">
-<area shape="rect" id="node2" href="$d5/d35/cipconnectionmanager_8c.html#afd7a513de61e9d83b59c3505733448b5" title="InitializeConnectionManagerData" alt="" coords="259,5,473,32"/>
-<area shape="rect" id="node3" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="521,5,677,32"/>
-<area shape="rect" id="node4" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="725,5,820,32"/>
-<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="868,5,919,32"/>
-<area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="967,5,1052,32"/>
-<area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1100,5,1221,32"/>
+<area shape="rect" id="node2" href="$d5/d35/cipconnectionmanager_8c.html#afd7a513de61e9d83b59c3505733448b5" title="InitializeConnectionManagerData" alt="" coords="259,5,474,32"/>
+<area shape="rect" id="node3" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="523,5,679,32"/>
+<area shape="rect" id="node4" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="729,5,823,32"/>
+<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="872,5,923,32"/>
 </map>

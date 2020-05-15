@@ -1,11 +1,9 @@
 <map id="DoublyLinkedListInsertAtHead" name="DoublyLinkedListInsertAtHead">
-<area shape="rect" id="node2" href="$d2/da3/cipconnectionmanager_8h.html#a167e93dbddfb66e7789253fe78f06998" title="Insert the given connection object to the list of currently active and managed connections. " alt="" coords="277,31,451,57"/>
-<area shape="rect" id="node10" href="$d9/d31/doublylinkedlist_8h.html#aae79c6935734100cad167ec6317fbe07" title="DoublyLinkedListInsertBeforeNode" alt="" coords="252,81,476,108"/>
-<area shape="rect" id="node3" href="$d2/d11/cipclass3connection_8h.html#a45bd741b44137164c07a6ce09a7a9a9d" title="Check if Class3 connection is available and if yes setup all data. " alt="" coords="524,5,707,32"/>
-<area shape="rect" id="node9" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="539,56,692,83"/>
-<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="755,31,911,57"/>
-<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="959,31,1053,57"/>
-<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1101,31,1152,57"/>
-<area shape="rect" id="node7" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1200,31,1285,57"/>
-<area shape="rect" id="node8" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1333,31,1455,57"/>
+<area shape="rect" id="node2" href="$d2/da3/cipconnectionmanager_8h.html#aac2c0397cf54cb8356126c0d71d744ff" title="Insert the given connection object to the list of currently active and managed connections. " alt="" coords="278,31,453,57"/>
+<area shape="rect" id="node8" href="$d9/d31/doublylinkedlist_8h.html#aae79c6935734100cad167ec6317fbe07" title="DoublyLinkedListInsertBeforeNode" alt="" coords="253,81,477,108"/>
+<area shape="rect" id="node3" href="$d2/d11/cipclass3connection_8h.html#a45bd741b44137164c07a6ce09a7a9a9d" title="Check if Class3 connection is available and if yes setup all data. " alt="" coords="526,5,709,32"/>
+<area shape="rect" id="node7" href="$de/d45/cipioconnection_8h.html#a43e270b3f9b9f6296b12285c320c95aa" title="Setup all data in order to establish an IO connection. " alt="" coords="541,56,694,83"/>
+<area shape="rect" id="node4" href="$d2/da3/cipconnectionmanager_8h.html#a5ab0de6894d23e8fe84a6b46797c2212" title="Initialize the data of the connection manager object. " alt="" coords="758,31,914,57"/>
+<area shape="rect" id="node5" href="$d2/dc9/group__CIP__API.html#ga5d4979945d124e28668b264c3823db1c" title="Initialize and setup the CIP&#45;stack. " alt="" coords="963,31,1058,57"/>
+<area shape="rect" id="node6" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1107,31,1157,57"/>
 </map>

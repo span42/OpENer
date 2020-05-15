@@ -1,12 +1,11 @@
 <map id="CreateEncapsulationStructure" name="CreateEncapsulationStructure">
-<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="251,9,459,36"/>
-<area shape="rect" id="node9" href="$d2/dc9/group__CIP__API.html#gaab62df9410a09727a82afa7672e3194a" title="Notify the encapsulation layer that an explicit message has been received via UDP. " alt="" coords="249,64,460,91"/>
-<area shape="rect" id="node3" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="545,5,715,32"/>
-<area shape="rect" id="node4" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="800,64,995,91"/>
-<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1063,39,1113,65"/>
-<area shape="rect" id="node8" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="1043,89,1133,116"/>
-<area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1181,39,1267,65"/>
-<area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1315,39,1436,65"/>
-<area shape="rect" id="node10" href="$db/d4f/generic__networkhandler_8c.html#a5cae623dd720f3072dabdb78aa134262" title="Checks and handles incoming messages via UDP broadcast. " alt="" coords="508,57,752,98"/>
-<area shape="rect" id="node11" href="$db/d4f/generic__networkhandler_8c.html#ace1d8f3907ead0c43c1b5853132d5eb1" title="Checks and processes request received via the UDP unicast socket, currently the implementation is por..." alt="" coords="533,122,727,163"/>
+<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga16eaeeb12ba23b5a75c8e5902a33d70a" title="Notify the encapsulation layer that an explicit message has been received via TCP. " alt="" coords="252,9,460,36"/>
+<area shape="rect" id="node8" href="$d2/dc9/group__CIP__API.html#gaab62df9410a09727a82afa7672e3194a" title="Notify the encapsulation layer that an explicit message has been received via UDP. " alt="" coords="251,64,461,91"/>
+<area shape="rect" id="node3" href="$db/d4f/generic__networkhandler_8c.html#aca5593b7dd39d7a7b437999a367102d6" title="Handles data on an established TCP connection, processed connection is given by socket. " alt="" coords="547,5,717,32"/>
+<area shape="rect" id="node4" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="803,64,997,91"/>
+<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1085,39,1136,65"/>
+<area shape="rect" id="node6" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="1045,89,1176,116"/>
+<area shape="rect" id="node7" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1224,89,1275,116"/>
+<area shape="rect" id="node9" href="$db/d4f/generic__networkhandler_8c.html#a5cae623dd720f3072dabdb78aa134262" title="Checks and handles incoming messages via UDP broadcast. " alt="" coords="510,57,754,98"/>
+<area shape="rect" id="node10" href="$db/d4f/generic__networkhandler_8c.html#ace1d8f3907ead0c43c1b5853132d5eb1" title="Checks and processes request received via the UDP unicast socket, currently the implementation is por..." alt="" coords="535,122,729,163"/>
 </map>

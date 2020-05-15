@@ -1,4 +1,0 @@
-<map id="GetMilliSeconds" name="GetMilliSeconds">
-<area shape="rect" id="node2" href="$d3/de3/MINGW_2networkhandler_8c.html#ad5acc7d8758de6509642a2bc4ce7bc0f" title="getMicroSeconds" alt="" coords="173,5,295,32"/>
-<area shape="rect" id="node3" href="$d2/d5e/POSIX_2networkhandler_8c.html#af4f11a1fa3e652845dc5164d097e9e13" title="Returns current time in microseconds from monotonic time base, please note that this does not represe..." alt="" coords="171,56,297,83"/>
-</map>

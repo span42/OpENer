@@ -1,12 +1,11 @@
 <map id="src/cip/cipconnectionmanager.h" name="src/cip/cipconnectionmanager.h">
-<area shape="rect" id="node3" href="$d4/d38/opener__api_8h.html" title="opener_api.h" alt="" coords="177,155,273,181"/>
-<area shape="rect" id="node6" href="$d7/d69/typedefs_8h.html" title="typedefs.h" alt="" coords="120,379,203,405"/>
-<area shape="rect" id="node10" href="$df/d28/ciptypes_8h.html" title="ciptypes.h" alt="" coords="381,229,464,256"/>
-<area shape="rect" id="node14" href="$d1/d6c/cipconnectionobject_8h.html" title="cipconnectionobject.h" alt="" coords="459,80,607,107"/>
-<area shape="rect" id="node13" href="$d6/d52/ciperror_8h.html" title="ciperror.h" alt="" coords="187,229,263,256"/>
-<area shape="rect" id="node11" href="$d0/d47/networkhandler_8h.html" title="networkhandler.h" alt="" coords="265,304,386,331"/>
-<area shape="rect" id="node12" href="$d8/d2c/enipmessage_8h.html" title="enipmessage.h" alt="" coords="410,304,521,331"/>
-<area shape="rect" id="node15" href="$d9/d31/doublylinkedlist_8h.html" title="doublylinkedlist.h" alt="" coords="348,155,471,181"/>
-<area shape="rect" id="node16" href="$d0/d23/cipelectronickey_8h.html" title="cipelectronickey.h" alt="" coords="698,304,825,331"/>
-<area shape="rect" id="node17" href="$d1/d02/cipepath_8h.html" title="cipepath.h" alt="" coords="704,155,787,181"/>
+<area shape="rect" id="node3" href="$d4/d38/opener__api_8h.html" title="opener_api.h" alt="" coords="219,155,315,181"/>
+<area shape="rect" id="node6" href="$d7/d69/typedefs_8h.html" title="typedefs.h" alt="" coords="771,304,852,331"/>
+<area shape="rect" id="node9" href="$df/d28/ciptypes_8h.html" title="ciptypes.h" alt="" coords="408,229,489,256"/>
+<area shape="rect" id="node13" href="$d1/d6c/cipconnectionobject_8h.html" title="cipconnectionobject.h" alt="" coords="453,80,600,107"/>
+<area shape="rect" id="node12" href="$d6/d52/ciperror_8h.html" title="ciperror.h" alt="" coords="43,229,119,256"/>
+<area shape="rect" id="node11" href="$d8/d2c/enipmessage_8h.html" title="enipmessage.h" alt="" coords="389,304,499,331"/>
+<area shape="rect" id="node14" href="$d9/d31/doublylinkedlist_8h.html" title="doublylinkedlist.h" alt="" coords="651,155,773,181"/>
+<area shape="rect" id="node15" href="$d0/d23/cipelectronickey_8h.html" title="cipelectronickey.h" alt="" coords="647,229,773,256"/>
+<area shape="rect" id="node16" href="$d1/d02/cipepath_8h.html" title="cipepath.h" alt="" coords="493,155,575,181"/>
 </map>

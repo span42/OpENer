@@ -1,8 +1,5 @@
 <map id="GetPathLogicalSegmentElectronicKeyFormat" name="GetPathLogicalSegmentElectronicKeyFormat">
-<area shape="rect" id="node2" href="$d1/d02/cipepath_8h.html#a8194b2888502980a0c2b3c15aee9722a" title="Gets the data for an Electronic Key of format 4 from the EPath message. " alt="" coords="275,5,477,47"/>
-<area shape="rect" id="node3" href="$d5/d35/cipconnectionmanager_8c.html#ad7b34359aea58ef8d4e77008ea53098f" title="Parse the connection path of a forward open request. " alt="" coords="525,42,675,69"/>
-<area shape="rect" id="node4" href="$d5/d35/cipconnectionmanager_8c.html#af379a4b383c738a07d8e1ab0a4ac7510" title="Handles a Non Null Non Matching Forward Open Request. " alt="" coords="723,35,909,76"/>
-<area shape="rect" id="node5" href="$d5/d35/cipconnectionmanager_8c.html#a7eaeec6cc54d1799cfaba4031f0168d1" title="Handles a Non Null Matching Forward Open Request. " alt="" coords="957,5,1168,47"/>
-<area shape="rect" id="node6" href="$d5/d35/cipconnectionmanager_8c.html#a8da18334cfde58434b845b0968620811" title="Handles a Null Matching Forward Open request. " alt="" coords="1216,56,1403,97"/>
-<area shape="rect" id="node7" href="$d5/d35/cipconnectionmanager_8c.html#ad68060facbfe52b38428a40da630651b" title="Handles a Null Non Matching Forward Open Request. " alt="" coords="1451,85,1661,127"/>
+<area shape="rect" id="node2" href="$d1/d02/cipepath_8h.html#a8194b2888502980a0c2b3c15aee9722a" title="Gets the data for an Electronic Key of format 4 from the EPath message. " alt="" coords="275,5,477,46"/>
+<area shape="rect" id="node3" href="$d5/d35/cipconnectionmanager_8c.html#ad7b34359aea58ef8d4e77008ea53098f" title="Parse the connection path of a forward open request. " alt="" coords="525,41,675,68"/>
+<area shape="rect" id="node4" href="$d5/d35/cipconnectionmanager_8c.html#af379a4b383c738a07d8e1ab0a4ac7510" title="Handles a Non Null Non Matching Forward Open Request. " alt="" coords="723,34,909,75"/>
 </map>

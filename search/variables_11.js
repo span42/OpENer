@@ -9,6 +9,6 @@ var searchData=
   ['transmission_5ftrigger_5ftimer',['transmission_trigger_timer',['../d2/da8/structcip__connection__object.html#ac4b956f5790d2a6e6a825be1c85e378d',1,'cip_connection_object']]],
   ['transport_5fclass_5ftrigger',['transport_class_trigger',['../d2/da8/structcip__connection__object.html#a98bb53e120fc9e000d9b13c639dcf117',1,'cip_connection_object']]],
   ['type',['type',['../d4/d62/structCipAttributeStruct.html#a5882627a9fc1b118b1c34bf4da8a66cd',1,'CipAttributeStruct']]],
-  ['type_5fcode',['type_code',['../dc/dfa/structencapsulation__service__information.html#ab04c1cb891f71801f2b2ff1a5af393db',1,'encapsulation_service_information']]],
+  ['type_5fcode',['type_code',['../d0/d6e/structencapsulation__interface__information.html#af37bc735455105810324d3caf470bcf0',1,'encapsulation_interface_information']]],
   ['type_5fid',['type_id',['../d3/d56/structAddressItem.html#a9b3cf54385b7e3db0c41d4d394c2d465',1,'AddressItem::type_id()'],['../de/d71/structDataItem.html#acf4b53bdfe8766830d313e9c7e1cf5dc',1,'DataItem::type_id()'],['../dc/d3c/structSocketAddressInfoItem.html#ad71289b55ab0ff6a4382af44afaccca2',1,'SocketAddressInfoItem::type_id()']]]
 ];

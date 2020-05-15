@@ -19,6 +19,7 @@ var searchData=
   ['g_5ffirst_5fobject',['g_first_object',['../d9/d7d/cipmessagerouter_8c.html#a1135eaf46749c1da94f03444f74690ac',1,'cipmessagerouter.c']]],
   ['g_5fincarnation_5fid',['g_incarnation_id',['../d5/d35/cipconnectionmanager_8c.html#a4fa91981e220d2f8a83ad152cc8b750a',1,'cipconnectionmanager.c']]],
   ['g_5finput_5fonly_5fconnections',['g_input_only_connections',['../d1/dbc/appcontype_8c.html#a0f799622e0928bbaf7f95d2a9dc57d42',1,'appcontype.c']]],
+  ['g_5finterface_5finformation',['g_interface_information',['../d2/dbd/encap_8c.html#a0492d8757572c867a56e23cbbf11f1cf',1,'encap.c']]],
   ['g_5fkforwardopenheaderlength',['g_kForwardOpenHeaderLength',['../d5/d35/cipconnectionmanager_8c.html#a2d8484e0ab7d4cf212a96182cf3b9256',1,'cipconnectionmanager.c']]],
   ['g_5flast_5ftime',['g_last_time',['../da/dc2/generic__networkhandler_8h.html#a96b6ee6e08689b2ca75621329c0ccfc0',1,'generic_networkhandler.h']]],
   ['g_5flisten_5fonly_5fconnections',['g_listen_only_connections',['../d1/dbc/appcontype_8c.html#aad35fef999972a5a776bb095bc1daaa2',1,'appcontype.c']]],
@@ -30,13 +31,13 @@ var searchData=
   ['g_5fopener_5fplatform_5fendianess',['g_opener_platform_endianess',['../da/d73/endianconv_8c.html#a474ff19cc3d26eef2448d77f787e0df7',1,'endianconv.c']]],
   ['g_5fregistered_5fsessions',['g_registered_sessions',['../d2/dbd/encap_8c.html#a7b6dba11e298fc4aacafc47ed2d565df',1,'encap.c']]],
   ['g_5frun_5fidle_5fstate',['g_run_idle_state',['../df/d03/cipioconnection_8c.html#a4901ec04ad1ac886626e556c60f12196',1,'cipioconnection.c']]],
-  ['g_5fservice_5finformation',['g_service_information',['../d2/dbd/encap_8c.html#a1e41801f6e0d413995711bf265f96073',1,'encap.c']]],
   ['g_5ftime_5fto_5flive_5fvalue',['g_time_to_live_value',['../dd/d20/ciptcpipinterface_8c.html#a80c0f3f25208a8befe2a112a78b15435',1,'g_time_to_live_value():&#160;ciptcpipinterface.c'],['../d1/dad/ciptcpipinterface_8h.html#a893d4111b2549a2ecb907c037a776927',1,'g_time_to_live_value():&#160;ciptcpipinterface.c']]],
   ['g_5ftime_5fvalue',['g_time_value',['../da/dc2/generic__networkhandler_8h.html#a9d5af295c10123a5eeddada9f9c397cb',1,'generic_networkhandler.h']]],
   ['g_5ftimestamps',['g_timestamps',['../da/dc2/generic__networkhandler_8h.html#ae034c02af6a2380fb828523f9978b9e1',1,'generic_networkhandler.h']]],
   ['gateway',['gateway',['../d0/d4c/structCipTcpIpNetworkInterfaceConfiguration.html#a57d4e982c2b983e2b776316105a4b3a9',1,'CipTcpIpNetworkInterfaceConfiguration']]],
   ['general_5fstatus',['general_status',['../d0/d1f/structCipMessageRouterResponse.html#ac41c087aef657407542cb640cdb44414',1,'CipMessageRouterResponse']]],
   ['get_5fall_5fbit_5fmask',['get_all_bit_mask',['../da/d8e/structcip__class.html#a8a4204ed825dc9b04c6db70a3eb2704e',1,'cip_class']]],
+  ['get_5fattribute_5fall_5fmask',['get_attribute_all_mask',['../da/d8e/structcip__class.html#a44da02745b5372357a164e0694c4d3fc',1,'cip_class']]],
   ['get_5fnext_5fuint32',['get_next_uint32',['../d9/d46/structRandom.html#af78a2d30ec06d4a719834ff02e9bc212',1,'Random']]],
   ['get_5fsingle_5fbit_5fmask',['get_single_bit_mask',['../da/d8e/structcip__class.html#a8779732c2f43b4361e134e0d835dc6e0',1,'cip_class']]]
 ];

@@ -1,9 +1,8 @@
 <map id="ConnectionObjectResetLastPackageInactivityTimerValue" name="ConnectionObjectResetLastPackageInactivityTimerValue">
-<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga9abc7c86317baaa7ede1a4bce09fa542" title="Notify the connection manager that data for a connection has been received. " alt="" coords="245,31,455,57"/>
-<area shape="rect" id="node3" href="$db/d4f/generic__networkhandler_8c.html#af0c95ade149818d252c292b489cfe190" title="check if on one of the UDP consuming sockets data has been received and if yes handle it correctly ..." alt="" coords="503,23,717,65"/>
-<area shape="rect" id="node4" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="765,31,960,57"/>
-<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1028,5,1079,32"/>
-<area shape="rect" id="node8" href="$d9/dfb/POSIX_2main_8c.html#acd4e45a35a64f9cb29b59f63492b61d2" title="Signal handler function for ending stack execution. " alt="" coords="1008,56,1099,83"/>
-<area shape="rect" id="node6" href="$d8/d03/ports_2MINGW_2CMakeLists_8txt.html#a7e00df43a20d627a1732be7766d91097" title="add_library" alt="" coords="1147,5,1232,32"/>
-<area shape="rect" id="node7" href="$d8/dce/ports_2CMakeLists_8txt.html#a598fae457555a5fb26e18d4cd8f89de9" title="add_subdirectory" alt="" coords="1280,5,1401,32"/>
+<area shape="rect" id="node2" href="$d2/dc9/group__CIP__API.html#ga9abc7c86317baaa7ede1a4bce09fa542" title="Notify the connection manager that data for a connection has been received. " alt="" coords="246,31,455,57"/>
+<area shape="rect" id="node3" href="$db/d4f/generic__networkhandler_8c.html#af0c95ade149818d252c292b489cfe190" title="check if on one of the UDP consuming sockets data has been received and if yes handle it correctly ..." alt="" coords="505,23,719,65"/>
+<area shape="rect" id="node4" href="$da/dc2/generic__networkhandler_8h.html#a2f01af81d3e5018d9980e2bc28c9078a" title="NetworkHandlerProcessOnce" alt="" coords="768,31,963,57"/>
+<area shape="rect" id="node5" href="$d5/dcb/MINGW_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1051,5,1101,32"/>
+<area shape="rect" id="node6" href="$d9/dfb/POSIX_2main_8c.html#a14982bc20347a462f767f58c18142919" title="Signal handler function for ending stack execution. " alt="" coords="1011,56,1141,83"/>
+<area shape="rect" id="node7" href="$d9/dfb/POSIX_2main_8c.html#ad338a7dbc41dc40bcecd0479377ef207" title="main" alt="" coords="1189,56,1240,83"/>
 </map>

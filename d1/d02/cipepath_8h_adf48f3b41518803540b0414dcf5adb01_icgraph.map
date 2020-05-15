@@ -1,8 +1,5 @@
 <map id="GetPathLogicalSegmentLogicalFormat" name="GetPathLogicalSegmentLogicalFormat">
-<area shape="rect" id="node2" href="$d1/d02/cipepath_8h.html#aec3040041f35cce28dfb9127869e5f6e" title="CipEpathGetLogicalValue" alt="" coords="257,42,428,69"/>
-<area shape="rect" id="node3" href="$d5/d35/cipconnectionmanager_8c.html#ad7b34359aea58ef8d4e77008ea53098f" title="Parse the connection path of a forward open request. " alt="" coords="476,42,625,69"/>
-<area shape="rect" id="node4" href="$d5/d35/cipconnectionmanager_8c.html#af379a4b383c738a07d8e1ab0a4ac7510" title="Handles a Non Null Non Matching Forward Open Request. " alt="" coords="673,35,860,76"/>
-<area shape="rect" id="node5" href="$d5/d35/cipconnectionmanager_8c.html#a7eaeec6cc54d1799cfaba4031f0168d1" title="Handles a Non Null Matching Forward Open Request. " alt="" coords="908,5,1119,47"/>
-<area shape="rect" id="node6" href="$d5/d35/cipconnectionmanager_8c.html#a8da18334cfde58434b845b0968620811" title="Handles a Null Matching Forward Open request. " alt="" coords="1167,56,1353,97"/>
-<area shape="rect" id="node7" href="$d5/d35/cipconnectionmanager_8c.html#ad68060facbfe52b38428a40da630651b" title="Handles a Null Non Matching Forward Open Request. " alt="" coords="1401,85,1612,127"/>
+<area shape="rect" id="node2" href="$d1/d02/cipepath_8h.html#aec3040041f35cce28dfb9127869e5f6e" title="CipEpathGetLogicalValue" alt="" coords="259,12,429,39"/>
+<area shape="rect" id="node3" href="$d5/d35/cipconnectionmanager_8c.html#ad7b34359aea58ef8d4e77008ea53098f" title="Parse the connection path of a forward open request. " alt="" coords="477,12,627,39"/>
+<area shape="rect" id="node4" href="$d5/d35/cipconnectionmanager_8c.html#af379a4b383c738a07d8e1ab0a4ac7510" title="Handles a Non Null Non Matching Forward Open Request. " alt="" coords="675,5,861,46"/>
 </map>

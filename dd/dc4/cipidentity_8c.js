@@ -1,10 +1,10 @@
 var cipidentity_8c =
 [
     [ "CipIdentityInit", "dd/dc4/cipidentity_8c.html#a374cdadb1e6f8d07acb7044a176eb6b2", null ],
-    [ "CipIdentitySetExtendedDeviceStatus", "dd/dc4/cipidentity_8c.html#a968217bec0120298bf0dcad15357471d", null ],
+    [ "CipIdentitySetExtendedDeviceStatus", "dd/dc4/cipidentity_8c.html#acbaf9efdda5235c28eae1b832444332d", null ],
     [ "InitializeCipIdentiy", "dd/dc4/cipidentity_8c.html#a5fc7e7b16b1a6f9c8c02a2700e77feb5", null ],
-    [ "SetDeviceSerialNumber", "d2/dc9/group__CIP__API.html#ga696952d9dbc1b6fdedf517aa55f94323", null ],
-    [ "SetDeviceStatus", "d2/dc9/group__CIP__API.html#ga2113be94f1eab4f25770d975abe6015c", null ],
+    [ "SetDeviceSerialNumber", "dd/dc4/cipidentity_8c.html#ga696952d9dbc1b6fdedf517aa55f94323", null ],
+    [ "SetDeviceStatus", "dd/dc4/cipidentity_8c.html#ga2113be94f1eab4f25770d975abe6015c", null ],
     [ "device_type_", "dd/dc4/cipidentity_8c.html#af844bd974a294ebe1eb06996ec9fbe03", null ],
     [ "product_code_", "dd/dc4/cipidentity_8c.html#aa02b53cc558aee887ae34996f9dbe1fb", null ],
     [ "product_name_", "dd/dc4/cipidentity_8c.html#a31a04dc4760074cc3ab21b16fe5323fe", null ],

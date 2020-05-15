@@ -1,15 +1,15 @@
 <map id="src/ports/POSIX/networkhandler.c" name="src/ports/POSIX/networkhandler.c">
-<area shape="rect" id="node10" href="$d0/d47/networkhandler_8h.html" title="networkhandler.h" alt="" coords="1197,379,1319,405"/>
-<area shape="rect" id="node16" href="$df/d94/opener__error_8h.html" title="This file includes the prototypes for error resolution functions like strerror_r or WSAGetLastError..." alt="" coords="1445,80,1551,107"/>
-<area shape="rect" id="node17" href="$d1/d1b/trace_8h.html" title="Tracing infrastructure for OpENer. " alt="" coords="1575,80,1637,107"/>
-<area shape="rect" id="node18" href="$d7/df9/encap_8h.html" title="This file contains the public interface of the encapsulation layer. " alt="" coords="940,80,1008,107"/>
-<area shape="rect" id="node11" href="$d7/d69/typedefs_8h.html" title="typedefs.h" alt="" coords="1118,453,1201,480"/>
-<area shape="rect" id="node19" href="$d1/d6c/cipconnectionobject_8h.html" title="cipconnectionobject.h" alt="" coords="900,155,1048,181"/>
-<area shape="rect" id="node20" href="$df/d28/ciptypes_8h.html" title="ciptypes.h" alt="" coords="890,304,973,331"/>
-<area shape="rect" id="node23" href="$d4/d38/opener__api_8h.html" title="opener_api.h" alt="" coords="1062,229,1158,256"/>
-<area shape="rect" id="node26" href="$d9/d31/doublylinkedlist_8h.html" title="doublylinkedlist.h" alt="" coords="707,229,830,256"/>
-<area shape="rect" id="node27" href="$d0/d23/cipelectronickey_8h.html" title="cipelectronickey.h" alt="" coords="893,379,1020,405"/>
-<area shape="rect" id="node28" href="$d1/d02/cipepath_8h.html" title="cipepath.h" alt="" coords="854,229,937,256"/>
-<area shape="rect" id="node21" href="$d8/d2c/enipmessage_8h.html" title="enipmessage.h" alt="" coords="759,379,869,405"/>
-<area shape="rect" id="node25" href="$d6/d52/ciperror_8h.html" title="ciperror.h" alt="" coords="1149,304,1225,331"/>
+<area shape="rect" id="node6" href="$d6/d33/POSIX_2networkhandler_8h.html" title="networkhandler.h" alt="" coords="370,80,491,107"/>
+<area shape="rect" id="node15" href="$df/d94/opener__error_8h.html" title="This file includes the prototypes for error resolution functions like strerror_r or WSAGetLastError..." alt="" coords="515,80,620,107"/>
+<area shape="rect" id="node16" href="$d1/d1b/trace_8h.html" title="Tracing infrastructure for OpENer. " alt="" coords="1587,229,1649,256"/>
+<area shape="rect" id="node18" href="$d7/df9/encap_8h.html" title="This file contains the public interface of the encapsulation layer. " alt="" coords="645,80,712,107"/>
+<area shape="rect" id="node11" href="$d7/d69/typedefs_8h.html" title="typedefs.h" alt="" coords="599,379,680,405"/>
+<area shape="rect" id="node19" href="$d1/d6c/cipconnectionobject_8h.html" title="cipconnectionobject.h" alt="" coords="766,155,913,181"/>
+<area shape="rect" id="node20" href="$df/d28/ciptypes_8h.html" title="ciptypes.h" alt="" coords="1153,304,1235,331"/>
+<area shape="rect" id="node23" href="$d4/d38/opener__api_8h.html" title="opener_api.h" alt="" coords="863,229,959,256"/>
+<area shape="rect" id="node26" href="$d9/d31/doublylinkedlist_8h.html" title="doublylinkedlist.h" alt="" coords="983,229,1105,256"/>
+<area shape="rect" id="node27" href="$d0/d23/cipelectronickey_8h.html" title="cipelectronickey.h" alt="" coords="605,304,731,331"/>
+<area shape="rect" id="node28" href="$d1/d02/cipepath_8h.html" title="cipepath.h" alt="" coords="741,229,823,256"/>
+<area shape="rect" id="node22" href="$d8/d2c/enipmessage_8h.html" title="enipmessage.h" alt="" coords="1299,379,1409,405"/>
+<area shape="rect" id="node25" href="$d6/d52/ciperror_8h.html" title="ciperror.h" alt="" coords="951,304,1027,331"/>
 </map>

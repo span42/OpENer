@@ -3,7 +3,7 @@ var cipconnectionobject_8h =
     [ "cip_connection_object", "d2/da8/structcip__connection__object.html", "d2/da8/structcip__connection__object" ],
     [ "CIP_CONNECTION_OBJECT_CODE", "d1/d6c/cipconnectionobject_8h.html#afb2ba0230a759374bb331ee258ccec51", null ],
     [ "CipConnectionObject", "d1/d6c/cipconnectionobject_8h.html#a4d3da7ab056cd808b359bad6c1ad8716", null ],
-    [ "CipConnectionStateHandler", "d1/d6c/cipconnectionobject_8h.html#a9c7c8816b95d34e1dd88bbce7e597b1f", null ],
+    [ "CipConnectionStateHandler", "d1/d6c/cipconnectionobject_8h.html#a54fac9132bc63fdce902025c0827b6cf", null ],
     [ "ConnectionObjectConnectionSizeType", "d1/d6c/cipconnectionobject_8h.html#a80a4fddf099c758f6b992f4adc00775c", [
       [ "kConnectionObjectConnectionSizeTypeFixed", "d1/d6c/cipconnectionobject_8h.html#a80a4fddf099c758f6b992f4adc00775ca5a28dccfa51405f7ac35b5d6d3a509e8", null ],
       [ "kConnectionObjectConnectionSizeTypeVariable", "d1/d6c/cipconnectionobject_8h.html#a80a4fddf099c758f6b992f4adc00775ca66e7a5f5674ed1d420cfbd49abd778e7", null ]

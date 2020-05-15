@@ -1,11 +1,8 @@
 <map id="GetPathLogicalSegmentLogicalType" name="GetPathLogicalSegmentLogicalType">
-<area shape="rect" id="node2" href="$d1/d02/cipepath_8h.html#aaa27d71c8b2695044596be034bfbf9b6" title="Gets the Extended Logical Type of a Logical Segment EPath message. " alt="" coords="287,5,505,47"/>
-<area shape="rect" id="node3" href="$d1/d02/cipepath_8h.html#a73db576275384cc722a8346c4674a8db" title="Gets the Special Type Logical Type of a Logical Segment EPath message. " alt="" coords="293,71,499,112"/>
-<area shape="rect" id="node4" href="$d5/d35/cipconnectionmanager_8c.html#ad7b34359aea58ef8d4e77008ea53098f" title="Parse the connection path of a forward open request. " alt="" coords="1073,74,1223,101"/>
-<area shape="rect" id="node9" href="$d1/d02/cipepath_8h.html#a47d5d40a1e8a862c875efbfe7d49d059" title="Gets the Electronic Key format of a Logical Segment Special Type EPath message. " alt="" coords="553,71,775,112"/>
-<area shape="rect" id="node5" href="$d5/d35/cipconnectionmanager_8c.html#af379a4b383c738a07d8e1ab0a4ac7510" title="Handles a Non Null Non Matching Forward Open Request. " alt="" coords="1271,67,1457,108"/>
-<area shape="rect" id="node6" href="$d5/d35/cipconnectionmanager_8c.html#a7eaeec6cc54d1799cfaba4031f0168d1" title="Handles a Non Null Matching Forward Open Request. " alt="" coords="1505,37,1716,79"/>
-<area shape="rect" id="node7" href="$d5/d35/cipconnectionmanager_8c.html#a8da18334cfde58434b845b0968620811" title="Handles a Null Matching Forward Open request. " alt="" coords="1764,88,1951,129"/>
-<area shape="rect" id="node8" href="$d5/d35/cipconnectionmanager_8c.html#ad68060facbfe52b38428a40da630651b" title="Handles a Null Non Matching Forward Open Request. " alt="" coords="1999,117,2209,159"/>
-<area shape="rect" id="node10" href="$d1/d02/cipepath_8h.html#a8194b2888502980a0c2b3c15aee9722a" title="Gets the data for an Electronic Key of format 4 from the EPath message. " alt="" coords="823,96,1025,137"/>
+<area shape="rect" id="node2" href="$d1/d02/cipepath_8h.html#aaa27d71c8b2695044596be034bfbf9b6" title="Gets the Extended Logical Type of a Logical Segment EPath message. " alt="" coords="288,6,507,47"/>
+<area shape="rect" id="node3" href="$d1/d02/cipepath_8h.html#a73db576275384cc722a8346c4674a8db" title="Gets the Special Type Logical Type of a Logical Segment EPath message. " alt="" coords="294,71,501,113"/>
+<area shape="rect" id="node4" href="$d5/d35/cipconnectionmanager_8c.html#ad7b34359aea58ef8d4e77008ea53098f" title="Parse the connection path of a forward open request. " alt="" coords="1075,75,1224,101"/>
+<area shape="rect" id="node6" href="$d1/d02/cipepath_8h.html#a47d5d40a1e8a862c875efbfe7d49d059" title="Gets the Electronic Key format of a Logical Segment Special Type EPath message. " alt="" coords="555,71,776,113"/>
+<area shape="rect" id="node5" href="$d5/d35/cipconnectionmanager_8c.html#af379a4b383c738a07d8e1ab0a4ac7510" title="Handles a Non Null Non Matching Forward Open Request. " alt="" coords="1272,67,1459,109"/>
+<area shape="rect" id="node7" href="$d1/d02/cipepath_8h.html#a8194b2888502980a0c2b3c15aee9722a" title="Gets the data for an Electronic Key of format 4 from the EPath message. " alt="" coords="824,97,1027,138"/>
 </map>
