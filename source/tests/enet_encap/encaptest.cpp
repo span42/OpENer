@@ -38,12 +38,14 @@ TEST(EncapsulationProtocol, AnswerListIdentityRequest) {
   ENIPMessage outgoing_message;
   InitializeENIPMessage(&outgoing_message);
 
-  EncapsulationData receive_data;
+  EncapsulationData received_data;
+  memset(&received_data, 0, sizeof(received_data));
+
   CreateEncapsulationStructure(incoming_message,
                                sizeof(incoming_message),
-                               &receive_data);
+                               &received_data);
 
-  EncapsulateListIdentityResponseMessage(&receive_data, &outgoing_message);
+  EncapsulateListIdentityResponseMessage(&received_data, &outgoing_message);
 
 }
 
@@ -59,16 +61,18 @@ TEST(EncapsulationProtocol, AnswerListServicesRequest) {
   ENIPMessage outgoing_message;
   InitializeENIPMessage(&outgoing_message);
 
-  EncapsulationData recieved_data = {0};
+  EncapsulationData received_data;
+  memset(&received_data, 0, sizeof(received_data));
+
   CreateEncapsulationStructure(incoming_message,
                                sizeof(incoming_message),
-                               &recieved_data);
+                               &received_data);
 
-  HandleReceivedListServicesCommand(&recieved_data, &outgoing_message);
+  HandleReceivedListServicesCommand(&received_data, &outgoing_message);
 
 }
 
-TEST(EncapsulationProtocol, AnswerListInterfacesRequest) {
+IGNORE_TEST(EncapsulationProtocol, AnswerListInterfacesRequest) {
   CipOctet incoming_message[] = "";
 
   CipOctet expected_outgoing_message[] = "";
@@ -76,7 +80,9 @@ TEST(EncapsulationProtocol, AnswerListInterfacesRequest) {
   ENIPMessage outgoing_message;
   InitializeENIPMessage(&outgoing_message);
 
-  EncapsulationData received_data = {0};
+  EncapsulationData received_data;
+  memset(&received_data, 0, sizeof(received_data));
+
   CreateEncapsulationStructure(incoming_message,
                                sizeof(incoming_message),
                                &received_data);
@@ -95,7 +101,8 @@ TEST(EncapsulationProtocol, AnswerRegisterSessionRequestWrongProtocolVersion) {
   ENIPMessage outgoing_message;
   InitializeENIPMessage(&outgoing_message);
 
-  EncapsulationData received_data = {0};
+  EncapsulationData received_data;
+  memset(&received_data, 0, sizeof(received_data));
   CreateEncapsulationStructure(incoming_message,
                                sizeof(incoming_message),
                                &received_data);
@@ -112,10 +119,12 @@ TEST(EncapsulationProtocol, SendRRData) {
 
   CipOctet expected_outgoing_message[] = "";
 
-  ENIPMessage outgoing_message = {0};
+  ENIPMessage outgoing_message;
   InitializeENIPMessage(&outgoing_message);
 
-  EncapsulationData received_data = {0};
+  EncapsulationData received_data;
+  memset(&received_data, 0, sizeof(received_data));
+
   CreateEncapsulationStructure(incoming_message,
                                sizeof(incoming_message),
                                &received_data);

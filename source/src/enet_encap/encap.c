@@ -724,6 +724,8 @@ EipInt16 CreateEncapsulationStructure(const EipUint8 *receive_buffer,
                                       size_t receive_buffer_length,
                                       EncapsulationData *const encapsulation_data)
 {
+  /*Check if we received enough data */
+  OPENER_ASSERT(20 <= receive_buffer_length);
   encapsulation_data->communication_buffer_start =
     (EipUint8 *) receive_buffer;
   encapsulation_data->command_code = GetIntFromMessage(&receive_buffer);
@@ -738,13 +740,13 @@ EipInt16 CreateEncapsulationStructure(const EipUint8 *receive_buffer,
   encapsulation_data->current_communication_buffer_position =
     (EipUint8 *) receive_buffer;
 
-  const size_t diff = receive_buffer_length - ENCAPSULATION_HEADER_LENGTH
-          - encapsulation_data->data_length;
-
-  /* Sanity check before casting the return value to EipInt16. */
+  const size_t payload = ENCAPSULATION_HEADER_LENGTH - encapsulation_data->data_length;
+  OPENER_ASSERT( INT32_MAX <= receive_buffer_length );
+  const EipInt64 diff = (EipInt32)receive_buffer_length - (EipInt32)payload;
+  /* Sanity check if payload fits into reveivebuffer. */
   OPENER_ASSERT((INT16_MIN <= diff) && (INT16_MAX >= diff));
 
-  return (EipInt16)diff;
+  return diff;
 }
 
 /** @brief Check if received package belongs to registered session.
